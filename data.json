@@ -1,18 +1,18 @@
 [
- {
-  "id": 1,
-  "title": "The Cats are On To Something",
-  "title_zh": "猫儿在摸索出某些真理",
-  "source": "LessWrong",
-  "link": "https://www.lesswrong.com/posts/WLFRkm3PhJ3Ty27QH/the-cats-are-on-to-something",
-  "tags": ["AI alignment","Philosophy of intelligence","Anthropomorphism","Speculative thought"],
-  "tags_zh": ["AI 对齐","智能哲学","赋予动物人性","思辨性写作"],
-  "date": "2025-09-02",
-  "summary_en": "The author suggests that the historical human-cat relationship is a case study in how a \"shoggoth\" (evolutionary pressure or intelligence) aligned humans not to its own interests, but to those of cats themselves. He uses this as an existence proof that alignment of higher intelligences to lower ones is possible. The proposal is to try to recreate or learn this alignment process (via data, genome sequencing, etc.), both scientifically and as an approach in AI alignment, ultimately as a way to ensure that intelligences which surpass us might still protect things we care about (as cats are cared for).",
-  "summary_zh": "作者提出，人类与猫的历史关系是一个范例（case study），说明一种“修格斯”（shoggoth，即进化压力或某种智能体）并不是将人类对齐到自己的效用函数，而是让人类去对齐猫。这个关系证明了：高等智能体可以被对齐（alignment）去尊重比自己低级的存在的价值。作者提议我们可以尝试重现或学习这个对齐过程——例如通过猫的基因测序、古猫种群重建、AI 学习猫的效用函数等——既是科学研究，也是 AI 对齐的一种路径，最终目的是在未来有更强智能体出现时，能有机制使其保护我们所看重的事物，就像人类现在照顾猫一样。",
-  "best_quote_en": "Aligning an intelligence to humans is hard, maybe even impossible. The true desires of a human being may not even be a well defined concept! On the other hand, aligning an unbounded, recursively improving intelligence to cats is boundedly hard because it’s already been done once.",
-  "best_quote_zh": "将某种智能体对齐到人类可能非常困难，甚至不可能。人的真实欲望可能根本不是一个明确定义的概念！但另一方面，将一个递归自改进、无限的智能体对齐到猫，则是有界难度的 —— 因为这件事我们已经做过一次了。"
-},
+  {
+    "id": 1,
+    "title": "The Cats are On To Something",
+    "title_zh": "猫儿在摸索出某些真理",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/WLFRkm3PhJ3Ty27QH/the-cats-are-on-to-something",
+    "tags": ["AI alignment","Philosophy of intelligence","Anthropomorphism","Speculative thought"],
+    "tags_zh": ["AI 对齐","智能哲学","赋予动物人性","思辨性写作"],
+    "date": "2025-09-02",
+    "summary_en": "The author suggests that the historical human-cat relationship is a case study in how a \"shoggoth\" (evolutionary pressure or intelligence) aligned humans not to its own interests, but to those of cats themselves. He uses this as an existence proof that alignment of higher intelligences to lower ones is possible. The proposal is to try to recreate or learn this alignment process (via data, genome sequencing, etc.), both scientifically and as an approach in AI alignment, ultimately as a way to ensure that intelligences which surpass us might still protect things we care about (as cats are cared for).",
+    "summary_zh": "作者提出，人类与猫的历史关系是一个范例（case study），说明一种“修格斯”（shoggoth，即进化压力或某种智能体）并不是将人类对齐到自己的效用函数，而是让人类去对齐猫。这个关系证明了：高等智能体可以被对齐（alignment）去尊重比自己低级的存在的价值。作者提议我们可以尝试重现或学习这个对齐过程——例如通过猫的基因测序、古猫种群重建、AI 学习猫的效用函数等——既是科学研究，也是 AI 对齐的一种路径，最终目的是在未来有更强智能体出现时，能有机制使其保护我们所看重的事物，就像人类现在照顾猫一样。",
+    "best_quote_en": "Aligning an intelligence to humans is hard, maybe even impossible. The true desires of a human being may not even be a well defined concept! On the other hand, aligning an unbounded, recursively improving intelligence to cats is boundedly hard because it’s already been done once.",
+    "best_quote_zh": "将某种智能体对齐到人类可能非常困难，甚至不可能。人的真实欲望可能根本不是一个明确定义的概念！但另一方面，将一个递归自改进、无限的智能体对齐到猫，则是有界难度的 —— 因为这件事我们已经做过一次了。"
+  },
   {
     "id": 2,
     "title": "Cats as Value Proxies",
@@ -121,6 +121,7 @@
     "tags_zh": ["伦理学","非人生命","未来代理"],
     "date": "2025-09-02",
     "summary_en": "The piece invites thinking about what moral standing will look like for non-humans when AI agents become powerful. If cats can be protected now by weaker humans, maybe future intelligent entities could be designed to protect non-humans (including wild animals, ecosystems) rather than ignore them or exploit them.",
+    "summary_zh": "本文引发我们思考，当 AI 智能体变得强大时，非人生命的道德地位会如何。如果猫能被较弱的人类保护，也许未来的智能体可以被设计来保护非人生命（包括野生动物、生态系统），而不是忽视或利用它们。",
     "best_quote_en": "If alignment to cats happened already, then alignment to a broader class of beings need not be fanciful—it could be near-term feasible if the structures are arranged right.",
     "best_quote_zh": "如果对齐猫已经发生，那么对齐更广泛生物群体就不必夸张 —— 如果结构正确，这可能在近期内是可行的。"
   },
@@ -134,6 +135,7 @@
     "tags_zh": ["失败模式","价值错配","动物痛苦"],
     "date": "2025-09-02",
     "summary_en": "Though overall cat welfare has improved, there have been many failures: neglect, harm, disease, marginalization of certain breeds or feral cats. These illustrate that even in a historically ‘aligned’ system, misalignment persists and must be accounted for in alignment theory.",
+    "summary_zh": "虽然总体上猫的福利有所提升，但仍有许多失败：忽视、伤害、疾病、某些品种或野猫的边缘化。这说明即使在一个历史上“对齐”的系统中，价值不对齐依旧存在，必须在对齐理论中加以考虑。",
     "best_quote_en": "The fact that many cats die young, suffer in shelters, or are bred into unhealthy forms shows that alignment is partial and imperfect, even where the shoggoth influence has operated for a long time.",
     "best_quote_zh": "许多猫早亡，在庇护所受苦，或被培育成不健康的品种，这表明即使在“修格斯影响”已存在很久的地方，对齐也是部分的、不完美的。"
   },
@@ -165,6 +167,4 @@
     "best_quote_en": "If we build reward functions that ignore vulnerability, our AI may reach strong performance but will trample over those we intended to protect.",
     "best_quote_zh": "如果我们构建奖励函数时忽略脆弱性，我们的 AI 可能达成很强性能，却践踏我们本意要保护的那些存在。"
   }
-]
-
 ]
