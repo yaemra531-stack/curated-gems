@@ -13,7 +13,6 @@
   "best_quote_en": "Aligning an intelligence to humans is hard, maybe even impossible. The true desires of a human being may not even be a well defined concept! On the other hand, aligning an unbounded, recursively improving intelligence to cats is boundedly hard because it’s already been done once.",
   "best_quote_zh": "将某种智能体对齐到人类可能非常困难，甚至不可能。人的真实欲望可能根本不是一个明确定义的概念！但另一方面，将一个递归自改进、无限的智能体对齐到猫，则是有界难度的 —— 因为这件事我们已经做过一次了。"
 },
- [
   {
     "id": 2,
     "title": "Cats as Value Proxies",
