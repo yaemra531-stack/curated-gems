@@ -176,7 +176,7 @@ window.__countsForCurrentQuery = counts;
     // 彩蛋：输入 magic 试试看
 if (query === 'magic') {
   alert('✨ 哇！你发现了隐藏功能！');
-}
+    }
 }
 
 /**
@@ -194,7 +194,7 @@ function renderSources(list) {
               ? `📚 全部 (${n})`
               : `📚 All (${n})`)
           : `✨ ${source} (${n})`;
-
+        const isActive = source === activeSource ? 'active' : '';
         return `<span class="tag ${isActive}" data-source="${source}">${esc(displayText)}</span>`;
     }).join('');
 }
