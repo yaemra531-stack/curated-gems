@@ -2203,4 +2203,20 @@
     "summary_zh": "KK的这篇《视觉参考》深入探讨了实体视觉参考书的独特魅力与持久价值。作为一名视觉思考者，作者认为这些书籍是激发想象力的宝库，其丰富、稀有且不易过时的图像内容，是数字屏幕无法取代的。他精选并推荐了一系列“不那么显而易见”的视觉书籍，从异域文化图鉴到奇幻插画，再到街头艺术，强调它们如何拓宽视野，提供源源不断的创意灵感。这不仅仅是关于书单，更是对纸质媒介在数字时代中独特地位的深思，以及如何通过构建个人图书馆来积累“工作宝藏”的深刻洞察。",
     "best_quote_en": "These reference books will be the last to be replaced by digital screens, and they will still work perfectly well in the next century — no obsolescence. If you can find space to keep them, a good reference library is a working treasure.",
     "best_quote_zh": "这些参考书将是最后一批被数字屏幕取代的，它们在下个世纪仍将完美运行——永不淘汰。如果你能找到空间存放它们，一个好的参考图书馆就是一份活生生的宝藏。"
+  },
+
+  {
+    "id": 96,
+    "title": "Atomic Habits",
+    "title_zh": "原子习惯",
+    "source": "James Clear",
+    "link": "https://jamesclear.com/atomic-habits",
+    "tags": ["habits", "self-improvement"],
+    "tags_zh": ["习惯", "自我提升"],
+    "date": "2024-01-01",
+    "summary_en": "A practical guide to building good habits and breaking bad ones.",
+    "summary_zh": "一本关于养成好习惯和打破坏习惯的实用指南。",
+    "best_quote_en": "You do not rise to the level of your goals. You fall to the level of your systems.",
+    "best_quote_zh": "你不会达到目标的高度，而是会跌落到系统的水平。"
   }]
+  
