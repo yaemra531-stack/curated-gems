@@ -1,4 +1,19 @@
-[{
+[
+  {
+  "id": 999,
+  "title": "我的第一个收藏",
+  "title_zh": "我的第一个收藏",
+  "source": "我的网站",
+  "link": "https://example.com",
+  "tags": ["test"],
+  "tags_zh": ["测试"],
+  "date": "2025-09-30",
+  "summary_en": "This is the first item I added myself.",
+  "summary_zh": "这是我亲自添加的第一条内容。",
+  "best_quote_en": "Success!",
+  "best_quote_zh": "成功！"
+},
+  {
     "id": 1,
     "title": "‘You are worthy and deserving of help’: six practical ways to navigate medical misogyny",
     "title_zh": "“你值得也应该得到帮助”：应对医疗性别歧视的六种实用方法",
