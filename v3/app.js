@@ -406,33 +406,40 @@ function getTagStats(list) {
 }
 
 // 渲染标签（优化版）
+// 这是 renderTags 函数的原始代码
+// 渲染标签（优化版）- 这是修正后的最终版本
 function renderTags(list) {
   const lang = window.currentLang || 'zh';
   const tagsField = lang === 'zh' ? 'tags_zh' : 'tags';
   const allTags = [...new Set(list.flatMap(item => item[tagsField] || item.tags || []))];
-  
-  // 统计每个标签的使用次数
-  // TODO: 学员任务 - 实现标签统计功能
-  // 提示：需要统计每个标签在当前列表中的使用次数
-  // 参考格式：const tagCounts = {};
+
+  // 步骤A：添加统计逻辑
   const tagCounts = {};
-  
+  list.forEach(item => {
+      const itemTags = item[tagsField] || item.tags || [];
+      itemTags.forEach(tag => {
+          tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+      });
+  });
+
   // 添加"全部"选项
   const allText = lang === 'zh' ? '全部' : 'All';
   const tags = [allText, ...allTags];
-  
-  // TODO: 学员任务 - 实现标签数量显示功能
-  // 提示：需要在标签后面显示使用次数，格式如 "AI (15)"
+
   $('#tags').innerHTML = tags.map(t => {
     const isAll = t === allText;
     const tagValue = isAll ? 'all' : t;
     const isActive = activeTags.has(tagValue);
-    // TODO: 在这里添加标签数量显示逻辑
-    return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">${esc(t)}</span>`;
+
+    // 步骤B：添加这一行
+    const count = isAll ? list.length : (tagCounts[t] || 0);
+
+    // 步骤C：使用这个新的 return 语句
+    return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">
+        ${esc(t)} <span class="tag-count">(${count})</span>
+    </span>`;
   }).join('');
 }
-
-// 清除所有标签筛选
 function clearAllTags() {
   activeTags.clear();
   activeTags.add('all');
@@ -460,8 +467,8 @@ function render(items) {
   if (items.length === 0) {
     listEl.innerHTML = '';
     const emptyTexts = {
-      zh: '没有找到匹配的文章，试试调整筛选条件？',
-      en: 'No articles found. Try adjusting your filters?'
+      zh: '🤔 暂时没找到，换个词试试？或许有惊喜',
+      en: '😅 No content found, try another keyword',
     };
     emptyEl.innerHTML = `<p>${emptyTexts[lang]}</p>`;
     emptyEl.style.display = 'block';
