@@ -1,38 +1,18 @@
 [
   {
-    "name": "Women | The Guardian",
-    "url": "http://theguardian.com/lifeandstyle/women/rss"
-  },
-  {
     "name": "Paul Graham",
     "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss"
   },
   {
-    "name": "LessWrong",
-    "url": "https://www.lesswrong.com/feed.xml"
+    "name": "经济学人",
+    "url": "https://www.economist.com/finance-and-economics/rss.xml"
   },
   {
-    "name": "The New Yorker",
-    "url": "https://www.newyorker.com/feed/news"
+    "name": "纽约客",
+    "url": "https://www.newyorker.com/feed/everything"
   },
   {
-    "name": "Wait But Why",
-    "url": "https://waitbutwhy.com/feed"
-  },
-  {
-    "name": "Kevin Kelly",
-    "url": "https://kk.org/cooltools/feed/"
-  },
-  {
-    "name": "Sam Altman",
-    "url": "https://blog.samaltman.com/posts.atom"
-  },
-  {
-    "name": "Huberman Lab",
-    "url": "https://feeds.megaphone.fm/hubermanlab"
-  },
-  {
-    "name": "Tim Ferriss",
-    "url": "https://tim.blog/feed/"
+    "name": "Hidden Brain",
+    "url": "https://feeds.npr.org/510308/podcast.xml"
   }
 ]
