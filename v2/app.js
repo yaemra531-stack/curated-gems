@@ -151,6 +151,8 @@ function applyAndRender() {
     }
     
     window.__countsForCurrentQuery = counts;
+    // 统计：当前搜索条件下，各数据源可见数量
+
     // 筛选数据
     view = raw.filter(item => {
         // 根据语言选择对应字段
@@ -190,11 +192,11 @@ function renderSources(list) {
     sourcesEl.innerHTML = list.map(source => {
         // 🌟 优化数据源显示文字
         const n = counts[source] || 0;
-        const displayText = source === 'all'
-          ? (lang === 'zh'
-              ? `📚 全部 (${n})`
-              : `📚 All (${n})`)
-          : `✨ ${source} (${n})`;
+const displayText = source === 'all'
+    ? (lang === 'zh'
+        ? `📚 全部 (${n})`
+        : `📚 All (${n})`)
+    : `✨ ${source} (${n})`;
 
         const isActive = source === activeSource ? 'active' : '';
 
@@ -210,12 +212,13 @@ function render(items) {
 
     // 处理空结果情况
     if (!items.length) {
+        const counts = window.__countsForCurrentQuery || { all: raw.length };
         listEl.innerHTML = '';
 
         // 😅 优化后的空结果提示 - 更友好、提供建议
         const emptyTexts = {
-            zh: '😅 没有找到相关内容，换个关键词试试吧， 或许会有惊喜',
-            en: '😅 No relevant content found, try different keywords'
+            zh: '🤔 暂时没找到，换个词试试？或许有惊喜',
+            en: '😅 No content found, try another keyword',
         };
 
         emptyEl.textContent = emptyTexts[lang];
@@ -237,8 +240,8 @@ function renderWithLanguage(items, lang) {
 
     // 更新搜索框提示文字
     const placeholder = lang === 'zh'
-        ? '🔍 输入关键词搜索精彩内容...'
-        : '🔍 Enter keywords to search amazing content...';
+        ? '👋 想找什么好东西？'
+        : '👋 What are you looking for?';
 
     if (searchEl) {
         searchEl.placeholder = placeholder;
