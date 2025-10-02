@@ -280,10 +280,10 @@ def extract_full_content(link, rss_content_html):
     elif isinstance(rss_content_html, str):
         content_from_rss = rss_content_html
 
-    if len(content_from_rss) > 1000:
-        cleaned_rss = clean_text_lines(content_from_rss)
-        optimized_rss = optimize_content_length(cleaned_rss)
-        return optimized_rss, "Content fully retrieved from RSS Feed."
+    #if len(content_from_rss) > 1000:
+    #    cleaned_rss = clean_text_lines(content_from_rss)
+    #    optimized_rss = optimize_content_length(cleaned_rss)
+    #    return optimized_rss, "Content fully retrieved from RSS Feed."
 
     # RSS content is short, try to scrape webpage
     headers = {'User-Agent': 'Mozilla/5.0'}
