@@ -370,27 +370,34 @@ body.dark-mode {
     gap: 8px; /* 增加标签之间的上下左右间隙，更美观 */
 }
 
-/* 修复：恢复标签的圆角矩形样式 */
-.tag {
-    display: inline-block; /* 确保 padding 等样式生效 */
-    padding: 6px 12px; /* 增加内边距，让文字不拥挤 */
-    background-color: #e9ecef; /* 设置一个浅灰色背景 */
-    color: #495057; /* 设置文字颜色 */
-    border-radius: 15px; /* 设置圆角，形成胶囊形状 */
-    font-size: 0.9em; /* 字体可以稍微小一点，更精致 */
-    margin-right: 8px; /* 增加右边距，确保标签之间不紧贴 */
-    margin-bottom: 8px; /* 确保换行时有垂直间距 */
+/* 修复：统一标签和筛选器的圆角矩形样式 */
+/* 使用逗号，让 .tag 和 .filter-item 共享同一套样式 */
+.tag,
+.filter-item {
+    display: inline-block;
+    padding: 6px 12px;
+    background-color: #e9ecef;
+    color: #495057;
+    border-radius: 15px;
+    font-size: 0.9em;
+    cursor: pointer;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    border: 1px solid transparent; /* 为保持对齐，添加一个透明边框 */
 }
 
-/* 激活状态的标签样式 */
-.tag.active {
-    background-color: #007bff; /* 激活时使用我们定义的主题蓝色 */
-    color: #ffffff; /* 文字变为白色 */
-    font-weight: bold; /* 字体加粗以示突出 */
+/* 激活状态的样式 */
+.tag.active,
+.filter-item.active {
+    background-color: #007bff;
+    color: #ffffff;
+    font-weight: bold;
+    border-color: #007bff; /* 激活时边框也有颜色 */
 }
 
-/* 修复美化后链接的默认样式 */
-.tag:hover {
+/* 悬停状态的样式 */
+.tag:hover,
+.filter-item:hover {
     text-decoration: none; /* 确保悬停时没有下划线 */
     filter: brightness(95%); /* 悬停时稍微变暗，提供反馈 */
 }
