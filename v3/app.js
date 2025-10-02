@@ -65,7 +65,17 @@ async function init() {
 
 async function loadData() {
   try {
-    const response = await fetch('../data.json');
+    // 环境检测：根据URL路径判断是否在GitHub Pages环境
+    let dataUrl;
+    if (window.location.pathname.includes('/curated-gems/')) {
+      // GitHub Pages环境
+      dataUrl = window.location.origin + '/curated-gems/data.json';
+    } else {
+      // 本地开发环境
+      dataUrl = './data.json';
+    }
+    
+    const response = await fetch(dataUrl);
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}: ${response.statusText}`);
     }
@@ -86,7 +96,7 @@ function mountControls() {
   const lang = window.currentLang || 'zh';
   const texts = {
     zh: {
-      search: '搜索文章标题、摘要...',
+      search: '👋 今天想看点什么？',
       sort: '排序方式',
 
       newest: '最新',
@@ -334,6 +344,10 @@ function applyAndRender() {
   
   render(view);
   updateFilterStatus();
+  // 第2课彩蛋
+if (searchEl?.value?.toLowerCase().trim() === 'magic') {
+  alert('✨ 你发现了一个隐藏的秘密！');
+}
 }
 
 // 更新筛选状态显示
@@ -460,7 +474,7 @@ function render(items) {
   if (items.length === 0) {
     listEl.innerHTML = '';
     const emptyTexts = {
-      zh: '没有找到匹配的文章，试试调整筛选条件？',
+      zh: '🤔 暂时没找到，换个词试试？',
       en: 'No articles found. Try adjusting your filters?'
     };
     emptyEl.innerHTML = `<p>${emptyTexts[lang]}</p>`;

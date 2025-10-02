@@ -1,38 +1,42 @@
 [
   {
-    "name": "Women | The Guardian",
-    "url": "http://theguardian.com/lifeandstyle/women/rss"
+    "name": "机器之心 (AI in China)",
+    "url": "https://www.jiqizhixin.com/rss"
   },
   {
-    "name": "Paul Graham",
-    "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss"
+    "name": "量子位 (AI news, Chinese)",
+    "url": "https://www.qbitai.com/feed"
   },
   {
-    "name": "LessWrong",
-    "url": "https://www.lesswrong.com/feed.xml"
+    "name": "OpenAI Blog (Official, English)",
+    "url": "https://openai.com/blog/rss"
   },
   {
-    "name": "The New Yorker",
-    "url": "https://www.newyorker.com/feed/news"
+    "name": "Hugging Face Blog (AI community, English)",
+    "url": "https://huggingface.co/blog/feed.xml"
   },
   {
-    "name": "Wait But Why",
-    "url": "https://waitbutwhy.com/feed"
+    "name": "36氪 - 创业与科技 (Chinese)",
+    "url": "https://36kr.com/feed"
   },
   {
-    "name": "Kevin Kelly",
-    "url": "https://kk.org/cooltools/feed/"
+    "name": "Morning Brew (Finance & Tech, Easy English)",
+    "url": "https://www.morningbrew.com/feed"
   },
   {
-    "name": "Sam Altman",
-    "url": "https://blog.samaltman.com/posts.atom"
+    "name": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "url": "https://fs.blog/feed/"
   },
   {
-    "name": "Huberman Lab",
-    "url": "https://feeds.megaphone.fm/hubermanlab"
+    "name": "得到 App 精选 (成长/认知, Chinese)",
+    "url": "https://rsshub.app/dedao/knowledge"
   },
   {
-    "name": "Tim Ferriss",
-    "url": "https://tim.blog/feed/"
+    "name": "The Financial Diet (Personal Finance, English)",
+    "url": "https://thefinancialdiet.com/feed/"
+  },
+  {
+    "name": "雪球 - 热门投资 (Finance, Chinese)",
+    "url": "https://rsshub.app/xueqiu/hot"
   }
 ]
