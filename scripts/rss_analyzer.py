@@ -429,8 +429,8 @@ Return a JSON object with exactly these fields:
 ```json
 {{
   "title_zh": "Chinese translation of title (keep original if already Chinese)",
-  "summary_en": "150-200 word English analysis focusing on core insights, implications, and critical evaluation. Write with intellectual curiosity and personal engagement.",
-  "summary_zh": "150-200 character Chinese analysis that reads like thoughtful commentary, not mere summary. Include personal reflection and broader significance.",
+  "summary_en": "A concise, single-sentence English summary, strictly under 30 words.",
+  "summary_zh": "一个精炼的、不超过 35 个汉字的单句中文摘要。",
   "best_quote_en": "Most insightful English quote from article (translate if originally Chinese)",
   "best_quote_zh": "Most insightful Chinese quote from article (translate if originally English)",
   "tags": ["value-based", "discoverable", "English", "tags"],
