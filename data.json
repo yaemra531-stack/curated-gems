@@ -217,4 +217,123 @@
     "best_quote_en": "Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.",
     "best_quote_zh": "多年以后，奥雷连诺上校站在行刑队面前，必将想起父亲带他去见识冰块的那个遥远的下午。"
   }
-]
+,{
+    "id": 16,
+    "title": "Murati翁荔陈丹琦公司发布首个产品，让大模型微调门槛暴降",
+    "title_zh": "Murati翁荔陈丹琦公司发布首个产品，让大模型微调门槛暴降",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/339082.html",
+    "tags": [
+      "update",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Thinking Machines Lab launches Tinker, making AI model fine-tuning as simple as modifying Python code.",
+    "summary_zh": "Thinking Machines Lab发布Tinker产品，使大模型微调像修改Python代码一样简单。",
+    "best_quote_en": "Tinker achieves an exceptional balance between abstraction and tunability, giving researchers 90% control over data, loss functions, and algorithms.",
+    "best_quote_zh": "Tinker在抽象化和可调性之间取得了卓越的平衡，让研究者保留了90%的控制权，主要涉及数据、损失函数和算法本身。"
+  },
+  {
+    "id": 17,
+    "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
+    "title_zh": "使用深度修剪草稿模型在英特尔®酷睿™Ultra上加速Qwen3-8B智能体",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/intel-qwen3-agent",
+    "tags": [
+      "update",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "Intel demonstrates how depth-pruned draft models with speculative decoding accelerate Qwen3-8B agent inference by 1.4x on Intel Core Ultra processors.",
+    "summary_zh": "英特尔展示如何通过深度修剪草稿模型和推测解码，在酷睿Ultra处理器上将Qwen3-8B智能体推理速度提升1.4倍。",
+    "best_quote_en": "This demonstrates how pruning + speculative decoding can unlock faster and more efficient inference—making local AI agents even more practical.",
+    "best_quote_zh": "这展示了修剪与推测解码如何解锁更快更高效的推理——使本地AI智能体更加实用。"
+  },
+  {
+    "id": 18,
+    "title": "消息称宗馥莉“心腹”严学峰被立案调查，涉嫌违纪",
+    "title_zh": "消息称宗馥莉“心腹”严学峰被立案调查，涉嫌违纪",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3491572717362312?f=rss",
+    "tags": [
+      "analyze",
+      "startup-funding",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业融资",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Yan Xuefeng, a close associate of Zong Fuli at Wahaha Group, is under investigation for disciplinary violations in Hangzhou.",
+    "summary_zh": "娃哈哈集团宗馥莉心腹严学峰因涉嫌违纪被杭州市纪委立案调查。",
+    "best_quote_en": "Yan Xuefeng is being investigated for personal reasons, according to a senior Wahaha Group executive.",
+    "best_quote_zh": "一名娃哈哈集团高层人士对财新表示，严学峰被调查是因为私人原因。"
+  },
+  {
+    "id": 19,
+    "title": "Meta will serve ads based on your AI chats",
+    "title_zh": "Meta将根据你的AI聊天内容投放广告",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/2025/10/02/meta-ads-based-on-ai-chats?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "update",
+      "ai-research",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Meta will use AI chatbot conversations for personalized advertising without opt-out options, following industry monetization trends.",
+    "summary_zh": "Meta将根据AI聊天内容推送个性化广告且无法选择退出，反映行业变现趋势。",
+    "best_quote_en": "Meta could soon use almost anything you say to its chatbot to try to sell you stuff more effectively on its platforms.",
+    "best_quote_zh": "Meta很快就能利用你与聊天机器人的几乎所有对话，在其平台上更有效地向你推销产品。"
+  },
+  {
+    "id": 20,
+    "title": "[Outliers] Ed Stack: Lessons from Dick’s Sporting Goods",
+    "title_zh": "【异类】埃德·斯塔克：迪克体育用品的经验教训",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/outliers-ed-stack/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "Ed Stack shares 11 business lessons from transforming his father's struggling store into a billion-dollar sporting goods empire.",
+    "summary_zh": "埃德·斯塔克分享11条商业经验，讲述如何将父亲的困境小店打造成数十亿美元的体育用品帝国。",
+    "best_quote_en": "Trust isn't earned in the easy times; it's earned in the fire.",
+    "best_quote_zh": "信任不是在轻松时刻赢得的；而是在烈火中赢得的。"
+  }]
