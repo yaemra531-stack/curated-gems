@@ -363,3 +363,9 @@ body.dark-mode {
     --accent-color: #5c7cfa;
     --hover-shadow: rgba(0, 0, 0, 0.3);
 }
+/* 修复：标签容器换行问题 */
+.tags {
+    display: flex;
+    flex-wrap: wrap; /* 允许标签在空间不足时自动换行 */
+    gap: 8px; /* 增加标签之间的上下左右间隙，更美观 */
+}
