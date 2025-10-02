@@ -2203,4 +2203,115 @@
     "summary_zh": "KK的这篇《视觉参考》深入探讨了实体视觉参考书的独特魅力与持久价值。作为一名视觉思考者，作者认为这些书籍是激发想象力的宝库，其丰富、稀有且不易过时的图像内容，是数字屏幕无法取代的。他精选并推荐了一系列“不那么显而易见”的视觉书籍，从异域文化图鉴到奇幻插画，再到街头艺术，强调它们如何拓宽视野，提供源源不断的创意灵感。这不仅仅是关于书单，更是对纸质媒介在数字时代中独特地位的深思，以及如何通过构建个人图书馆来积累“工作宝藏”的深刻洞察。",
     "best_quote_en": "These reference books will be the last to be replaced by digital screens, and they will still work perfectly well in the next century — no obsolescence. If you can find space to keep them, a good reference library is a working treasure.",
     "best_quote_zh": "这些参考书将是最后一批被数字屏幕取代的，它们在下个世纪仍将完美运行——永不淘汰。如果你能找到空间存放它们，一个好的参考图书馆就是一份活生生的宝藏。"
+  },{
+    "id": 96,
+    "title": "How People Get Rich Now",
+    "title_zh": "人们如今如何致富",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/richnow.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "This insightful analysis challenges conventional narratives about wealth accumulation by examining four decades of Forbes data. The most striking finding is the dramatic shift from inheritance-based fortunes in 1982 (60% of top 100) to entrepreneurship-driven wealth in 2020 (73% new fortunes), with tech companies becoming the primary vehicle for massive wealth creation. The article offers a sophisticated historical perspective, revealing that 1982—not 2020—was the anomaly, as the Gilded Age similarly featured technology-driven fortunes before J.P. Morgan's consolidation wave created a mid-century corporate oligopoly. The author compellingly argues that startup culture represents not a radical break but a return to historical norms, enabled by technological democratization, changing social attitudes, and evolving investor dynamics. What makes this particularly valuable is how it reframes economic inequality debates by showing that today's wealth comes from value creation through innovation rather than inheritance or resource extraction. The analysis of how falling startup costs, faster growth cycles, and shifting power balances between founders and investors create a self-reinforcing cycle that makes wealth creation through entrepreneurship increasingly accessible.",
+    "summary_zh": "这篇深度分析颠覆了我们对财富积累的传统认知。文章通过对比1982与2020年福布斯富豪榜，揭示了从继承财富到创业致富的根本转变——科技公司成为新财富的主要来源。最引人深思的是作者的历史视角：1982年才是异常时期，如今的创业潮实际上是回归镀金时代的技术驱动传统。这不仅解释了为何初创企业更容易成功，更重新定义了经济不平等的本质——今天的财富更多来自技术创新而非特权继承。这种历史循环的洞察让我们重新思考财富创造的底层逻辑。",
+    "best_quote_en": "\"The real question is why so few people had gotten rich from starting companies in 1982. The answer is that even as the Herald Tribune's list was being compiled, a wave of consolidation was sweeping through the American economy.\"",
+    "best_quote_zh": "“真正的问题在于，为什么1982年很少有人通过创办公司致富。答案是，即使在《先驱论坛报》编制榜单时，一股整合浪潮正席卷美国经济。”"
+  },
+  {
+    "id": 97,
+    "title": "Exploring the Intricacies of Memory with Ada Limón",
+    "title_zh": "与艾达·利蒙一起探索记忆的复杂性",
+    "source": "纽约客",
+    "link": "https://www.newyorker.com/books/book-currents/exploring-the-intricacies-of-memory-with-ada-limon",
+    "tags": [
+      "update",
+      "writing-content",
+      "psychology",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "写作内容",
+      "心理学",
+      "案例研究"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Ada Limón's exploration of memory through literary recommendations offers a profound meditation on how personal and collective pasts shape our present identities. Her curated reading list—featuring Sigrid Nunez's pandemic-era reflections, Victoria Chang's epistolary interrogations, Crystal Wilkinson's culinary heritage, Ross Gay's delight-seeking practices, and Héctor Tobar's deconstruction of Latino identity—reveals memory not as static recollection but as active, contested narrative construction. What makes this collection particularly insightful is its multidimensional approach: memory emerges as biological inheritance (Chang), cultural preservation (Wilkinson), political mythology (Tobar), and conscious rewiring for joy (Gay). Limón's own experience of returning to her childhood home adds personal resonance, suggesting memory as both architectural and ephemeral. The works collectively challenge conventional trauma-focused memory studies, instead presenting remembrance as creative act, survival strategy, and tool for reimagining possibility. This curation demonstrates how literature serves as the ultimate memory technology—not merely recording the past, but transforming how we inhabit time itself.",
+    "summary_zh": "艾达·利蒙通过文学推荐对记忆进行的探索，深刻揭示了个人与集体记忆如何塑造当下身份。她从疫情时代的反思到族裔身份的解构，展现了记忆不是静态回忆，而是主动的叙事建构。特别值得注意的是这些作品如何将记忆呈现为创造性行为——从寻找日常喜悦到通过食物保存文化传承。利蒙重返童年居所的个人经历更让这场探讨充满共鸣，提醒我们记忆既是 是居住的时间建筑，也是重塑可能的工具。",
+    "best_quote_en": "This book illustrates what happens when you do that deep rewiring to find joy, to find curiosity. As it unfolds, you recognize that this whole exercise is about readjusting your consciousness to recall something beautiful.",
+    "best_quote_zh": "这本书展示了当你进行深度重新连接以寻找喜悦、寻找好奇心时会发生什么。随着展开，你会认识到这整个练习是关于调整你的意识，以回忆某些美好的事物。"
+  },
+  {
+    "id": 98,
+    "title": "Write Simply",
+    "title_zh": "简洁写作",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/simply.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "This insightful essay champions the virtue of simple writing as a vehicle for profound communication, arguing that clarity and accessibility enhance reader engagement and idea transmission. The author compellingly contrasts 'saltintesta'—where ideas leap directly into the mind—against the cumbersome 'fancy writing' that often obscures meaning or conceals intellectual emptiness. What makes this perspective particularly valuable is its ethical dimension: simple writing emerges as both a practical strategy and moral choice, respecting readers' cognitive energy while ensuring intellectual honesty. The piece thoughtfully addresses the global context of English readership and the timeless quality of clear prose, positioning simplicity not as stylistic minimalism but as rigorous craftsmanship. The author's personal revelation—that complex writing offends their aesthetic sensibilities—adds a refreshing layer of authenticity to what could have been merely pragmatic advice.",
+    "summary_zh": "这篇富有洞见的文章倡导简洁写作的深刻价值，认为清晰易懂的表达能增强读者参与度和思想传递效果。作者巧妙提出'跃入脑海'的写作理念，反对华而不实的文风——后者常掩盖思想空虚。简洁写作不仅是实用策略，更是道德选择：它尊重读者认知精力，确保思想真诚。文章特别考量了全球英语读者的处境，并指出简洁文字的永恒价值。作者坦言复杂句式和浮夸词汇会冒犯其审美直觉，这种个人反思使实用建议更具说服力。",
+    "best_quote_en": "The less energy they expend on your prose, the more they'll have left for your ideas.",
+    "best_quote_zh": "读者在你的文字上耗费的精力越少，留给理解你思想的精力就越多。"
+  },
+  {
+    "id": 99,
+    "title": "Daily Cartoon: Wednesday, October 1st",
+    "title_zh": "每日漫画：2025年10月1日，星期三",
+    "source": "纽约客",
+    "link": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-october-1st-hello-boys-im-back",
+    "tags": [
+      "update",
+      "society"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "This cartoon by Tyson Cole presents a humorous cultural commentary that cleverly references Randy Quaid's iconic scene from the film 'Independence Day,' where his character sacrifices himself to destroy an alien ship. The cartoon's caption—'and then Randy Quaid yells, 'Hello, boys, I’m back!,' and flies his jet right into the alien ship, blowing it up, and I think you all just need to be more like that'—serves as a satirical call to action, mocking the tendency to glorify extreme, cinematic heroism in everyday contexts. It subtly critiques how pop culture shapes our perceptions of bravery and problem-solving, suggesting that real-life challenges rarely have such dramatic, single-handed solutions. The artwork likely amplifies this irony through visual exaggeration, making it both entertaining and thought-provoking. As a piece of social satire, it invites reflection on the absurdity of applying movie-style heroics to mundane situations, while also celebrating the enduring appeal of Quaid's memorable performance. This blend of humor and critique offers a light yet insightful take on modern cultural narratives.",
+    "summary_zh": "这幅漫画通过引用兰迪·奎德在《独立日》中的经典镜头，以幽默方式讽刺了日常生活中对极端英雄主义的盲目推崇。作者巧妙地将电影中的牺牲场景转化为对现实问题的荒谬建议，暗示我们常被流行文化误导，期待戏剧化解决方案。这不仅让人会心一笑，更引发对勇气本质的思考——真实世界更需要持久努力，而非瞬间壮举。",
+    "best_quote_en": "\"...and then Randy Quaid yells, 'Hello, boys, I’m back!,' and flies his jet right into the alien ship, blowing it up, and I think you all just need to be more like that.\"",
+    "best_quote_zh": "“……然后兰迪·奎德大喊：‘嗨，兄弟们，我回来了！’驾驶战机撞向外星飞船，将其炸毁，我觉得你们都该学着点。”"
+  },
+  {
+    "id": 100,
+    "title": "Donate Unrestricted",
+    "title_zh": "捐赠无限制",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/donate.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "leadership"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "领导管理"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "This insightful piece tackles the often-overlooked issue of restricted donations in the nonprofit sector, arguing that they are inherently suboptimal and stem from a fundamental misunderstanding of organizational expertise. The author posits that nonprofits, if competent, inherently possess superior knowledge of where funds are most needed, making donor-imposed restrictions a sign of either distrust or donating to an ineffective organization. The exceptions—umbrella organizations like universities or expert donors like the Gates Foundation—are noted but framed as rare cases. The analysis delves into the psychological and practical reasons donors favor restrictions, including desires for publicity, legacy, or simple ignorance, while highlighting the power imbalance that prevents nonprofits from advocating for unrestricted funds. This isn't just a critique; it's a call for a paradigm shift in philanthropic thinking, urging donors to prioritize impact over recognition and trust the organizations they support to allocate resources wisely. The argument challenges conventional donation practices with a compelling blend of logic and ethical consideration, making it a valuable read for anyone involved in or supporting the nonprofit world.",
+    "summary_zh": "这篇文章犀利地揭示了非营利领域‘限制性捐赠’的弊端，主张这种捐赠方式本质上是次优选择，因为它忽视了非营利组织对自身需求更深入的了解。作者指出，除非捐赠者是领域专家或资助伞式组织，否则无限制捐赠更能发挥资金效用。文章还剖析了捐赠者偏好限制性捐赠的心理动机——如追求名声或遵循惯例——以及非营利组织因资金焦虑而难以直言劝阻的困境。这不仅仅是一篇分析，更是一次对慈善理念的反思，呼吁捐赠者以信任取代控制，真正助力公益事业的有效开展。",
+    "best_quote_en": "If a nonprofit doesn't understand better than its donors where money needs to be spent, then it's incompetent and you shouldn't be donating to it at all.",
+    "best_quote_zh": "如果一个非营利组织在资金需求方面的理解不及其捐赠者，那么它就是无能的，你根本不应该向它捐款。"
   }]
