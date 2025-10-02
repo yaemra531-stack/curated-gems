@@ -2203,4 +2203,119 @@
     "summary_zh": "KK的这篇《视觉参考》深入探讨了实体视觉参考书的独特魅力与持久价值。作为一名视觉思考者，作者认为这些书籍是激发想象力的宝库，其丰富、稀有且不易过时的图像内容，是数字屏幕无法取代的。他精选并推荐了一系列“不那么显而易见”的视觉书籍，从异域文化图鉴到奇幻插画，再到街头艺术，强调它们如何拓宽视野，提供源源不断的创意灵感。这不仅仅是关于书单，更是对纸质媒介在数字时代中独特地位的深思，以及如何通过构建个人图书馆来积累“工作宝藏”的深刻洞察。",
     "best_quote_en": "These reference books will be the last to be replaced by digital screens, and they will still work perfectly well in the next century — no obsolescence. If you can find space to keep them, a good reference library is a working treasure.",
     "best_quote_zh": "这些参考书将是最后一批被数字屏幕取代的，它们在下个世纪仍将完美运行——永不淘汰。如果你能找到空间存放它们，一个好的参考图书馆就是一份活生生的宝藏。"
+  },{
+    "id": 96,
+    "title": "Tech bros want women to have more babies. But they’re going about it the wrong way | Emma Beddington",
+    "title_zh": "科技大佬希望女性多生孩子，但他们的方法完全错了 | 艾玛·贝丁顿",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/sep/28/birth-rates-women-babies-tech-bros",
+    "tags": [
+      "solve",
+      "society",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "Emma Beddington delivers a brilliant satirical critique of tech billionaires' superficial approaches to declining birthrates, exposing how figures like Elon Musk and JD Vance propose laughably inadequate solutions while ignoring systemic barriers. Her sharp analysis reveals the fundamental disconnect between privileged male perspectives and the lived realities of potential parents facing ecological crises, political instability, and inadequate support systems. Through inventive proposals ranging from 'birth row meals' to legally mandated mental load redistribution, Beddington demonstrates what genuine support for parents would actually require. The piece masterfully blends humor with serious social commentary, suggesting that real solutions involve addressing childcare costs, parental isolation, and the physical toll of childbirth rather than offering token financial incentives. Her most devastating insight lies in exposing how these self-proclaimed 'disruptors' lack imagination when confronting genuine human challenges beyond technological optimization.",
+    "summary_zh": "贝丁顿以犀利讽刺笔触揭露科技大佬们对生育率下降问题的肤浅认知，他们提出可笑的解决方案却忽视系统性障碍。文章精彩地展现了特权男性视角与普通父母现实困境之间的脱节——生态危机、政治不稳定、缺乏支持体系才是核心问题。作者通过从'产后大餐'到法律强制分担精神负担等创新提议，展示了真正支持父母需要什么。最深刻之处在于揭示这些自称'颠覆者'的人物，在超越技术优化的人类真正挑战面前竟如此缺乏想象力。",
+    "best_quote_en": "Unless you've solo wrangled multiple children with a postpartum core and undercarriage, you have no business having an opinion on anyone's womb.",
+    "best_quote_zh": "除非你独自带过多个孩子，同时还要应对产后的核心肌群和下身问题，否则你根本没资格对任何人的子宫发表意见。"
+  },
+  {
+    "id": 97,
+    "title": "How People Get Rich Now",
+    "title_zh": "当今人们如何致富",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/richnow.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "This analysis reveals a fundamental shift in wealth creation patterns from 1982 to 2020, where inheritance has been supplanted by entrepreneurship and investment as primary pathways to extreme wealth. The most striking insight is how 1982 represents the historical anomaly rather than 2020 - with the Gilded Age of 1892 showing similar entrepreneurial patterns to today. The author compellingly argues that J.P. Morgan's era of corporate consolidation temporarily suppressed startup formation, creating a misleading mid-century baseline for economic inequality comparisons. The rise of technology companies represents not just a sectoral shift but a qualitative change in how wealth is created, moving from deal-making and resource extraction to technological innovation. The piece thoughtfully explores why startup formation has accelerated: decreasing costs, social acceptance, and faster growth cycles create a powerful feedback loop where founders maintain more equity and companies reach billion-dollar valuations faster than ever before. This isn't merely a Reagan-era policy story but a deeper structural transformation of the economy that's reverting to historical norms of entrepreneurial wealth creation.",
+    "summary_zh": "这篇文章深刻揭示了财富创造模式的根本转变：从1982年的遗产继承主导变为2020年的创业投资主导。最发人深省的是作者指出1982年才是历史异常期，而非2020年——19世纪末的镀金时代与当今有着相似的创业模式。J.P.摩根时代的公司整合暂时压制了创业活动，形成了误导性的20世纪中期经济不平等基准。科技公司的崛起不仅是行业转移，更是财富创造方式的质变。创业成本降低、社会接受度提高和增长周期加速形成了良性循环，创始人能保留更多股权，公司更快达到十亿美元估值。这不仅是政策变化，更是经济结构的深层转型，回归到历史常态的创业致富路径。",
+    "best_quote_en": "\"So it's not 2020 that's the anomaly here, but 1982. The real question is why so few people had gotten rich from starting companies in 1982.\"",
+    "best_quote_zh": "“因此，异常的不是2020年，而是1982年。真正的问题是为什么在1982年很少有人通过创业致富。”"
+  },
+  {
+    "id": 98,
+    "title": "Is Donald Trump’s Sweeping Gaza Peace Plan Really Viable?",
+    "title_zh": "唐纳德·特朗普的全面加沙和平计划真的可行吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/is-donald-trumps-sweeping-gaza-peace-plan-really-viable",
+    "tags": [
+      "update",
+      "politics",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "深度分析"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "This analysis examines Trump's ambitious Middle East peace proposal with profound skepticism, questioning both its feasibility and underlying motivations. The twenty-point plan, announced with characteristic hyperbole as potentially 'one of the great days ever in civilization,' appears strategically timed and politically convenient for Netanyahu, who gains 'political gold' regardless of outcome. The plan's vagueness on critical details—withdrawal timelines, security arrangements, and governance structures—suggests more theater than substance. Expert voices from former negotiators highlight the plan's lack of granularity and Netanyahu's likely use of it as leverage for continued military operations. Particularly telling is the omission of West Bank issues and Iran's predictable rejection, revealing the proposal's narrow scope. The timing coinciding with Nobel Peace Prize considerations raises further questions about motivations. While offering temporary diplomatic theater, the plan seems designed more for domestic political consumption than genuine conflict resolution, given the profound differences between parties and absence of concrete implementation mechanisms.",
+    "summary_zh": "特朗普的加沙和平计划表面雄心勃勃，实则充满政治算计和操作空间。内塔尼亚胡无论结果如何都能获得'政治黄金'，而计划本身缺乏具体时间表、撤军地图和治理细节，使其更像是外交表演而非实质性突破。专家指出该计划忽略了两大关键问题：西岸定居点扩张和伊朗的坚决反对。时间点上恰逢诺贝尔和平奖公布前夕，更让人怀疑其真实动机。这份计划可能成为延续冲突的新工具，而非真正通向和平的道路。",
+    "best_quote_en": "\"Netanyahu will correctly assume he has plenty of wiggle room to turn an initial Israeli 'yes' into further derailing and spoiler moves during detailed talks,\" said Daniel Levy, a former Israeli negotiator.",
+    "best_quote_zh": "前以色列谈判代表丹尼尔·利维指出：\"内塔尼亚胡会正确地假设自己有足够的操作空间，将最初的以色列'同意'转变为详细谈判期间的进一步阻挠和破坏行动。\""
+  },
+  {
+    "id": 99,
+    "title": "What’s in my NOW? — Melissa Willis",
+    "title_zh": "我的当下有什么？——梅丽莎·威利斯",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-melissa-willis/",
+    "tags": [
+      "inspire",
+      "design",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Melissa Willis offers a deeply personal inventory of her current physical, digital, and invisible possessions that reveals a sophisticated philosophy of intentional living. Her selections—from a Stephen King-inspired anthology to custom leather journals and noise-cancelling earbuds—demonstrate how everyday objects can serve as portals to imagination, organization, and mental sanctuary. The digital tools like StoryGraph reflect a mature approach to reclaiming joy in reading without competitive pressures, while her nostalgic Star Trek rewatch becomes a structured ritual of self-discovery. Most profoundly, she anchors everything with Wisława Szymborska's poem about life's fragility, transforming what could be mere consumer recommendations into a meditation on how we curate our existence through objects, stories, and awareness of fortune's randomness. This isn't just a 'what's in my bag' list—it's a manifesto about constructing meaning through conscious choices in a chaotic world.",
+    "summary_zh": "梅丽莎·威利斯的个人物品清单超越了物质层面，展现了一种深思熟虑的生活哲学。从斯蒂芬·金衍生小说到手工皮面日记本，每件物品都承载着记忆、创造与精神庇护的功能。她使用StoryGraph重新找回阅读乐趣，系统化却不失从容；重温《星际迷航》则成为年龄里程碑前的仪式感。最动人的是她引用辛波丝卡关于生命偶然性的诗句，将日常选择升华为对存在意义的探索——我们如何通过精心挑选的物件、故事和意识，在混沌世界中构建属于自己的秩序与意义。",
+    "best_quote_en": "Luckily there was a wood. Luckily there were no trees. Luckily there was a rail, a hook, a beam, a brake, a frame, a bend, a millimeter, a second. Luckily a straw was floating on the surface.",
+    "best_quote_zh": "幸好有一片树林。幸好没有树。幸好有栏杆，有钩子，有横梁，有刹车，有框架，有转弯，有一毫米，有一秒钟。幸好水面上漂着一根稻草。"
+  },
+  {
+    "id": 100,
+    "title": "Sora 2",
+    "title_zh": "Sora 2",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/sora-2",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "Sora 2 represents a fascinating evolution in AI-driven creativity, positioning itself as a 'ChatGPT for creativity' moment that could trigger a Cambrian explosion in artistic expression. What makes this particularly compelling is the thoughtful balance between technological ambition and ethical responsibility. The team demonstrates remarkable self-awareness about potential pitfalls—addiction, bullying, and degenerate content optimization—while proposing concrete principles to mitigate these risks. The focus on long-term user satisfaction rather than mere engagement metrics is refreshing, as is the commitment to prioritize creation over passive consumption. The cameo feature allowing character consistency in videos suggests innovative social applications, though the success will depend on whether they can truly deliver on their promise to help users achieve meaningful goals rather than just optimizing for screen time. This feels like a mature approach to AI product development that acknowledges both transformative potential and societal responsibilities.",
+    "summary_zh": "Sora 2不仅是AI视频生成的技术突破，更代表了对创造性表达和社会责任的深度思考。开发团队清醒认识到成瘾性和滥用风险，提出以长期用户满意度为核心的伦理框架，这种自我反思在科技产品中难能可贵。他们试图平衡技术创新与人文关怀，让创作回归用户控制，而非单纯优化流量。这种对'创造性大爆发'的期待与对'AI内容退化'的警惕形成有趣张力，体现了科技公司难得的成熟度。",
+    "best_quote_en": "The majority of users, looking back on the past 6 months, should feel that their life is better for using Sora that it would have been if they hadn't.",
+    "best_quote_zh": "大多数用户在回顾过去六个月时，应该觉得使用Sora让他们的生活变得更好，而不是没有使用它。"
   }]
