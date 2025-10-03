@@ -453,4 +453,119 @@
     "summary_zh": "19世纪海蒂·格林通过逆向投资、极度节俭和独立自主成为美国最富有女性的传奇故事。",
     "best_quote_en": "\"I buy when things are low and nobody wants them. I keep them until they go up and people are crazy to get them.\"",
     "best_quote_zh": "“我在东西便宜没人要时买入，持有到价格上涨人们疯狂想要时卖出。”"
+  },{
+    "id": 26,
+    "title": "机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了",
+    "title_zh": "机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/339125.html",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Galaxy General Robotics introduces Any2Track, a framework enabling humanoid robots to precisely imitate human motions while maintaining stability under real-world disturbances.",
+    "summary_zh": "银河通用发布Any2Track框架，使人形机器人精准模仿人类动作并在干扰下保持稳定。",
+    "best_quote_en": "Any2Track not only allows robots to accurately imitate various complex human actions, but also adapts in real-time to real-world interference.",
+    "best_quote_zh": "Any2Track不仅能让机器人精确模仿各种人类复杂动作，还能实时适应各种真实世界的干扰。"
+  },
+  {
+    "id": 27,
+    "title": "SOTA OCR on-device with Core ML and dots.ocr",
+    "title_zh": "使用 Core ML 和 dots.ocr 在设备上实现 SOTA OCR",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/dots-ocr-ne",
+    "tags": [
+      "solve",
+      "ai-research",
+      "programming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "编程开发",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "A technical guide converting dots.OCR model to Core ML for on-device deployment with practical troubleshooting steps.",
+    "summary_zh": "技术指南：将 dots.OCR 模型转换为 Core ML，实现设备端部署及实用故障排除步骤。",
+    "best_quote_en": "Every year our hardware is a little more powerful, our models a little smarter for each parameter. In 2025, it is more feasible than ever to run truly competitive models on-device.",
+    "best_quote_zh": "每年我们的硬件都更强大一点，我们的模型在每个参数上都更智能一点。在2025年，在设备上运行真正具有竞争力的模型比以往任何时候都更加可行。"
+  },
+  {
+    "id": 28,
+    "title": "埃及央行宣布降息100个基点",
+    "title_zh": "埃及央行宣布降息100个基点",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3492769742822535?f=rss",
+    "tags": [
+      "update",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "Egypt's central bank cuts benchmark interest rates by 100 basis points for the fourth time this year.",
+    "summary_zh": "埃及央行连续第四次降息100基点，符合市场预期。",
+    "best_quote_en": "Egypt's central bank decided to cut the benchmark interest rate by 100 basis points, with adjusted overnight deposit and lending rates at 21% and 22% respectively.",
+    "best_quote_zh": "埃及中央银行货币政策委员会当天决定，将基准利率下调100个基点，调整后的隔夜存贷款利率分别为21%和22%。"
+  },
+  {
+    "id": 29,
+    "title": "Private company’s labor market data will have to do",
+    "title_zh": "私营公司劳动力市场数据将不得不使用",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/private-company-labor-market-data-will-have-to-do?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "update",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "With government shutdown delaying official jobs data, private ADP report showing 32,000 job losses becomes crucial for economic insights.",
+    "summary_zh": "政府停摆延迟官方就业数据，私营ADP报告显示失业3.2万成为关键经济参考。",
+    "best_quote_en": "That could mean the Fed will have to make its decision about whether to further cut interest rates in a few weeks without the benefit of the most recent data to guide them.",
+    "best_quote_zh": "这可能意味着美联储将在几周后决定是否进一步降息，而没有最新数据作为指导。"
+  },
+  {
+    "id": 30,
+    "title": "[Outliers] Hetty Green: The Witch of Wall Street",
+    "title_zh": "异类：华尔街女巫赫蒂·格林",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/outliers-hetty-green/",
+    "tags": [
+      "analyze",
+      "personal-finance",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "个人理财",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Hetty Green became America's richest woman through contrarian investing, extreme frugality, and maintaining massive cash reserves during financial panics.",
+    "summary_zh": "赫蒂·格林通过逆向投资、极度节俭和在金融危机中保持现金储备，成为美国最富有的女性。",
+    "best_quote_en": "\"I buy when things are low and nobody wants them. I keep them until they go up and people are crazy to get them.\"",
+    "best_quote_zh": "“我在东西便宜没人要时买入，一直持有到价格上涨人们疯狂抢购时卖出。”"
   }]
