@@ -336,4 +336,121 @@
     "summary_zh": "埃德·斯塔克分享11条商业经验，讲述如何将父亲的困境小店打造成数十亿美元的体育用品帝国。",
     "best_quote_en": "Trust isn't earned in the easy times; it's earned in the fire.",
     "best_quote_zh": "信任不是在轻松时刻赢得的；而是在烈火中赢得的。"
+  },{
+    "id": 21,
+    "title": "机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了",
+    "title_zh": "机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/339125.html",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Galaxy General's Any2Track enables robots to maintain stability while imitating human movements and adapting to real-world disturbances.",
+    "summary_zh": "银河通用Any2Track框架让机器人在模仿人类动作时保持稳定，并实时适应现实干扰。",
+    "best_quote_en": "Any2Track achieves zero-shot sim2real, making robots perform complex actions as steadily as an old dog.",
+    "best_quote_zh": "Any2Track实现了零样本sim2real，让机器人做起复杂动作来，依旧稳如老狗。"
+  },
+  {
+    "id": 22,
+    "title": "SOTA OCR on-device with Core ML and dots.ocr",
+    "title_zh": "SOTA OCR 在设备端通过 Core ML 和 dots.ocr 实现",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/dots-ocr-ne",
+    "tags": [
+      "solve",
+      "ai-research",
+      "programming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "编程开发",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "A technical guide converting dots.OCR to run on-device using Core ML and MLX, detailing model simplification and optimization challenges.",
+    "summary_zh": "技术指南：使用 Core ML 和 MLX 将 dots.OCR 转换为在设备端运行，详述模型简化与优化挑战。",
+    "best_quote_en": "The Neural Engine is 12x more power efficient than CPU and 4x more power efficient than GPU, making it ideal for on-device AI.",
+    "best_quote_zh": "神经引擎比 CPU 节能 12 倍，比 GPU 节能 4 倍，是设备端 AI 的理想选择。"
+  },
+  {
+    "id": 23,
+    "title": "岚图汽车递交港股上市申请",
+    "title_zh": "岚图汽车递交港股上市申请",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3491934452177792?f=rss",
+    "tags": [
+      "update",
+      "startup-funding",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业融资",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Lantu Auto applies for Hong Kong IPO with rapid revenue growth and plans to expand product lineup and retail network.",
+    "summary_zh": "岚图汽车申请港股上市，收入快速增长，计划扩大产品线和零售网络。",
+    "best_quote_en": "From 2022 to 2024, Lantu Auto achieved a compound growth rate of 78.9% in revenue.",
+    "best_quote_zh": "2022年至2024年，岚图汽车收入复合增速达78.9%。"
+  },
+  {
+    "id": 24,
+    "title": "Private company’s labor market data will have to do",
+    "title_zh": "私营公司劳动力市场数据将不得不使用",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/private-company-labor-market-data-will-have-to-do?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "update",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Private ADP jobs data shows unexpected September losses as government shutdown delays official BLS report, leaving economists and Fed without key labor insights.",
+    "summary_zh": "政府停摆期间，私营ADP就业数据显示九月意外下滑，替代官方报告为决策提供参考。",
+    "best_quote_en": "That could mean the Fed will have to make its decision about whether to further cut interest rates in a few weeks without the benefit of the most recent data to guide them.",
+    "best_quote_zh": "这可能意味着美联储将不得不在没有最新数据指导的情况下，决定是否在未来几周进一步降息。"
+  },
+  {
+    "id": 25,
+    "title": "[Outliers] Hetty Green: The Witch of Wall Street",
+    "title_zh": "异类：华尔街女巫海蒂·格林",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/outliers-hetty-green/",
+    "tags": [
+      "inspire",
+      "personal-finance",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "个人理财",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "The story of Hetty Green, who became America's richest woman in the 1800s through contrarian investing, extreme frugality, and fierce independence.",
+    "summary_zh": "19世纪海蒂·格林通过逆向投资、极度节俭和独立自主成为美国最富有女性的传奇故事。",
+    "best_quote_en": "\"I buy when things are low and nobody wants them. I keep them until they go up and people are crazy to get them.\"",
+    "best_quote_zh": "“我在东西便宜没人要时买入，持有到价格上涨人们疯狂想要时卖出。”"
   }]
