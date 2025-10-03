@@ -36,7 +36,51 @@
     "url": "https://thefinancialdiet.com/feed/"
   },
   {
-    "name": "雪球 - 热门投资 (Finance, Chinese)",
-    "url": "https://rsshub.app/xueqiu/hot"
+    "name": "AI 开发者日报",
+    "url": "https://ainews.liduos.com/feed.xml"
+  },
+  {
+    "name": "Google AI (Gemini)",
+    "url": "https://blog.google/technology/ai/rss/"
+  },
+  {
+    "name": "OpenAI Blog (GPT)",
+    "url": "https://openai.com/blog/rss.xml"
+  },
+  {
+    "name": "Anthropic (Claude) Updates",
+    "url": "https://www.anthropic.com/news/feed.xml"
+  },
+  {
+    "name": "DeepSeek AI Blog",
+    "url": "https://www.deepseek.com/blog/rss.xml"
+  },
+  {
+    "name": "Apple Developer News (iOS/macOS)",
+    "url": "https://developer.apple.com/news/rss/news.rss"
+  },
+  {
+    "name": "GitHub Changelog",
+    "url": "https://github.blog/changelog/feed/"
+  },
+  {
+    "name": "GitHub Product News",
+    "url": "https://github.blog/category/product/feed/"
+  },
+  {
+    "name": "Obsidian Changelog",
+    "url": "https://obsidian.md/changelog/feed.xml"
+  },
+  {
+    "name": "Obsidian Announcements",
+    "url": "https://forum.obsidian.md/c/announcements.rss"
+  },
+  {
+    "name": "飞书产品更新 (via RSSHub)",
+    "url": "https://rsshub.app/feishu/product-updates"
+  },
+  {
+    "name": "豆包AI资讯 (36Kr via RSSHub)",
+    "url": "https://rsshub.app/36kr/search/article/%E8%B1%86%E5%8C%85"
   }
 ]
