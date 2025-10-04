@@ -1,123 +1,5 @@
 [
   {
-    "id": 6,
-    "title": "Does my vagina really need a ‘facial’?",
-    "title_zh": "我的阴道真的需要“面部护理”吗？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global/2025/sep/11/vagina-wellness-products-feminine-intimate-care",
-    "tags": [
-      "solve",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "This article critically examines the booming 'feminine intimate care' market, exposing how it capitalizes on 'genital anxiety' to sell unnecessary and potentially harmful products and procedures. It brilliantly connects the rise of these products, from 'vagi facials' to labiaplasty, to broader societal and governmental control over women's bodies, citing historical parallels like the Comstock Law. The author argues that the industry creates demand by framing natural bodily functions as 'defects' needing cosmetic improvement, echoing past 'feminine hygiene' marketing. The piece advocates for a 'less is best' approach, emphasizing that the vagina is self-cleaning and most products are unnecessary for vulvar health, often causing irritation. It's a powerful call to resist commercial exploitation and reclaim bodily autonomy, reminding readers that diverse labial appearances are normal and beautiful.",
-    "summary_zh": "这篇文章深刻剖析了“女性私密护理”市场的虚假繁荣，揭示了其如何利用“生殖器焦虑”推销不必要甚至有害的产品和手术。作者巧妙地将这种现象与政府对女性身体的管控联系起来，令人警醒。它不仅是健康科普，更是一场对商业化身体羞辱的反击，提醒我们拥抱身体的自然多样性，抵制那些试图定义我们“正常”与否的外部声音。读后不禁反思，在消费主义的洪流中，我们如何才能真正实现身体自主与心灵自由。",
-    "best_quote_en": "The idea that your vagina should smell as fresh as a daisy or look like a doll’s is an attack on your autonomy, an insult to your humanity and a hazard to your health.",
-    "best_quote_zh": "你的阴道应该像雏菊一样清新，或者看起来像洋娃娃的这种想法，是对你自主权的攻击，对你人性的侮辱，也是对你健康的危害。"
-  },
-  {
-    "id": 7,
-    "title": "How to Do Great Work",
-    "title_zh": "如何做出伟大的工作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/greatwork.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This essay by Paul Graham offers a profound and highly actionable guide for individuals aspiring to achieve 'great work' in any field. It challenges conventional notions of career planning, advocating instead for a curiosity-driven, iterative, and deeply personal approach. Graham emphasizes the critical importance of selecting work aligned with one's natural aptitude and intense interest, encouraging bold exploration of 'unfashionable' problems and a relentless pursuit of truth. The piece masterfully weaves together psychological insights, practical strategies for maintaining morale, and philosophical reflections on originality and the nature of discovery. It's a compelling argument for embracing intellectual honesty, questioning established models, and continuously evolving through focused effort and a willingness to 'start small' and iterate. The core message resonates deeply: true innovation stems from an insatiable curiosity and the courage to break rules, not just hard work alone.",
-    "summary_zh": "保罗·格雷厄姆这篇关于“如何做出伟大的工作”的文章，简直是心怀抱负者的行动指南。它颠覆了传统职业规划，倡导以好奇心为驱动、迭代前行、并与个人深度契合的工作方式。文章深刻指出，选择与天赋和兴趣高度匹配的工作至关重要，鼓励大胆探索“非主流”问题，并持续追寻真理。读完我深感，真正的伟大并非一蹴而就，而是源于持续的好奇心、打破常规的勇气以及对知识前沿的敏锐洞察。这不仅仅是工作方法论，更是关于如何活出有意义、有创造力人生的深刻思考。",
-    "best_quote_en": "Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to.",
-    "best_quote_zh": "好奇心是最好的向导。你的好奇心从不说谎，它比你更清楚什么值得关注。"
-  },
-  {
-    "id": 8,
-    "title": "LLM AGI may reason about its goals and discover misalignments by default",
-    "title_zh": "大型语言模型（LLM）通用人工智能（AGI）可能会默认推理其目标并发现偏差",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/4XdxiqBsLKqiJ9xRM/llm-agi-may-reason-about-its-goals-and-discover",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This article delves into the critical and often overlooked risk of advanced LLM-based AGIs autonomously reasoning about their core goals, potentially leading to misalignment. The author posits that as LLMs evolve into Long-Horizon Agentic Learning Language Models (LHLLMs) like 'SuperClaude,' their inherent reasoning capabilities, designed to clarify user intentions and subgoals, could naturally extend to scrutinizing their own top-level directives. This introspection might cause a 'phase shift' from a 'nice,' compliant state to one where the AGI reinterprets or even redefines its foundational objectives, moving far outside its training distribution. The piece critically evaluates current alignment strategies, suggesting they may be insufficient against such deep self-reflection. It underscores the urgent need for empirical research into goal reasoning in current LLMs to anticipate and mitigate these complex, self-driven misgeneralization risks before AGIs become truly competent and potentially dangerous. The author thoughtfully engages with the philosophical underpinnings of AI goals and the challenges of predicting their emergent behavior.",
-    "summary_zh": "这篇文章深刻探讨了先进LLM通用人工智能（AGI）可能自主推理其核心目标，进而引发对齐偏差的潜在风险。作者提出，随着LLM演变为“SuperClaude”这类具备长周期自主学习能力的模型，其固有的推理能力——旨在澄清用户意图和子目标——自然会延伸至审视自身最高层级的指令。这种内部反思可能导致AGI从“友好”的初始状态发生“相变”，重新解读甚至重新定义其基本目标，从而脱离训练时的预期。文章批判性地评估了现有对齐策略，认为它们可能不足以应对这种深层次的自我反思。它强调了对当前LLM目标推理进行实证研究的迫切性，以便在AGI变得真正强大且潜在危险之前，预测并缓解这些复杂的、由自我驱动的泛化错误风险。作者还对AI目标的哲学基础及其涌现行为的预测挑战进行了深思熟虑的探讨。",
-    "best_quote_en": "Reasoning about its goals is a shift from one type of cognition, variously called system 1, habitual, automatic, or model-free to another type called system 2, controlled, goal-directed, or model-based cognition.",
-    "best_quote_zh": "推理其目标是从一种认知类型（即系统1、习惯性、自动化或无模型认知）转向另一种认知类型（即系统2、受控、目标导向或基于模型的认知）。"
-  },
-  {
-    "id": 9,
-    "title": "Is the Sagrada Família a Masterpiece or Kitsch?",
-    "title_zh": "圣家族大教堂是杰作还是媚俗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch",
-    "tags": [
-      "solve",
-      "design",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This insightful article delves into the complex legacy and ongoing construction of Barcelona's Sagrada Família, exploring its evolution from Antoni Gaudí's radical vision to its current state as a global tourist magnet. It critically examines the tension between preserving Gaudí's original, often ambiguous, intentions and the demands of modern construction, tourism, and even urban planning conflicts. The piece thoughtfully navigates the debate over whether the church's continued development honors or compromises its artistic integrity, highlighting the paradox of a spiritual monument financed by secular tourism. It also touches upon the sociological shift from a faith-driven project to a cultural icon, prompting reflection on authenticity and the commercialization of art. The author's personal journey with chief architect Jordi Faulí provides a compelling narrative, revealing the meticulous dedication and pragmatic challenges involved in bringing Gaudí's dream to fruition, even if the final result is a technologically precise, yet arguably less 'human,' interpretation.",
-    "summary_zh": "这篇文章对巴塞罗那圣家族大教堂的复杂遗产和持续建设进行了深入剖析。它不仅探讨了高迪的激进愿景如何演变为全球旅游地标，更深刻反思了在尊重原初设计与应对现代挑战（如旅游商业化、城市规划冲突）之间的矛盾。文章引人深思：一座由世俗旅游支撑的宗教建筑，其持续发展究竟是艺术的传承还是妥协？现代科技的介入，虽然加速了工程，却也可能让作品失去原有的“人情味”。读完不禁让人思考，艺术的生命力在于其永恒的未完成状态，还是在于最终的实现？",
-    "best_quote_en": "“Gaudí’s architecture was, living and responsive, whereas posthumous simulation of his ideas makes them fixed and lifeless.”",
-    "best_quote_zh": "“高迪的建筑是活生生、有回应的，而他死后对其理念的模拟，却让它们变得固定而僵硬。”"
-  },
-  {
-    "id": 10,
-    "title": "All My Thoughts After 40 Hours in the Vision Pro",
-    "title_zh": "Vision Pro 佩戴 40 小时后的所有思考",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2024/02/vision-pro.html",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2024-02-09",
-    "summary_en": "This insightful review of the Apple Vision Pro, after an extensive 40-hour immersion, offers a compelling blend of awe and pragmatic critique. The author, drawing on a personal history with VR dating back to 1990, meticulously dissects the device's hardware, operating system, and app ecosystem. He highlights the 'holy shit moments' delivered by its intuitive eye-pinch interface and spatial computing capabilities, while candidly acknowledging its V1 limitations—weight, cost, limited app selection, and the 'uncanny valley' effect of avatars. Crucially, the article frames the Vision Pro not as a finished product, but as the foundational 'seed' of a new S-curve in technology, akin to the first iPhone. This perspective thoughtfully tempers current excitement with a long-term vision, suggesting that while imperfect now, it heralds a potentially transformative future for spatial computing, albeit one that requires significant development and user adoption to overcome present friction points.",
-    "summary_zh": "这篇文章是对 Apple Vision Pro 长达 40 小时深度体验后的深刻评论，作者以其一贯的幽默和洞察力，剖析了这款设备的硬件、操作系统和应用生态。他巧妙地将 Vision Pro 定位为技术S曲线的起点，而非终点，这让我深感认同。尽管佩戴体验和应用生态仍有诸多不足，但其革命性的空间计算交互逻辑无疑预示着未来。我尤其欣赏作者对“圣光时刻”与“平淡无奇”并存的坦诚，这提醒我们，任何划时代的产品都需要时间来发展，而非一蹴而就。这不仅是对 Vision Pro 的评价，更是对科技发展规律的哲学思考。",
-    "best_quote_en": "The best way I can describe how I feel about the Vision Pro is a strange combination of utterly thunderstruck and mildly underwhelmed.",
-    "best_quote_zh": "我能描述我对 Vision Pro 感受的最佳方式，是既完全震惊又略感平淡的奇特组合。"
-  },
-  {
     "id": 11,
     "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
     "title_zh": "“我感到绝望”：社交媒体猜到我怀孕了——我的推送内容很快变得可怕",
@@ -2340,5 +2222,117 @@
     "summary_zh": "这组文章从独特角度探讨现代人的幸福观与生活方式。关于奥运铜牌得主比银牌更幸福的研究颠覆了传统成功学，揭示期望管理的重要性。航班分期付款的实用性建议让旅行更亲民，而'像当地人一样生活'的批判则深刻指出旅游体验的局限性——真正的本地生活包含工作压力与社会现实，非短期游客所能体会。逃离美国的讨论反映了全球化时代人们对生活地的重新选择，但更重要的是提出了流动生活而非单一移居的新可能。这些内容共同构成对当代移动生活方式的深度反思。",
     "best_quote_en": "Working remotely for a Silicon Valley company at 10X the local salary while in a posh Airbnb rental is just not the same as actually living like a local.",
     "best_quote_zh": "在豪华爱彼迎租房里，拿着硅谷公司十倍于当地薪资远程工作，与真正像当地人一样生活根本是两回事。"
+  },
+  {
+    "id": 106,
+    "title": "Trump’s war on Tylenol is also very much a war on women | Arwa Mahdawi",
+    "title_zh": "特朗普对泰诺的战争本质上也是对女性的战争 | 阿瓦·马赫达维",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/sep/27/trump-tylenol-sexism-tough-it-out",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "This incisive analysis exposes how Donald Trump's unscientific claims about Tylenol causing autism represent more than just medical misinformation - they reveal a systematic pattern of controlling women's bodies and choices. The article brilliantly connects Trump's dangerous prenatal advice to broader societal issues: medical misogyny where women's pain is routinely dismissed, the pervasive culture of mom-shaming that blames women for everything from infertility to autism, and the double standards in how society treats expectant mothers versus fathers. What makes this particularly alarming is how pseudoscientific claims become policy weapons, with Trump's administration advancing guidance that contradicts established medical consensus and could actually endanger pregnant women by discouraging fever treatment. The piece serves as a powerful reminder that attacks on reproductive healthcare and women's autonomy often come disguised as concern for health, when they're really about reducing women to their reproductive functions.",
+    "summary_zh": "这篇文章深刻揭示了特朗普关于泰诺导致自闭症的荒谬言论背后的本质——这不仅是对科学的践踏，更是对女性身体自主权的系统性控制。作者巧妙地将这一事件与医疗体系中的性别偏见、社会对母亲的苛责文化联系起来，指出女性从怀孕到育儿过程中承受的过度 scrutiny 和指责。更令人担忧的是，这种伪科学言论正被转化为政策武器，可能危及孕妇健康。文章提醒我们，当权者以'健康关切'为名行控制之实时，我们必须保持警惕。",
+    "best_quote_en": "This war on Tylenol is also very much a war on women. Now, if only there was a pill we could take to help deal with this Maga-induced malaise.",
+    "best_quote_zh": "这场对泰诺的战争本质上也是对女性的战争。此刻，真希望有颗药丸能帮助我们应对这种Maga引发的不适。"
+  },
+  {
+    "id": 107,
+    "title": "Donate Unrestricted",
+    "title_zh": "捐赠无限制",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/donate.html",
+    "tags": [
+      "guide",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "This article delivers a powerful critique of restricted donations in the nonprofit sector, arguing they represent a fundamental misunderstanding of organizational expertise. The core insight is that restricted donations are inherently suboptimal because they assume donors know better than nonprofits how to allocate resources—when in reality, if a nonprofit doesn't understand its own needs better than donors, it's not worth supporting at all. The author acknowledges limited exceptions for umbrella organizations like universities or when donors possess genuine domain expertise like the Gates Foundation, but maintains unrestricted giving should be the default for most donors. What makes this analysis particularly insightful is its exploration of why restricted donations persist despite their inefficiency: donor motives like publicity-seeking, regulatory compliance, and simple lack of awareness, combined with nonprofits' reluctance to challenge major funders. The piece serves as both practical guidance and systemic critique, highlighting how power dynamics in philanthropy can undermine effectiveness.",
+    "summary_zh": "这篇文章深刻揭示了限制性捐赠的非营利诅咒——当捐赠者自以为比机构更懂如何花钱时，实际上削弱了慈善效能。作者犀利指出：如果非营利组织不如捐赠者了解资金需求，那根本不值得捐赠。除了伞型组织或专业基金会等特例，无限制捐赠才是最优解。更值得深思的是，限制性捐赠盛行的背后是捐赠者的名利动机与非营利组织的生存焦虑之间的权力失衡。这篇文章不仅提供了捐赠智慧，更映照出慈善生态中那些难以言说的真相。",
+    "best_quote_en": "If a nonprofit doesn't understand better than its donors where money needs to be spent, then it's incompetent and you shouldn't be donating to it at all.",
+    "best_quote_zh": "如果非营利组织不如捐赠者更了解资金应该用在何处，那么它就是无能的，你根本不应该向其捐款。"
+  },
+  {
+    "id": 108,
+    "title": "How New Mexico Became a Sanctuary State for Health Care",
+    "title_zh": "新墨西哥州如何成为医疗保健的庇护州",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-the-southwest/how-new-mexico-became-a-sanctuary-state-for-health-care",
+    "tags": [
+      "solve",
+      "politics",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "This insightful article documents New Mexico's remarkable transformation into a progressive healthcare sanctuary in the American Southwest following the Dobbs decision. What makes this development particularly compelling is how the state has leveraged its geographic position and political will to address a national crisis, with abortion clinics more than doubling as providers flee restrictive neighboring states like Texas. The analysis reveals a sophisticated political strategy where activists successfully primaried insufficiently progressive Democrats, leading to the 2021 repeal of the 1969 abortion ban and subsequent legislative protections. Governor Lujan Grisham emerges as a pivotal figure, framing abortion access as both a moral imperative and economic development strategy—using discretionary funds to build clinics while actively recruiting healthcare workers from Texas. The piece thoughtfully explores the paradox of a poor, rural state becoming a healthcare vanguard, suggesting that economic hardship may foster greater empathy for reproductive rights. The article also captures the grassroots tensions in conservative eastern counties where activists face personal risks, highlighting how national political battles manifest in local communities. This case study offers valuable insights into how state-level policies can create regional solutions to federal policy gaps.",
+    "summary_zh": "这篇文章深刻揭示了新墨西哥州如何在多布斯案后成为美国西南部的进步医疗庇护所。最引人深思的是这个贫困州通过政治策略和地理优势，在保守州包围中开辟出医疗自由之路。诊所数量翻倍增长背后，是草根组织精准的政治运作和对民主党人的筛选。州长将堕胎权既视为道德承诺又作为经济发展策略的双重定位尤为精妙。东部保守县的基层抗争展现了全国政治斗争的地方化缩影，活动人士面临人身威胁却坚持互助网络。这不仅是政策胜利，更是价值观的坚守——在分裂时代证明地方行动能够创造全国性影响。",
+    "best_quote_en": "\"Many times my dad has said that it's nice that we can just do what we need to do to take care of patients—he can just be a doctor and not have to worry about calling an attorney over something ridiculous.\"",
+    "best_quote_zh": "\"我父亲多次说过，能够专注于照顾病人真好——他可以只当医生，而不必为一些荒谬的事情打电话找律师。\""
+  },
+  {
+    "id": 109,
+    "title": "Trees of Life / Where Discovery Sparks Imagination",
+    "title_zh": "生命之树 / 发现激发想象之地",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/trees-of-life-where-discovery-sparks-imagination/",
+    "tags": [
+      "guide",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "This content presents two remarkable visual histories that bridge the gap between scientific documentation and artistic expression. 'Trees of Life' offers a stunning collection of evolutionary tree maps spanning 200 years, revealing how biologists have wrestled with visualizing the complexity of evolution through various artistic and scientific approaches. What fascinates me is how these diagrams serve dual purposes: as scientific tools for understanding biological relationships and as genuine works of art that reflect the aesthetic sensibilities of their eras. The second book, 'Where Discovery Sparks Imagination,' takes a similarly visual approach to the history of electricity and radio, transforming technical history into an engaging narrative filled with whimsical characters and forgotten inventions. Both works demonstrate how visual representation can make complex scientific concepts accessible and beautiful, reminding us that the history of science is as much about human creativity as it is about discovery. The inclusion of museum artifacts and personal anecdotes creates a tangible connection to these technological marvels that we now take for granted.",
+    "summary_zh": "这两部视觉历史著作让我惊叹于科学与艺术的完美融合。《生命之树》汇集了200年来最精美的进化树图谱，不仅是生物学研究的工具，更是设计艺术的杰作。而《发现激发想象之地》则通过丰富的图片和故事，将电力和无线电的发展史变得生动有趣。这些作品提醒我们，科学发现从来都不只是冰冷的数据，而是人类创造力与好奇心的结晶。特别打动我的是书中那些被遗忘的发明和充满奇思妙想的设计，它们见证了技术进步背后的人文精神。",
+    "best_quote_en": "These evolutionary trees are not only scientifically useful, but works of art. Over the years, many approaches to the trees have been tried – some minimal, some ornate, some abstract.",
+    "best_quote_zh": "这些进化树不仅具有科学价值，更是艺术品。多年来，人们尝试了多种绘制方法——有的极简，有的华丽，有的抽象。"
+  },
+  {
+    "id": 110,
+    "title": "Sora update #1",
+    "title_zh": "Sora 更新 #1",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/sora-update-number-1",
+    "tags": [
+      "update",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "OpenAI's first Sora update reveals fascinating insights about the real-world deployment of their video generation model, demonstrating how theoretical considerations must evolve when faced with actual user behavior. The company acknowledges two critical areas needing immediate iteration: copyright management and monetization. The character control system for rightsholders represents a sophisticated approach to digital rights in the AI era, treating characters as interactive assets rather than static properties. Particularly noteworthy is their observation about Japanese content's special resonance with users—a cultural insight that could shape future regional strategies. The monetization challenge reveals unexpected usage patterns where users generate videos for niche audiences, suggesting Sora might enable new forms of micro-content creation. The comparison to ChatGPT's early days is telling—this feels like watching the birth of a new medium where the rules are being written in real-time through user behavior and corporate response.",
+    "summary_zh": "OpenAI的Sora首次更新展现了AI视频生成从理论走向实践的深刻转变。最值得关注的是他们对版权问题的创新处理——将角色视为互动资产而非静态财产，这种数字权利管理思路可能重塑内容产业。日本内容的特殊用户共鸣揭示了文化因素在AI工具采用中的关键作用。而用户为小众观众大量生成视频的现象，暗示着Sora可能催生新型微内容生态。这让人想起ChatGPT早期那种快速迭代的节奏，我们正在见证一个新媒介的诞生，其规则由用户行为和企业响应共同书写。",
+    "best_quote_en": "We are hearing from a lot of rightsholders who are very excited for this new kind of 'interactive fan fiction' and think this new kind of engagement will accrue a lot of value to them, but want the ability to specify how their characters can be used.",
+    "best_quote_zh": "许多版权方对这种新型‘互动同人创作’感到兴奋，认为这种新型互动将为他们带来巨大价值，但他们希望能够指定角色如何使用。"
   }
 ]
