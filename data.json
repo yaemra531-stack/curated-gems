@@ -1,123 +1,5 @@
 [
   {
-    "id": 11,
-    "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
-    "title_zh": "“我感到绝望”：社交媒体猜到我怀孕了——我的推送内容很快变得可怕",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/03/i-felt-doomed-social-media-guessed-i-was-pregnant-my-feed-soon-grew-horrifying",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-03",
-    "summary_en": "This article offers a chilling first-person account of how social media algorithms exploit the vulnerability of pregnant women, transforming their feeds from celebratory content to a barrage of fear-inducing narratives about miscarriage, birth complications, and infant safety. The author vividly describes the psychological toll of being relentlessly exposed to distressing content, even after attempting to block it. Expert insights from researchers highlight that this isn't a glitch, but an intentional design choice by platforms to maximize engagement and revenue through fear. The piece thoughtfully explores the broader implications for mental health, the ethical responsibilities of tech companies, and the urgent need for better digital safeguarding for vulnerable users, questioning whether the pursuit of engagement justifies such profound psychological harm. It's a powerful and disturbing look at the dark side of algorithmic personalization during a sensitive life stage.",
-    "summary_zh": "这篇文章深刻揭示了社交媒体算法如何利用孕妇的脆弱性，将原本温馨的推送内容扭曲成充斥着流产、分娩并发症和育儿焦虑的恐怖信息流。作者的亲身经历令人不寒而栗，算法的精准推送甚至在她告知家人之前就“猜”到她怀孕，随后便是无休止的负面内容轰炸，即便尝试屏蔽也收效甚微。专家指出，这并非算法失误，而是平台为追求互动和收益而故意为之。这不禁让人思考，在商业利益面前，用户，尤其是弱势群体的心理健康是否被无视？文章引发了对科技伦理、数字安全以及平台责任的深层反思，呼吁为孕产妇提供更安全的网络空间。",
-    "best_quote_en": "“Distressing content isn’t a glitch; it’s engagement, and engagement is revenue.”",
-    "best_quote_zh": "“令人痛苦的内容不是故障；它是互动，而互动就是收入。”"
-  },
-  {
-    "id": 12,
-    "title": "How to Get New Ideas",
-    "title_zh": "如何产生新想法",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/getideas.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This piece offers a compelling perspective on idea generation, positing that novel ideas emerge from noticing 'anomalies'—what's strange, missing, or broken—especially at the frontiers of knowledge. The author challenges conventional wisdom, suggesting that true innovation lies in identifying the 'gaps' in our understanding, which, upon closer inspection, often appear surprisingly obvious. This fractal view of knowledge growth, where edges seem smooth from afar but reveal intricate gaps up close, is a powerful metaphor for intellectual exploration. It encourages a proactive, curious mindset, urging readers to delve into the unknown rather than merely synthesizing existing information. The insight that these gaps, once explored, can yield entirely new 'fractal buds' is particularly inspiring, hinting at the exponential nature of discovery. It's a call to intellectual adventure, emphasizing observation and critical inquiry as the bedrock of creativity.",
-    "summary_zh": "这篇文章对新想法的产生提出了一个引人深思的视角：真正的创新源于对“异常”的察觉，尤其是在知识前沿。作者以分形增长的知识模型，精妙地阐述了为何从远处看平滑的知识边界，近看却充满显而易见的“空白”。这不仅仅是理论，更是一种思维方式的倡导——鼓励我们积极探寻那些看似理所当然却无人触及的领域。我深感其启发性，它提醒我们，突破性思考并非凭空而来，而是源于对现有认知边界的敏锐洞察与大胆质疑。这正是我在面对复杂问题时所寻求的洞察力。",
-    "best_quote_en": "The way to get new ideas is to notice anomalies: what seems strange, or missing, or broken? You can see anomalies in everyday life (much of standup comedy is based on this), but the best place to look for them is at the frontiers of knowledge.",
-    "best_quote_zh": "产生新想法的方法是注意异常：什么看起来奇怪、缺失或损坏？你可以在日常生活中看到异常（许多脱口秀喜剧都基于此），但寻找它们的最佳地点是知识的前沿。"
-  },
-  {
-    "id": 13,
-    "title": "Fun theory like a bonus - set with bets?",
-    "title_zh": "乐趣理论如奖金：如何通过投注设定？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/idXt8jSuTJb2M8P7X/fun-theory-like-a-bonus-set-with-bets",
-    "tags": [
-      "solve",
-      "science",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This piece delves into a fascinating, albeit abstract, concept: applying a 'fun theory' framework to life decisions, treating experiences as bonuses to be optimized for maximum enjoyment. The author grapples with the challenge of converting subjective 'fun' into measurable metrics and testable hypotheses, drawing inspiration from Eliezer Yudkowsky's 'Theory of Fun.' It's an intriguing thought experiment that touches upon gamification of life, personal optimization, and the quest for a more joyful existence. The core challenge lies in operationalizing such a subjective concept, which I find both stimulating and profoundly difficult. How does one truly quantify 'fun' in a way that allows for meaningful comparison and strategic 'betting' on life paths?",
-    "summary_zh": "这篇文章探讨了一个引人入胜却又抽象的理念：如何将生活体验视为“奖金”，并通过“乐趣理论”进行优化。作者试图将主观的“乐趣”转化为可衡量的指标，并进行假设检验，这无疑是一个巨大的挑战。我个人认为，将生活游戏化以追求最大乐趣的尝试既有其哲学深度，也充满了实践的困境。如何真正量化并比较不同“乐趣”的价值，从而“下注”于最优的人生路径，这让我深思。",
-    "best_quote_en": "How can I bet on the paths that generate the most fun?",
-    "best_quote_zh": "我如何能押注于能产生最多乐趣的路径？"
-  },
-  {
-    "id": 14,
-    "title": "Inside Uniqlo’s Quest for Global Dominance",
-    "title_zh": "优衣库：全球霸主之路",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/22/inside-uniqlos-quest-for-global-dominance",
-    "tags": [
-      "solve",
-      "music-arts",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This article offers a deep dive into Uniqlo's unique business philosophy and its ambitious quest for global dominance, positioning itself not just as a clothing company but as a distributor of \"utopian values\" through its LifeWear concept. It explores how Uniqlo distinguishes itself from fast fashion by focusing on timeless, high-quality basics, leveraging Japanese principles like 'omotenashi' and 'yonobi,' and meticulously incorporating customer feedback into product design. The piece critically examines Uniqlo's global expansion strategy, particularly its challenges in the American market, and its nuanced approach to sustainability amidst massive production scales. The insights into its product development, supply chain, and corporate culture, including the influence of its founder Tadashi Yanai, reveal a brand striving for ubiquity and essentialism in fashion, aiming to become a fundamental \"infrastructure of clothing.\"",
-    "summary_zh": "这篇文章深入剖析了优衣库独特的商业哲学及其全球扩张雄心，它不仅仅是一家服装公司，更试图通过LifeWear理念传播“乌托邦价值观”。文中探讨了优衣库如何通过专注于经典、高质量的基础款，融合日式“待客之道”和“用之美”的理念，并细致地将顾客反馈融入产品设计，从而区别于快时尚。文章也审视了优衣库在全球，尤其是在美国市场的扩张策略所面临的挑战，以及其在巨大生产规模下对可持续发展的复杂立场。读完此文，我深感优衣库的成功在于其对“普适性”和“基本款”的极致追求，这使其在看似同质化的市场中独树一帜，但其“服装基础设施”的愿景能否真正实现，仍充满变数。",
-    "best_quote_en": "“We want to be the infrastructure of clothing. Water, gas, electricity, and Uniqlo.”",
-    "best_quote_zh": "“我们想成为服装的基础设施。水、燃气、电，还有优衣库。”"
-  },
-  {
-    "id": 15,
-    "title": "10 Thoughts From the Fourth Trimester",
-    "title_zh": "第四孕期后的十个思考",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2023/05/baby.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2023-05-23",
-    "summary_en": "This deeply personal and humorous account from a new father on 'Wait But Why' delves into the unexpected realities of parenthood during the 'fourth trimester' (the first three months after birth). The author candidly shares ten observations, debunking common myths and societal expectations around newborns. From the alien-like nature of infants to the shocking lack of mandatory parental training, and the profoundly one-sided early relationship, he articulates the overwhelming yet often unacknowledged challenges. What stands out is his raw honesty about the 'expectations-reality gap' and the gradual, rather than instantaneous, transformation into a parent. The piece culminates in a thoughtful reflection on how having a child intensifies contemplation of the future, making it a compelling read for both current and prospective parents seeking a genuine, unfiltered perspective.",
-    "summary_zh": "这篇文章以幽默而真诚的笔触，分享了新晋父亲在“第四孕期”（产后三个月）的十个深刻体会。作者直言不讳地指出育儿的现实与预期之间的巨大落差，从新生儿的“外星人”属性到缺乏强制性育儿培训的荒谬。我尤其欣赏他对于为人父母是一个渐进过程的洞察，而非一蹴而就。这不仅是一篇育儿随笔，更是对生命重大转折的哲学思考，引发读者对责任、未来和自我转变的深层共鸣。",
-    "best_quote_en": "You don’t go from a non-parent to a parent overnight. Some things are just too big for our little human brains to fully absorb. The bigness of the universe. The permanence of death. The magnitude of the marriage decision... A few months into fatherhood, this feels like another item in that category. When your baby is born, you will (hopefully) never live another day as a non-parent. For people who make the decision to do this, it is the BC-AD line of their life.",
-    "best_quote_zh": "你不会在一夜之间从非父母变成父母。有些事情对我们渺小的人类大脑来说实在太宏大了，无法完全吸收。宇宙的浩瀚。死亡的永恒。婚姻决定的重要性……为人父几个月后，这感觉就像是那一类事情中的又一个。当你的孩子出生时，你（希望）将永远不会再过一天没有孩子的生活。对于那些做出这个决定的人来说，这是他们生命中的公元前-公元纪元分界线。"
-  },
-  {
     "id": 16,
     "title": "Not just resisting, but leading the fight: five women who refuse to be ignored",
     "title_zh": "不只是抵抗，更是领导这场斗争：五位不容忽视的女性",
@@ -2334,5 +2216,119 @@
     "summary_zh": "OpenAI的Sora首次更新展现了AI视频生成从理论走向实践的深刻转变。最值得关注的是他们对版权问题的创新处理——将角色视为互动资产而非静态财产，这种数字权利管理思路可能重塑内容产业。日本内容的特殊用户共鸣揭示了文化因素在AI工具采用中的关键作用。而用户为小众观众大量生成视频的现象，暗示着Sora可能催生新型微内容生态。这让人想起ChatGPT早期那种快速迭代的节奏，我们正在见证一个新媒介的诞生，其规则由用户行为和企业响应共同书写。",
     "best_quote_en": "We are hearing from a lot of rightsholders who are very excited for this new kind of 'interactive fan fiction' and think this new kind of engagement will accrue a lot of value to them, but want the ability to specify how their characters can be used.",
     "best_quote_zh": "许多版权方对这种新型‘互动同人创作’感到兴奋，认为这种新型互动将为他们带来巨大价值，但他们希望能够指定角色如何使用。"
+  },
+  {
+    "id": 111,
+    "title": "Meet the 75-year-old powerlifter headed to the world championships",
+    "title_zh": "认识这位即将参加世界锦标赛的75岁力量举运动员",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2025/sep/26/powerlifting-kate-evert-world-championships",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "Kate Evert's journey into competitive powerlifting at age 75 offers a profound commentary on aging, personal transformation, and the psychology of motivation. What begins as a reluctant concession to her children's health concerns evolves into a passionate pursuit that redefines her identity and physical capabilities. Her story challenges societal expectations about what older women can achieve, revealing how competition serves as a powerful driver for maintaining challenging physical regimens. The article provides fascinating insights into the mental aspects of weightlifting—how the intense focus required creates a meditative state that provides relief from our 'scattered lives.' Evert's experience demonstrates how discovering unexpected passions can emerge from reluctant beginnings, and how finding community among fellow athletes creates support systems that transcend competitive rivalries. Her pragmatic approach to recovery and training underscores the importance of balancing intensity with rest, offering valuable lessons for athletes of all ages.",
+    "summary_zh": "75岁的凯特·埃弗特从被子女劝说健身到成为力量举世界冠军参赛者的故事，展现了年龄不应成为追求卓越的障碍。她最初对健身的厌恶转变为对举重深沉热爱的历程令人深思——真正的激情往往诞生于不情愿的开始。她关于竞争心理的坦诚尤其打动人心：“如果没有比赛，我可能不会坚持，因为训练既辛苦又可怕。”这提醒我们，外在目标有时是维持内在动力的关键。她的经历不仅重新定义了老年女性的可能性，更揭示了在任何年龄发现新激情都能为生命注入全新意义。",
+    "best_quote_en": "\"The thing about competition at my age is that there aren't very many competitors. Like, hardly any. For three of those national championships I was the only lifter in my age and weight class, so I got the medal just by showing up.\"",
+    "best_quote_zh": "“在我这个年纪参加比赛的特点是，几乎没有竞争对手。真的，几乎没有。有三次全国锦标赛，我是我年龄和体重级别中唯一的参赛者，所以我只要出现就能拿到奖牌。”"
+  },
+  {
+    "id": 112,
+    "title": "What I Worked On",
+    "title_zh": "我的工作历程",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/worked.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "In this deeply personal intellectual autobiography, Paul Graham traces his evolution from an awkward teenager experimenting with punch card programming to becoming one of Silicon Valley's most influential figures. The piece reveals how his seemingly random career pivots—from philosophy to AI research, from painting to entrepreneurship—were actually guided by a consistent pattern of pursuing work that lacked prestige but offered genuine discovery. His journey through Lisp programming, the founding of Viaweb, the creation of Y Combinator, and his return to painting all demonstrate a remarkable ability to identify undervalued domains before they became mainstream. What makes this account particularly insightful is Graham's recognition that customs and prestige often lag behind technological possibilities, creating opportunities for those willing to work on 'unfashionable' problems. The narrative beautifully captures how his early struggles with obsolete technology and academic disillusionment ultimately shaped his unique insights about startups, technology adoption, and the nature of meaningful work. The essay serves as both a memoir and a philosophical treatise on how to choose work that matters—work that solves real problems rather than impresses established hierarchies.",
+    "summary_zh": "在这篇深刻的个人思想自传中，保罗·格雷厄姆回顾了他从笨拙少年摆弄打孔卡编程到成为硅谷最具影响力人物之一的历程。文章揭示了他看似随机的职业转变——从哲学到人工智能研究，从绘画到创业——实际上遵循着追求缺乏声望但蕴含真正发现的工作模式。他从哲学转向AI研究，从绘画转向创业，这些看似随机的选择实际上遵循着一致的逻辑：追求那些缺乏声望但提供真正发现的工作领域。",
+    "best_quote_en": "The most conspicuous patterns I've noticed in my life is how well it has worked, for me at least, to work on things that weren't prestigious. Still life has always been the least prestigious form of painting. Viaweb and Y Combinator both seemed lame when we started them.",
+    "best_quote_zh": "我生活中最显著的模式就是：从事那些不具声望的工作反而效果出奇地好。静物画一直是最不受重视的绘画形式。Viaweb和Y Combinator在我们创立时都显得很蹩脚。"
+  },
+  {
+    "id": 113,
+    "title": "At the Edge of Peace",
+    "title_zh": "在和平的边缘",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/at-the-edge-of-peace-in-gaza",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "Ruth Margalit's poignant analysis captures a pivotal moment in the Israel-Hamas conflict as a ceasefire proposal gains tentative acceptance. The article reveals the complex political choreography behind what appears to be progress - Hamas's ambiguous 'yes' response, Trump's strategic framing of the development, and Netanyahu's constrained position within his own coalition. What makes this analysis particularly insightful is how it exposes the gap between public declarations and private realities: Trump and Netanyahu presented a united front while actually interpreting the same proposal quite differently. The failed Israeli strike in Doha emerges as the unexpected catalyst, forcing regional powers to coordinate demands. Margalit's personal reflections from Tel Aviv provide crucial moral grounding, contrasting the normalcy of her life with the trauma just miles away. The piece suggests that while the ceasefire may end immediate violence, it leaves unresolved the deeper wounds - Israel's moral crisis, Hamas's continued presence, and the generational trauma affecting both populations. The real question isn't whether a deal can be signed, but whether any agreement can address the fundamental divisions that enabled this two-year catastrophe.",
+    "summary_zh": "玛格丽特的深度分析捕捉了巴以冲突的关键转折点，揭示了停火协议背后复杂的政治博弈。文章展现了一个深刻的矛盾：公开的团结宣言与私下的分歧解读并存。多哈袭击的失败意外成为地区力量协调的催化剂，而内塔尼亚胡在联盟内部面临严峻挑战。作者从特拉维夫的视角进行个人反思，将日常生活的安宁与加沙的创伤形成鲜明对比，凸显了尽管物理距离相近，道德鸿沟却难以跨越的现实。停火或许能结束暴力，但无法弥合更深层的伤口——以色列的道德危机、哈马斯的持续存在以及影响双方民众的代际创伤。真正的考验在于任何协议能否解决导致这场两年灾难的根本分歧。",
+    "best_quote_en": "Change, as the saying goes, happens gradually, then all at once.",
+    "best_quote_zh": "正如谚语所说，变化逐渐发生，然后突然降临。"
+  },
+  {
+    "id": 114,
+    "title": "The Gentle Singularity",
+    "title_zh": "温和的奇点",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-gentle-singularity",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-06-10",
+    "summary_en": "This article presents a compelling vision of AI's gradual integration into human civilization, challenging the notion of a dramatic technological singularity. The author argues we've already crossed the event horizon of superintelligence, with systems like GPT-4 representing foundational breakthroughs that will compound exponentially. What's particularly insightful is the observation that wonders become routine - we rapidly normalize AI capabilities that initially seemed miraculous. The piece thoughtfully balances optimism about productivity gains and scientific acceleration with sober acknowledgment of alignment challenges and societal disruption. I'm struck by the concept of 'larval recursive self-improvement' where current AI systems accelerate their own development. The economic implications of intelligence becoming as cheap as electricity could fundamentally reshape human progress, though the author wisely notes that core human experiences - family, creativity, play - will likely remain unchanged even as our capabilities expand dramatically. The comparison to how a subsistence farmer would view modern jobs offers a powerful perspective on how future generations might perceive our current concerns.",
+    "summary_zh": "这篇文章提出了一个关于AI逐渐融入人类文明的深刻视角，挑战了技术奇点必然剧烈的传统认知。作者认为我们已经越过了超级智能的事件视界，GPT-4等系统代表着将呈指数级增长的基础性突破。最引人深思的是'奇迹变常态'的观察——我们迅速将最初看似神奇的能力视为理所当然。文章在乐观展望生产力提升和科学加速的同时，也清醒地认识到对齐挑战和社会变革。'幼虫式递归自我改进'的概念尤其发人深省，当前AI系统正在加速自身发展。当智能变得像电力一样廉价时，人类进步的轨迹将被彻底改写，但作者明智地指出，即使能力大幅扩展，人类的核心体验——家庭、创造、游戏——很可能保持不变。",
+    "best_quote_en": "This is how the singularity goes: wonders become routine, and then table stakes.",
+    "best_quote_zh": "这就是奇点的过程：奇迹变成常规，然后成为基本要求。"
+  },
+  {
+    "id": 115,
+    "title": "Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss",
+    "title_zh": "要点：人类如何在短期和长期关系中选择和维系浪漫伴侣 | David Buss博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-human-romantic-partner-selection-keep-david-buss",
+    "tags": [
+      "solve",
+      "psychology"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "This episode with evolutionary psychology pioneer Dr. David Buss offers a fascinating exploration of human mating strategies through an evolutionary lens. The discussion moves beyond surface-level dating advice to examine the fundamental psychological mechanisms driving partner selection across different time horizons. What makes this particularly compelling is how Buss connects universal preferences—like women valuing resources and men prioritizing fertility cues—to deeper evolutionary imperatives. The conversation takes a courageous turn into darker territories including jealousy's adaptive functions, stalking motivations, and how mate value discrepancies can predict relationship conflict. The inclusion of attachment theory and self-assessment tools provides practical grounding for listeners to reflect on their own relationship patterns. This isn't just academic theory—it's a framework for understanding why we're drawn to certain partners and how early evolutionary adaptations manifest in modern dating landscapes, offering genuine insight into the often irrational forces shaping our most intimate connections.",
+    "summary_zh": "这期与进化心理学先驱David Buss博士的对谈，从科学角度深入探讨了人类择偶机制的深层逻辑。不仅分析了男女在长短期关系中不同的优先考量，更勇敢触及了嫉妒、跟踪等黑暗面的进化功能。最令人深思的是，它将现代约会行为与远古生存策略联系起来，让我们看到那些看似非理性的情感冲动背后，其实有着深刻的生物学基础。这种进化视角为我们理解亲密关系中的矛盾与吸引提供了全新框架，值得每个在感情中困惑的人参考。",
+    "best_quote_en": "We explore the science behind human mate selection in both short- and long-term relationships, discussing universal traits valued in long-term partners along with key differences between women and men in what they prioritize when selecting a mate.",
+    "best_quote_zh": "我们探讨了人类在短期和长期关系中择偶行为背后的科学，讨论了长期伴侣看重的普遍特质，以及男女在选择伴侣时优先考虑的关键差异。"
   }
 ]
