@@ -51,9 +51,9 @@ OUTPUT_FILE = "data.json"
 SOURCE_FILE = "scripts/source.json"
 
 # Output and API call control
-MAX_NEW_ITEMS = 5         # Maximum successful output items for this run (max 5 items you want)
-MAX_API_CALLS = 8         # Maximum model API calls for this run (failures also count)
-MAX_PER_SOURCE = 5        # Maximum candidate items sampled per source (candidates only, not final success count)
+MAX_NEW_ITEMS = 10         # Maximum successful output items for this run (max 5 items you want)
+MAX_API_CALLS = 10         # Maximum model API calls for this run (failures also count)
+MAX_PER_SOURCE = 10        # Maximum candidate items sampled per source (candidates only, not final success count)
 HTTP_TIMEOUT = 20         # Timeout seconds for web scraping/model calls
 REQUEST_SLEEP = 0.2       # Light sleep to reduce rate limiting probability
 
