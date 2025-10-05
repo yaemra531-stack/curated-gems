@@ -568,4 +568,239 @@
     "summary_zh": "赫蒂·格林通过逆向投资、极度节俭和在金融危机中保持现金储备，成为美国最富有的女性。",
     "best_quote_en": "\"I buy when things are low and nobody wants them. I keep them until they go up and people are crazy to get them.\"",
     "best_quote_zh": "“我在东西便宜没人要时买入，一直持有到价格上涨人们疯狂抢购时卖出。”"
+  },{
+    "id": 31,
+    "title": "OpenAI强硬回击马斯克窃密诉讼！xAI被指恶意人肉离职员工",
+    "title_zh": "OpenAI强硬回击马斯克窃密诉讼！xAI被指恶意人肉离职员工",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/339453.html",
+    "tags": [
+      "analyze",
+      "legal",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "法律法规",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "OpenAI strongly denies Musk's xAI lawsuit alleging systematic poaching and trade secret theft, calling it corporate bullying tactics.",
+    "summary_zh": "OpenAI强硬回应马斯克xAI窃密诉讼，否认指控并指责对方恶意人肉员工。",
+    "best_quote_en": "OpenAI stated it has not obtained, accessed, or used any xAI confidential information, and all recruitment practices are legal and compliant.",
+    "best_quote_zh": "OpenAI未获取、未接触，也未使用任何xAI机密信息，所有招聘行为全都合法合规。"
+  },
+  {
+    "id": 32,
+    "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
+    "title_zh": "RTEB 介绍：检索评估的新标准",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/rteb",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "RTEB introduces a hybrid benchmark using open and private datasets to reliably evaluate embedding model retrieval accuracy for real-world applications.",
+    "summary_zh": "RTEB 采用开放与私有数据集混合策略，为现实应用提供可靠的嵌入模型检索评估标准。",
+    "best_quote_en": "RTEB addresses the generalization gap with a hybrid strategy that provides a clear, unbiased measure of a model’s ability to generalize to unseen data.",
+    "best_quote_zh": "RTEB 通过混合策略解决泛化差距，提供清晰、无偏的模型处理未知数据能力评估。"
+  },
+  {
+    "id": 33,
+    "title": "德国政府据悉计划上调2025年经济增长预期",
+    "title_zh": "德国政府据悉计划上调2025年经济增长预期",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3495644940622726?f=rss",
+    "tags": [
+      "update",
+      "economics",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "经济金融",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "German government reportedly plans to raise 2025 growth forecast to 0.2% from zero growth.",
+    "summary_zh": "德国政府据悉将2025年经济增长预期从零上调至0.2%。",
+    "best_quote_en": "The revised data will align with estimates from Germany's leading research institutes published last month.",
+    "best_quote_zh": "这些修订后的数据将与德国主要研究机构上月公布的预估相符。"
+  },
+  {
+    "id": 34,
+    "title": "Everyone seems to want AI in their feeds",
+    "title_zh": "每个人似乎都想在信息流中加入AI",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/2025/10/04/everyone-seems-to-want-ai-in-their-feeds?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "inspire",
+      "legal",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "法律法规",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "OpenAI's Sora AI video app tops App Store charts amid viral adoption and concerns about AI-generated content and deepfakes.",
+    "summary_zh": "OpenAI的Sora AI视频应用登顶App Store，引发病毒式采用及对AI生成内容和深度伪造的担忧。",
+    "best_quote_en": "OpenAI is betting that infusing feeds with personalized AI can keep people engaged.",
+    "best_quote_zh": "OpenAI押注于通过个性化AI注入信息流来保持用户参与度。"
+  },
+  {
+    "id": 35,
+    "title": "Barry Diller: Building IAC",
+    "title_zh": "巴里·迪勒：打造IAC",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/barry-diller/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "Barry Diller shares business wisdom on instinct, trust, and lifelong learning from his decades building media empires.",
+    "summary_zh": "巴里·迪勒分享数十年打造媒体帝国的商业智慧：直觉、信任和终身学习。",
+    "best_quote_en": "\"Data can tell you what has happened, not what can or will happen.\"",
+    "best_quote_zh": "\"数据可以告诉你发生了什么，但不能告诉你可能或将会发生什么。\""
+  },
+  {
+    "id": 36,
+    "title": "КРАКЕН ОНИОН ДАРКНЕТ ССЫЛКА",
+    "title_zh": "KRAKEN 洋葱暗网链接",
+    "source": "The Financial Diet (Personal Finance, English)",
+    "link": "https://s14354.pcdn.co/%d0%ba%d1%80%d0%b0%d0%ba%d0%b5%d0%bd-%d1%81%d0%b0%d0%b9%d1%82-%d0%be%d0%bd%d0%b8%d0%be%d0%bd-%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-darknet/?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25ba%25d1%2580%25d0%25b0%25d0%25ba%25d0%25b5%25d0%25bd-%25d1%2581%25d0%25b0%25d0%25b9%25d1%2582-%25d0%25be%25d0%25bd%25d0%25b8%25d0%25be%25d0%25bd-%25d1%2581%25d1%2581%25d1%258b%25d0%25bb%25d0%25ba%25d0%25b0-darknet",
+    "tags": [
+      "guide",
+      "cybersecurity"
+    ],
+    "tags_zh": [
+      "指导",
+      "网络安全"
+    ],
+    "date": "2023-12-26",
+    "summary_en": "A guide on registering anonymously on darknet sites using Tor and VPNs for security and privacy protection.",
+    "summary_zh": "关于使用Tor和VPN匿名注册暗网站点以保护安全和隐私的指南。",
+    "best_quote_en": "When registering on Kraken sites or using Kraken darknet, anonymity is not just an option but a necessity.",
+    "best_quote_zh": "当您在Kraken网站上注册或使用Kraken暗网时，匿名性不仅是一个选项，而且是必需的。"
+  },
+  {
+    "id": 37,
+    "title": "Google is investing in Arkansas with a new data center, energy efficiency programs and more.",
+    "title_zh": "谷歌在阿肯色州投资建设新数据中心并推出能效项目",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/company-announcements/google-american-innovation-arkansas/",
+    "tags": [
+      "inspire",
+      "education",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Google invests $4 billion in Arkansas for a data center, AI infrastructure, renewable energy, and workforce training programs.",
+    "summary_zh": "谷歌投资40亿美元在阿肯色州建设数据中心、AI基础设施、可再生能源和劳动力培训项目。",
+    "best_quote_en": "We're boosting the state's talent pipeline by offering no-cost access to Google AI courses and Career Certificates for all residents.",
+    "best_quote_zh": "我们通过为所有居民提供免费的谷歌AI课程和职业证书来增强该州的人才输送渠道。"
+  },
+  {
+    "id": 38,
+    "title": "Upcoming Currency Change in Bulgaria",
+    "title_zh": "保加利亚即将发生的货币变更",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=rbfp3bpb",
+    "tags": [
+      "update",
+      "business-model",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "商业模式",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "Bulgaria will adopt the euro on January 1, 2026, affecting App Store pricing and developer payments with specific conversion procedures.",
+    "summary_zh": "保加利亚将于2026年采用欧元，影响App Store定价和开发者支付流程。",
+    "best_quote_en": "The statutory fixed conversion rate is 1.95583 BGN = 1 EUR as established by the Council of the European Union.",
+    "best_quote_zh": "欧盟理事会确定的法定固定兑换率为1.95583保加利亚列弗=1欧元。"
+  },
+  {
+    "id": 39,
+    "title": "GitHub Copilot CLI: Enhanced model selection, image support, and streamlined UI",
+    "title_zh": "GitHub Copilot CLI：增强模型选择、图像支持和简化界面",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-03-github-copilot-cli-enhanced-model-selection-image-support-and-streamlined-ui",
+    "tags": [
+      "solve",
+      "programming",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "GitHub Copilot CLI adds Claude Sonnet 4.5 support, image recognition, shell command execution, and improved interface with enhanced permissions.",
+    "summary_zh": "GitHub Copilot CLI新增Claude Sonnet 4.5支持、图像识别、直接执行命令和权限控制改进。",
+    "best_quote_en": "Take precise control over what Copilot CLI can execute with enhanced tool permissions using glob patterns in --allow-tool and --deny-tool flags.",
+    "best_quote_zh": "使用--allow-tool和--deny-tool标志中的通配符模式，通过增强工具权限精确控制Copilot CLI可执行内容。"
+  },
+  {
+    "id": 40,
+    "title": "AI花17小时写了篇30页论文！自主选题，包含实验，还符合APA格式",
+    "title_zh": "AI花17小时写了篇30页论文！自主选题，包含实验，还符合APA格式",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/339387.html",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "An AI system autonomously conducted cognitive psychology research, designing experiments and writing a 30-page paper in 17 hours.",
+    "summary_zh": "AI系统在17小时内自主完成认知心理学研究，包括实验设计和30页论文撰写。",
+    "best_quote_en": "The AI's autonomous research capability stems from collaboration + simulating human cognitive mechanisms + dynamic knowledge interaction.",
+    "best_quote_zh": "其自主科研能力源于协作+模拟人类认知机制+动态知识交互的技术设计。"
   }]
