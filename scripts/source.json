@@ -1,11 +1,11 @@
 [
-  {
+    {
     "name": "AI 开发者日报",
-    "url": "https://ainews.liduos.com/feed.xml"
+    "url": "https://rsshub.app/liduos/ainews"
   },
   {
     "name": "OpenAI Blog (GPT)",
-    "url": "https://openai.com/blog/rss.xml"
+    "url": "https://rsshub.app/openai/blog"
   },
   {
     "name": "Google AI (Gemini)",
