@@ -1040,4 +1040,235 @@
     "summary_zh": "谷歌Nano Banana通过多模态AI实现精准图像编辑和生成，拓展创意应用。",
     "best_quote_en": "\"It's a giant quality leap, especially for image editing. We're putting capabilities that used to require specialized tools into the hands of everyday creators.\"",
     "best_quote_zh": "“这是质量的巨大飞跃，尤其是在图像编辑方面。我们将过去需要专业工具的功能交到了日常创作者手中。”"
+  },{
+    "id": 51,
+    "title": "From sketches to prototype: Designing with generative AI",
+    "title_zh": "从草图到原型：使用生成式AI进行设计",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/google-deepmind/ross-lovegrove-design/",
+    "tags": [
+      "inspire",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Google DeepMind collaborated with designer Ross Lovegrove to create AI-generated chair designs and a physical 3D-printed prototype.",
+    "summary_zh": "谷歌DeepMind与设计师合作，利用生成式AI创作椅子设计并制作3D打印原型。",
+    "best_quote_en": "\"For me, the final result transcends the whole debate on design. It shows us that AI can bring something unique and extraordinary to the process.\" - Ross Lovegrove",
+    "best_quote_zh": "\"对我来说，最终结果超越了整个关于设计的辩论。它向我们展示了AI可以为这个过程带来独特而非凡的东西。\" - 罗斯·拉夫格罗夫"
+  },
+  {
+    "id": 52,
+    "title": "App Store submissions now open for the latest OS releases",
+    "title_zh": "App Store 提交现已面向最新操作系统版本开放",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=6lxhtioi",
+    "tags": [
+      "update",
+      "design",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "Apple opens App Store submissions for iOS 26 and other OS updates, requiring developers to use new SDKs and design features.",
+    "summary_zh": "苹果开放 iOS 26 等最新操作系统版本的 App Store 提交，要求开发者使用新版 SDK 和设计功能。",
+    "best_quote_en": "You can now submit apps and games that take advantage of Apple's broadest design update ever.",
+    "best_quote_zh": "你现在可以提交利用苹果有史以来最广泛设计更新的应用和游戏。"
+  },
+  {
+    "id": 53,
+    "title": "One-click merge conflict resolution now in the web interface",
+    "title_zh": "一键合并冲突解决现已登陆网页界面",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-02-one-click-merge-conflict-resolution-now-in-the-web-interface",
+    "tags": [
+      "solve",
+      "design",
+      "programming"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "编程开发"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "GitHub now enables one-click merge conflict resolution directly in the web interface with familiar editor actions.",
+    "summary_zh": "GitHub现支持在网页界面一键解决合并冲突，无需切换工具。",
+    "best_quote_en": "These actions, familiar to users of code editors like Visual Studio Code, make it easier and faster to resolve conflicts without leaving your browser.",
+    "best_quote_zh": "这些操作对Visual Studio Code等代码编辑器的用户来说很熟悉，让您无需离开浏览器即可更轻松、更快速地解决冲突。"
+  },
+  {
+    "id": 54,
+    "title": "用两个简单模块实现分割理解双重SOTA！华科大白翔团队等推出多模态新框架",
+    "title_zh": "用两个简单模块实现分割理解双重SOTA！华科大白翔团队等推出多模态新框架",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/339267.html",
+    "tags": [
+      "learn",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "Huazhong University researchers developed LIRA, a multimodal model achieving SOTA in both segmentation and understanding tasks using novel SEFE and ILVC modules.",
+    "summary_zh": "华科团队推出多模态模型LIRA，通过SEFE和ILVC模块在分割与理解任务上实现双重SOTA性能。",
+    "best_quote_en": "LIRA achieves collaborative performance improvement in understanding and segmentation tasks, proposing new perspectives for reducing hallucinations in fine-grained multimodal models.",
+    "best_quote_zh": "LIRA实现了理解与分割任务性能的协同提升，提出了在细粒度多模态大模型中缓解幻觉的新视角。"
+  },
+  {
+    "id": 55,
+    "title": "VibeGame: Exploring Vibe Coding Games",
+    "title_zh": "VibeGame：探索Vibe编码游戏",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/vibegame",
+    "tags": [
+      "solve",
+      "programming",
+      "gaming",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "游戏开发",
+      "新手友好"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "A developer explores 'vibe coding' for games, identifies context management challenges, and creates VibeGame engine for AI-assisted development.",
+    "summary_zh": "开发者探索游戏'氛围编码'，识别上下文管理挑战，并创建VibeGame引擎用于AI辅助开发。",
+    "best_quote_en": "Introducing VibeGame, a high-level declarative game engine built on top of three.js, rapier, and bitecs, designed specifically for AI-assisted game development.",
+    "best_quote_zh": "介绍VibeGame，一个构建在three.js、rapier和bitecs之上的高级声明式游戏引擎，专为AI辅助游戏开发而设计。"
+  },
+  {
+    "id": 56,
+    "title": "比特币突破125000美元，创下新高",
+    "title_zh": "比特币突破125000美元，创下新高",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3495825726380930?f=rss",
+    "tags": [
+      "update",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "Bitcoin reaches a new all-time high of $125,000, marking a significant milestone in cryptocurrency.",
+    "summary_zh": "比特币价格创下历史新高，达到125000美元。",
+    "best_quote_en": "Bitcoin breaks through $125,000, setting a new record high.",
+    "best_quote_zh": "比特币突破125000美元，创下新高。"
+  },
+  {
+    "id": 57,
+    "title": "The world is going nuclear again",
+    "title_zh": "世界正再次拥抱核能",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/2025/10/05/the-world-is-going-nuclear-again?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "analyze",
+      "science",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "Nuclear power is experiencing a global renaissance with countries investing in new reactors and restarting decommissioned plants for clean energy.",
+    "summary_zh": "核能正经历全球复兴，多国投资新反应堆并重启退役电厂以实现清洁能源目标。",
+    "best_quote_en": "A decommissioned reactor at Three Mile Island, the site of the worst nuclear disaster in American history, is due to go back online.",
+    "best_quote_zh": "美国历史上最严重核灾难发生地三哩岛的一座退役反应堆即将重新投入使用。"
+  },
+  {
+    "id": 58,
+    "title": "Lulu Cheng Meservey: How To Build A Cult",
+    "title_zh": "Lulu Cheng Meservey：如何建立个人崇拜",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/lulu-cheng-meservey/",
+    "tags": [
+      "solve",
+      "leadership",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "创业策略"
+    ],
+    "date": "2025-09-11",
+    "summary_en": "A communications strategist explains how to capture attention and build trust using storytelling and psychological principles.",
+    "summary_zh": "一位传播策略师阐述如何通过故事讲述和心理原则吸引注意力和建立信任。",
+    "best_quote_en": "Reality bends to whoever tells the better story.",
+    "best_quote_zh": "现实会向讲述更好故事的人弯曲。"
+  },
+  {
+    "id": 59,
+    "title": "Protected: The Financial Independence Summit Event Page: Video Recordings, Resources and Workbook",
+    "title_zh": "受保护：财务独立峰会活动页面：视频录像、资源和工作手册",
+    "source": "The Financial Diet (Personal Finance, English)",
+    "link": "https://thefinancialdiet.com/the-financial-independence-summit-event-page-video-recordings-resources-and-workbook/?utm_source=rss&utm_medium=rss&utm_campaign=the-financial-independence-summit-event-page-video-recordings-resources-and-workbook",
+    "tags": [
+      "guide",
+      "economics",
+      "personal-finance"
+    ],
+    "tags_zh": [
+      "指导",
+      "经济金融",
+      "个人理财"
+    ],
+    "date": "2022-04-16",
+    "summary_en": "A password-protected event page offering financial independence resources, recordings, and workbooks.",
+    "summary_zh": "受保护的活动页面，提供财务独立资源、视频录像和工作手册。",
+    "best_quote_en": "This content is password protected. To view it please enter your password below.",
+    "best_quote_zh": "此内容受密码保护。请在下文输入密码以查看。"
+  },
+  {
+    "id": 60,
+    "title": "Our new partnership with the University of Waterloo on the future of learning and work",
+    "title_zh": "我们与滑铁卢大学关于学习和工作未来的新合作伙伴关系",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/google-university-of-waterloo-education-work/",
+    "tags": [
+      "inspire",
+      "education",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Google partners with University of Waterloo to explore AI's role in education through a $1M chair position and hands-on Futures Lab workshops.",
+    "summary_zh": "谷歌与滑铁卢大学合作，通过设立百万教席和未来实验室探索AI在教育中的应用。",
+    "best_quote_en": "How can we best prepare students for jobs that don't exist yet? How do we evolve the learning experience to meet learners where they are?",
+    "best_quote_zh": "我们如何最好地为尚不存在的职业培养学生？如何改进学习体验以满足学习者的需求？"
   }]
