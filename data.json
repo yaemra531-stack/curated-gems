@@ -803,4 +803,241 @@
     "summary_zh": "AI系统在17小时内自主完成认知心理学研究，包括实验设计和30页论文撰写。",
     "best_quote_en": "The AI's autonomous research capability stems from collaboration + simulating human cognitive mechanisms + dynamic knowledge interaction.",
     "best_quote_zh": "其自主科研能力源于协作+模拟人类认知机制+动态知识交互的技术设计。"
+  },{
+    "id": 41,
+    "title": "New ways to build with Jules, our AI coding agent",
+    "title_zh": "使用我们的AI编码助手Jules的新构建方式",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/google-labs/jules-tools-jules-api/",
+    "tags": [
+      "solve",
+      "programming",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Google's AI coding agent Jules now offers CLI tools and API integration for enhanced developer workflow control and flexibility.",
+    "summary_zh": "谷歌AI编码助手Jules推出CLI工具和API，增强开发者工作流程控制与灵活性。",
+    "best_quote_en": "These launches are about control and flexibility, two things we've heard you ask for repeatedly.",
+    "best_quote_zh": "这些发布关乎控制和灵活性，这是我们反复听到你们要求的两件事。"
+  },
+  {
+    "id": 42,
+    "title": "Get ready with the latest beta releases",
+    "title_zh": "准备迎接最新测试版发布",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=4uj8znqq",
+    "tags": [
+      "update",
+      "programming",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "编程开发",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2025-09-22",
+    "summary_en": "Apple releases beta versions of iOS 26.1 and other operating systems for developers to test their apps.",
+    "summary_zh": "苹果发布iOS 26.1等操作系统测试版，供开发者测试应用兼容性。",
+    "best_quote_en": "Get your apps ready by confirming they work as expected on these releases.",
+    "best_quote_zh": "准备好您的应用程序，确认它们在这些版本上按预期工作。"
+  },
+  {
+    "id": 43,
+    "title": "Claude Sonnet 4.5 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse",
+    "title_zh": "Claude Sonnet 4.5 现已在 Visual Studio、JetBrains IDE、Xcode 和 Eclipse 中可用",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-02-claude-sonnet-4-5-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse",
+    "tags": [
+      "update",
+      "ai-research",
+      "ai-product",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "AI产品",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Claude Sonnet 4.5 is now available in GitHub Copilot across major IDEs including Visual Studio, JetBrains, Xcode, and Eclipse for Pro, Business, and Enterprise users.",
+    "summary_zh": "Claude Sonnet 4.5 现已在 GitHub Copilot 中面向专业和企业用户提供，支持主流开发环境。",
+    "best_quote_en": "Claude Sonnet 4.5 is available in public preview to GitHub Copilot Pro, Pro+, Business, and Enterprise plans.",
+    "best_quote_zh": "Claude Sonnet 4.5 现以公开预览版形式向 GitHub Copilot Pro、Pro+、Business 和 Enterprise 计划提供。"
+  },
+  {
+    "id": 44,
+    "title": "陶哲轩用GPT-5解决数学难题：仅29行Python代码",
+    "title_zh": "陶哲轩用GPT-5解决数学难题：仅29行Python代码",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/339310.html",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "Terence Tao used GPT-5 to solve a complex mathematical problem, generating a concise 29-line Python script for verification.",
+    "summary_zh": "陶哲轩利用GPT-5解决数学难题，仅用29行Python代码验证结果。",
+    "best_quote_en": "\"Without AI, I almost certainly would not have attempted this kind of numerical search.\"",
+    "best_quote_zh": "“如果没有AI帮忙，我几乎不可能尝试进行这种数值搜索。”"
+  },
+  {
+    "id": 45,
+    "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
+    "title_zh": "使用深度修剪草稿模型在英特尔® Core™ Ultra 上加速 Qwen3-8B Agent",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/intel-qwen3-agent",
+    "tags": [
+      "guide",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "Intel researchers accelerate Qwen3-8B agent performance by 1.4x using speculative decoding with a pruned draft model on Core™ Ultra processors.",
+    "summary_zh": "英特尔研究人员使用修剪草稿模型的推测解码，在Core™ Ultra处理器上将Qwen3-8B智能体性能提升1.4倍。",
+    "best_quote_en": "This demonstrates how pruning + speculative decoding can unlock faster and more efficient inference—making local AI agents even more practical.",
+    "best_quote_zh": "这展示了修剪+推测解码如何实现更快、更高效的推理——使本地AI智能体更加实用。"
+  },
+  {
+    "id": 46,
+    "title": "明尼苏达州批准收购案，贝莱德基础设施业务获助力",
+    "title_zh": "明尼苏达州批准收购案，贝莱德基础设施业务获助力",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3495651846069381?f=rss",
+    "tags": [
+      "learn",
+      "startup-funding",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业融资",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "Minnesota regulators approved BlackRock's $6.2 billion acquisition of Allete to support clean energy infrastructure investments.",
+    "summary_zh": "明尼苏达州批准贝莱德62亿美元收购阿勒特，助力清洁能源基础设施投资。",
+    "best_quote_en": "The agreement enables the company 'to meet the significant infrastructure needs required for the clean energy transition' while maintaining service quality, reliability, and affordability.",
+    "best_quote_zh": "该协议使公司'能够满足清洁能源转型所需的重大基础设施需求'，同时不影响服务质量、供电可靠性与价格合理性。"
+  },
+  {
+    "id": 47,
+    "title": "Not your grandpa’s nuclear",
+    "title_zh": "非传统的核能",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/2025/10/05/not-your-grandpa-s-nuclear?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "inspire",
+      "design",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "Startups are developing smaller, cheaper modular nuclear reactors with tech backing to power data centers.",
+    "summary_zh": "初创公司正在开发更小更便宜的模块化核反应堆，获得科技巨头支持为数据中心供电。",
+    "best_quote_en": "These next-gen reactors are designed to prioritize cost efficiency through simplification.",
+    "best_quote_zh": "这些下一代反应堆旨在通过简化设计来优先考虑成本效率。"
+  },
+  {
+    "id": 48,
+    "title": "[Outliers] Ed Stack: Lessons from Dick’s Sporting Goods",
+    "title_zh": "[异类] Ed Stack: 迪克体育用品公司的经验教训",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/outliers-ed-stack/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "Ed Stack shares hard-won business wisdom from building Dick's Sporting Goods from near-bankruptcy to an 800-store empire.",
+    "summary_zh": "Ed Stack分享将迪克体育用品从濒临破产打造成800家门店帝国的商业智慧。",
+    "best_quote_en": "\"Trust isn't earned in the easy times; it's earned in the fire.\"",
+    "best_quote_zh": "信任不是在顺境中获得的，而是在烈火中锻造的。"
+  },
+  {
+    "id": 49,
+    "title": "Protected: The Society Exclusive Access – The Financial Independence Summit Event Page: Video Recordings, Resources and Workbook",
+    "title_zh": "保护内容：The Society 独家访问 – 财务独立峰会活动页面：视频录像、资源和手册",
+    "source": "The Financial Diet (Personal Finance, English)",
+    "link": "https://thefinancialdiet.com/the-society-exclusive-access-the-financial-independence-summit-event-page-video-recordings-resources-and-workbook/?utm_source=rss&utm_medium=rss&utm_campaign=the-society-exclusive-access-the-financial-independence-summit-event-page-video-recordings-resources-and-workbook",
+    "tags": [
+      "guide",
+      "society",
+      "education"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "教育学习"
+    ],
+    "date": "2022-05-19",
+    "summary_en": "Password-protected exclusive access to Financial Independence Summit recordings, resources, and workbook materials.",
+    "summary_zh": "受密码保护的财务独立峰会独家视频、资源和手册访问。",
+    "best_quote_en": "This content is password protected. To view it please enter your password below.",
+    "best_quote_zh": "此内容受密码保护。要查看请输入您的密码。"
+  },
+  {
+    "id": 50,
+    "title": "4 tips for using Nano Banana to create amazing images",
+    "title_zh": "使用Nano Banana创建精彩图像的4个技巧",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/gemini/nano-banana-tips/",
+    "tags": [
+      "solve",
+      "design",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "Google's Nano Banana offers precise image editing and generation with multimodal AI for creative applications.",
+    "summary_zh": "谷歌Nano Banana通过多模态AI实现精准图像编辑和生成，拓展创意应用。",
+    "best_quote_en": "\"It's a giant quality leap, especially for image editing. We're putting capabilities that used to require specialized tools into the hands of everyday creators.\"",
+    "best_quote_zh": "“这是质量的巨大飞跃，尤其是在图像编辑方面。我们将过去需要专业工具的功能交到了日常创作者手中。”"
   }]
