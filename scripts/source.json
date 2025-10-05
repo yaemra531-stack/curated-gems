@@ -1,51 +1,15 @@
 [
   {
-    "name": "机器之心 (AI in China)",
-    "url": "https://www.jiqizhixin.com/rss"
-  },
-  {
-    "name": "量子位 (AI news, Chinese)",
-    "url": "https://www.qbitai.com/feed"
-  },
-  {
-    "name": "OpenAI Blog (Official, English)",
-    "url": "https://openai.com/blog/rss"
-  },
-  {
-    "name": "Hugging Face Blog (AI community, English)",
-    "url": "https://huggingface.co/blog/feed.xml"
-  },
-  {
-    "name": "36氪 - 创业与科技 (Chinese)",
-    "url": "https://36kr.com/feed"
-  },
-  {
-    "name": "Morning Brew (Finance & Tech, Easy English)",
-    "url": "https://www.morningbrew.com/feed"
-  },
-  {
-    "name": "Farnam Street (FS Blog, Thinking & Growth, English)",
-    "url": "https://fs.blog/feed/"
-  },
-  {
-    "name": "得到 App 精选 (成长/认知, Chinese)",
-    "url": "https://rsshub.app/dedao/knowledge"
-  },
-  {
-    "name": "The Financial Diet (Personal Finance, English)",
-    "url": "https://thefinancialdiet.com/feed/"
-  },
-  {
     "name": "AI 开发者日报",
     "url": "https://ainews.liduos.com/feed.xml"
   },
   {
-    "name": "Google AI (Gemini)",
-    "url": "https://blog.google/technology/ai/rss/"
-  },
-  {
     "name": "OpenAI Blog (GPT)",
     "url": "https://openai.com/blog/rss.xml"
+  },
+  {
+    "name": "Google AI (Gemini)",
+    "url": "https://blog.google/technology/ai/rss/"
   },
   {
     "name": "Anthropic (Claude) Updates",
@@ -82,5 +46,37 @@
   {
     "name": "豆包AI资讯 (36Kr via RSSHub)",
     "url": "https://rsshub.app/36kr/search/article/%E8%B1%86%E5%8C%85"
+  },
+  {
+    "name": "机器之心 (AI in China)",
+    "url": "https://www.jiqizhixin.com/rss"
+  },
+  {
+    "name": "量子位 (AI news, Chinese)",
+    "url": "https://www.qbitai.com/feed"
+  },
+  {
+    "name": "Hugging Face Blog (AI community, English)",
+    "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+    "name": "36氪 - 创业与科技 (Chinese)",
+    "url": "https://36kr.com/feed"
+  },
+  {
+    "name": "Morning Brew (Finance & Tech, Easy English)",
+    "url": "https://www.morningbrew.com/feed"
+  },
+  {
+    "name": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "url": "https://fs.blog/feed/"
+  },
+  {
+    "name": "得到 App 精选 (成长/认知, Chinese)",
+    "url": "https://rsshub.app/dedao/knowledge"
+  },
+  {
+    "name": "The Financial Diet (Personal Finance, English)",
+    "url": "https://thefinancialdiet.com/feed/"
   }
 ]
