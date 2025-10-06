@@ -1,123 +1,5 @@
 [
   {
-    "id": 16,
-    "title": "Not just resisting, but leading the fight: five women who refuse to be ignored",
-    "title_zh": "不只是抵抗，更是领导这场斗争：五位不容忽视的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/sep/01/indigenous-women-protecting-land-culture-communities",
-    "tags": [
-      "analyze",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-09-01",
-    "summary_en": "This article powerfully showcases five Indigenous women leaders from diverse global regions, each fearlessly advocating for their communities' land, culture, and rights. It highlights their innovative approaches, from economic empowerment through traditional crafts to legal battles against land grabs and the establishment of educational and health initiatives. What truly resonates is the consistent theme of resilience and proactive leadership, challenging the perception of Indigenous women as mere victims. Their stories collectively underscore the critical role women play in sustainable development, cultural preservation, and environmental protection, offering a compelling argument for recognizing and supporting their strategic agency in global challenges like climate change and social injustice. It's an inspiring read that makes one reflect on the profound impact of grassroots activism.",
-    "summary_zh": "这篇文章生动地描绘了五位来自不同地区的原住民女性领袖，她们以非凡的勇气和智慧，为社区的土地、文化和权利而奋斗。她们的故事不仅仅是抵抗，更是积极领导变革的典范，从振兴传统手工艺到法律维权，再到建立教育和医疗机构，展现了女性在应对全球挑战中的核心作用。读完不禁思考，这些女性如何将个人经历转化为集体力量，成为社区乃至全球可持续发展和文化传承的真正推动者。她们的行动力与远见，确实令人深思并深受鼓舞。",
-    "best_quote_en": "‘If we women don’t work, there is no progress.’",
-    "best_quote_zh": "“如果我们女性不努力，就不会有进步。”"
-  },
-  {
-    "id": 17,
-    "title": "The Need to Read",
-    "title_zh": "阅读的必要性",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/read.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This essay provocatively argues that reading is not merely a means of information acquisition, but a foundational skill inextricably linked to effective writing and, by extension, profound thinking. The author challenges the sci-fi trope of instant knowledge transfer, asserting that such a method, even if feasible, would be insufficient because the act of reading cultivates writing ability. More critically, writing itself is presented as a unique mode of discovery and idea generation, not just transcription. This perspective elevates reading and writing beyond utilitarian tasks to essential cognitive processes for tackling complex, ill-defined problems. It compels us to reconsider the intrinsic value of deep engagement with text in an age of information overload.",
-    "summary_zh": "这篇文章深刻地阐释了阅读的不可替代性。作者挑战了科幻小说中“知识传输”的设想，指出阅读不仅仅是获取信息，更是培养写作能力的关键。而写作，又不仅仅是思想的记录，更是一种独特的发现和深化思想的方式。我深以为然，许多模糊不清的难题，唯有通过书写才能理清脉络、找到答案。在碎片化信息充斥的时代，这种对深度阅读与写作的呼唤，无疑是对我们认知模式的一次重要反思。",
-    "best_quote_en": "A good writer doesn't just think, and then write down what he thought, as a sort of transcript. A good writer will almost always discover new things in the process of writing. And there is, as far as I know, no substitute for this kind of discovery.",
-    "best_quote_zh": "一个好的写作者，不会仅仅是先思考，然后把所思所想记录下来，作为一种文字记录。一个好的写作者几乎总是在写作过程中发现新事物。据我所知，这种发现是无可替代的。"
-  },
-  {
-    "id": 18,
-    "title": "Will competition over advanced AI lead to war?",
-    "title_zh": "对先进人工智能的竞争会导致战争吗？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/8x8KTxssWrHQeBPLW/will-competition-over-advanced-ai-lead-to-war",
-    "tags": [
-      "solve",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This thought-provoking analysis critically examines the potential for war stemming from competition over advanced AI, leveraging James Fearon's rationalist explanations for conflict. The author compellingly argues that both 'private information' and, more significantly, 'commitment problems' inherent in AI development could lead to pre-emptive wars. The prospect of a 'decisive strategic advantage' (DSA) gained by the first nation to achieve Artificial Superintelligence (ASI) creates an existential dilemma for others, making credible commitments against misuse nearly impossible. This piece isn't just a theoretical exercise; it delves into practical implications, suggesting transparency and robust commitment mechanisms as crucial, albeit challenging, interventions. It forces a re-evaluation of geopolitical stability in an AI-accelerated future, highlighting the urgent need for international cooperation to mitigate catastrophic risks.",
-    "summary_zh": "这篇文章以詹姆斯·费伦的战争理论为框架，深入探讨了先进人工智能竞争引发战争的可能性。作者独到地指出，私有信息和承诺问题，尤其后者，极有可能导致国家为阻止对手获得ASI而发动先发制人战争。这种对“决定性战略优势”的担忧，使得国际间的信任和承诺机制面临前所未有的挑战。它不仅仅是理论探讨，更是一次对未来地缘政治格局的深刻反思，促使我们必须认真思考如何在AI时代构建有效的风险规避策略，避免技术进步滑向冲突深渊。",
-    "best_quote_en": "Advanced AI poses particularly severe commitment problems, because the country that first develops ASI may also gain a decisive strategic advantage (DSA).",
-    "best_quote_zh": "先进人工智能带来了特别严重的承诺问题，因为第一个开发出ASI的国家也可能获得决定性的战略优势（DSA）。"
-  },
-  {
-    "id": 19,
-    "title": "Where Political Violence Comes From",
-    "title_zh": "政治暴力从何而来",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/where-political-violence-comes-from",
-    "tags": [
-      "analyze",
-      "science",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This interview with political scientist Lilliana Mason delves into the origins and nature of political violence in contemporary America, distinguishing it from past eras by its partisan alignment. Mason, co-author of \"Radical American Partisanship,\" reveals unsettling data: 20-40% of people dehumanize political opponents, viewing them as 'animals.' She argues that while individual perpetrators may be unstable, political leaders' rhetoric guides their animosity. The piece critically examines the role of moral disengagement, the perception of the 'other side' as an existential threat, and the disturbing readiness for reciprocal violence. Crucially, Mason offers a glimmer of hope: even simple condemnations of violence from leaders, regardless of party, can significantly reduce public approval of it, suggesting that much partisan animosity is fueled by misperception rather than inherent extremism among the populace. It's a sobering yet insightful look at the fragility of social cohesion.",
-    "summary_zh": "这篇访谈深刻剖析了美国政治暴力的根源，揭示了其与过去时代的不同之处——如今的暴力更具党派性。莉莉安娜·梅森教授的数据令人不安：高达40%的人将政治对手非人化。她指出，尽管施暴者可能不稳定，但政治领袖的言论引导了仇恨。文章最引人深思之处在于，即便是一句简单的谴责暴力的话语，无论出自哪个党派，都能有效降低民众对暴力的认可度。这让我反思，我们对“他者”的极端化认知，或许才是煽动分裂与冲突的真正幕后推手，而非普遍的极端主义。理解这一点，或许是重建社会信任的第一步。",
-    "best_quote_en": "“I find about a third of people agreeing with that to be disturbingly high.”",
-    "best_quote_zh": "“我发现大约三分之一的人同意这种说法，这高得令人不安。”"
-  },
-  {
-    "id": 20,
-    "title": "A Short History of My Last Six Years",
-    "title_zh": "我过去六年的简史",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2023/02/last-six-years.html",
-    "tags": [
-      "learn",
-      "writing-content",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "写作内容",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2023-02-17",
-    "summary_en": "This piece chronicles the author's six-year odyssey to write a book, initially conceived as a \"mini-post\" about societal malaise. What began as a brief reflection on contemporary issues like tribalism and political polarization spiraled into an all-consuming project, delaying life milestones and testing personal resolve. The narrative is a candid exploration of creative perfectionism, the 'sunk cost fallacy,' and the unexpected catalysts (like impending fatherhood) that finally push a monumental work to completion. It offers a relatable, often humorous, look at the struggles inherent in ambitious long-term projects, highlighting the emotional and practical challenges of sustained creative effort against ever-expanding scope and personal life demands. The author's journey to publish 'What's Our Problem?' is a testament to perseverance and the often-unforeseen paths creative endeavors can take.",
-    "summary_zh": "这篇文章记录了作者耗时六年完成一本书的历程，最初只是想写一篇关于社会问题的“迷你文章”。它生动地描绘了创作过程中的挣扎、完美主义的陷阱以及沉没成本谬误。最打动我的是，作者如何将个人生活中的重大事件（如结婚、怀孕）作为完成项目的外部动力，这揭示了在面对宏大目标时，有时外部压力反而能提供意想不到的推动力。这不仅仅是一个创作故事，更是一段关于坚持、自我认知和时间管理的深刻反思，读来既感人又富启发性。",
-    "best_quote_en": "The baby was due on March 7, 2023, so this book would be completely done by mid-February, period end of story.",
-    "best_quote_zh": "孩子将于2023年3月7日出生，所以这本书必须在2月中旬前彻底完成，句号，故事结束。"
-  },
-  {
     "id": 21,
     "title": "The one change that worked: I got a period cup – and saved £120 a year",
     "title_zh": "唯一有效的改变：我用了月经杯，每年省下120英镑",
@@ -2330,5 +2212,121 @@
     "summary_zh": "这期与进化心理学先驱David Buss博士的对谈，从科学角度深入探讨了人类择偶机制的深层逻辑。不仅分析了男女在长短期关系中不同的优先考量，更勇敢触及了嫉妒、跟踪等黑暗面的进化功能。最令人深思的是，它将现代约会行为与远古生存策略联系起来，让我们看到那些看似非理性的情感冲动背后，其实有着深刻的生物学基础。这种进化视角为我们理解亲密关系中的矛盾与吸引提供了全新框架，值得每个在感情中困惑的人参考。",
     "best_quote_en": "We explore the science behind human mate selection in both short- and long-term relationships, discussing universal traits valued in long-term partners along with key differences between women and men in what they prioritize when selecting a mate.",
     "best_quote_zh": "我们探讨了人类在短期和长期关系中择偶行为背后的科学，讨论了长期伴侣看重的普遍特质，以及男女在选择伴侣时优先考虑的关键差异。"
+  },
+  {
+    "id": 116,
+    "title": "Solo trips abroad take off among women who seek break from work – and their families",
+    "title_zh": "独自出国旅行在寻求摆脱工作和家庭束缚的女性中兴起",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/business/2025/oct/06/solo-trips-travel-women-break-work-family",
+    "tags": [
+      "analyze",
+      "society",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This insightful article reveals a significant cultural shift in travel patterns, documenting how women—particularly those aged 45-60—are increasingly booking solo international trips as a form of personal liberation and self-discovery. The data is compelling: Jules Verne reports solo travelers now constitute 46% of bookings, with women making up nearly 70% of that segment. What fascinates me most is how this trend transcends mere vacation planning—it represents a profound reclamation of autonomy by women who've spent decades prioritizing careers and family responsibilities. The 'solo but not single' distinction is particularly telling, suggesting these journeys aren't about escaping loneliness but rather embracing intentional solitude and personal growth. Operators note these travelers favor 'soft adventure' activities and culturally immersive destinations like Morocco and Peru, indicating a desire for meaningful experiences rather than passive tourism. This movement reflects broader societal changes in how women perceive their right to personal space and self-investment later in life.",
+    "summary_zh": "这篇文章揭示了女性旅行行为的深刻转变：越来越多45-60岁的女性选择独自出国旅行，这不仅是度假，更是对个人空间和自主权的重新定义。数据显示，独自旅行者占比显著上升，其中近70%为女性。最触动我的是，这些女性并非逃避家庭，而是在履行多年家庭责任后，主动为自己创造探索世界的机会。她们选择摩洛哥、秘鲁等文化深度目的地，偏好徒步、骑行等轻度冒险，体现了对有意义体验的追求。这反映了当代女性对自我成长和精神独立的重视，是社会进步的有力见证。",
+    "best_quote_en": "\"Many of our travellers have families, partners and full social lives, but they also value the freedom to explore on their own terms. Joining a small group tour gives them the best of both worlds: the joy of shared moments and the space to follow their own curiosity.\"",
+    "best_quote_zh": "“我们的许多旅行者都有家庭、伴侣和充实的社交生活，但他们同样珍视按照自己的方式探索世界的自由。参加小型团体游让他们两全其美：既能享受共享时刻的快乐，又能拥有追随自己好奇心的空间。”"
+  },
+  {
+    "id": 117,
+    "title": "Earnestness",
+    "title_zh": "真诚",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/earnest.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "Paul Graham's exploration of earnestness as a fundamental quality in successful startup founders offers profound insights into the psychology of innovation. He argues that genuine interest in solving problems for their own sake—rather than for fame or wealth—creates the most powerful entrepreneurial drive. This earnestness, often mistaken for naivete, actually provides the resilience and energy needed to overcome real-world challenges. Graham makes a compelling case that this quality becomes increasingly valuable as problems grow more complex, explaining why 'nerds' often succeed where superficially sophisticated people fail. The essay thoughtfully examines how intellectual curiosity and financial success have become more aligned in modern technology, representing a significant cultural shift. Graham's personal reflections from his Y Combinator experience lend authenticity to his argument, while his acknowledgment of earnestness's limitations in fields like politics and certain business types adds nuance. This piece challenges Silicon Valley stereotypes and offers a refreshing perspective on what truly drives meaningful innovation.",
+    "summary_zh": "保罗·格雷厄姆对真诚这一品质的探讨，揭示了成功创业者的核心特质。他认为真正的创新动力源于对问题本身的兴趣，而非名利追逐。这种常被误认为天真的真诚，实则是面对复杂挑战时的韧性源泉。文章深刻剖析了知识好奇心与商业成功如何在现代科技领域达成前所未有的契合，这不仅是商业模式的变革，更是文化价值观的演进。格雷厄姆从YC投资经验出发，指出真诚者在青少年时期可能处于劣势，但随着问题难度增加，这种品质反而成为竞争优势。这篇思考不仅颠覆了对硅谷的刻板印象，更提供了审视创新本质的新视角。",
+    "best_quote_en": "When you call someone earnest, you're making a statement about their motives. It means both that they're doing something for the right reasons, and that they're trying as hard as they can. If we imagine motives as vectors, it means both the direction and the magnitude are right.",
+    "best_quote_zh": "当你称某人为真诚时，你是在评价他们的动机。这既意味着他们做事的初衷正确，也表明他们全力以赴。如果把动机比作矢量，那么方向和大小都对了。"
+  },
+  {
+    "id": 118,
+    "title": "Donald Trump, Pete Hegseth, and the “War from Within”",
+    "title_zh": "唐纳德·特朗普、皮特·赫格塞斯与“内部战争”",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/10/13/donald-trump-pete-hegseth-and-the-war-from-within",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This incisive political analysis examines the Trump administration's paradoxical approach to military power, where peace rhetoric abroad contrasts with domestic militarization. The article reveals how Trump and Secretary Hegseth are weaponizing political theater—from renaming the Defense Department to deploying troops for trash collection—while pursuing substantive authoritarian powers through legal declarations of 'armed conflict.' What fascinates me is the gap between performative militarism and actual policy: the administration's domestic military operations appear more cosmetic than strategic, yet their legal maneuvers to claim wartime authority represent genuine institutional threats. The piece brilliantly captures how political theater can mask power consolidation, with Trump leveraging military symbolism to normalize extraordinary executive authority while delivering minimal operational substance. This analysis raises profound questions about how democracies can recognize and resist the gradual erosion of constitutional guardrails through manufactured crises and symbolic warfare.",
+    "summary_zh": "这篇文章深刻揭示了特朗普政府将军事力量政治化的危险倾向——对外宣称和平，对内却制造战争氛围。最令人不安的是这种军事戏剧与实质权力扩张之间的脱节：表面上部队在街头捡垃圾，暗地里却通过宣布‘武装冲突’来获取战时权力。这种表演性威权主义看似荒唐，却在逐步侵蚀民主制度的根基。作者敏锐地捕捉到政治戏剧如何成为权力攫取的掩护，让我们思考：当战争成为隐喻，宪法边界是否会随之模糊？",
+    "best_quote_en": "\"Peace abroad and war at home? It was an unusual note to strike in an electoral democracy, even if recent reports had indicated that a draft National Defense Strategy would shift the military's focus from Russia and China to domestic and regional threats.\"",
+    "best_quote_zh": "\"对外和平与内部战争？这在选举民主国家中是个不寻常的基调，即使最近的报告表明国防战略草案将把军事重点从俄罗斯和中国转向国内和地区威胁。\""
+  },
+  {
+    "id": 119,
+    "title": "Brief life advice/Codenames/The Scale of Life",
+    "title_zh": "简练人生建议/行动代号/生命尺度",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/brief-life-advice-codenames-the-scale-of-life/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "education"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "教育学习"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This eclectic collection from Recomendo offers practical wisdom across multiple life domains, embodying the publication's signature curation of useful ideas. Dan Pink's '40 Harsh Truths' provides condensed life advice that challenges conventional career thinking, while the party planning tips and Codenames game recommendation address the often-overlooked art of social connection. The Scale of Life website offers a fascinating real-time visualization of global activity that puts human existence in perspective. Most compelling are the curated quotes that form a philosophical backbone to the entire collection - particularly Bayo Akomolafe's 'When you meet the monster, anoint its feet' and Joseph Campbell's meditation on experiencing 'the rapture of being alive.' The content succeeds not through depth in any single area but through its thoughtful selection of tools, perspectives, and wisdom that collectively help navigate modern life's complexities. The recommendations balance immediate practicality with deeper existential reflection, creating unexpected connections between gaming, statistics, lighting solutions, and philosophical insight.",
+    "summary_zh": "这份来自Recomendo的精选集锦展现了生活智慧的多维度呈现，既有丹·平克浓缩的人生经验，又有提升社交质量的实用建议。生命尺度网站的实时数据可视化让人重新审视日常生活，而精选的哲学语录则构成了整个内容的思想基石——从阿科莫拉菲的'遇见怪物时，为它涂抹双脚'到坎贝尔对'生命狂喜'的沉思。这些内容的价值不在于单一领域的深度挖掘，而在于精心挑选的工具、视角和智慧如何共同帮助我们应对现代生活的复杂性。在实用建议与存在主义思考之间，游戏、统计数据、灯光解决方案和哲学洞察形成了意想不到的联结。",
+    "best_quote_en": "\"When you meet the monster, anoint its feet.\" - Bayo Akomolafe",
+    "best_quote_zh": "\"遇见怪物时，为它涂抹双脚。\" - 巴约·阿科莫拉菲"
+  },
+  {
+    "id": 120,
+    "title": "Three Observations",
+    "title_zh": "三个观察",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/three-observations",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-02-09",
+    "summary_en": "This article presents a compelling vision of AGI's economic trajectory through three key observations: intelligence scales logarithmically with resources, AI costs drop 10x annually, and socioeconomic value grows super-exponentially with intelligence gains. What makes this perspective particularly insightful is how it bridges technical realities with profound societal implications—suggesting AI agents will function as virtual co-workers across knowledge fields while acknowledging the technology's uneven distribution of benefits. The author thoughtfully balances optimism about unprecedented human empowerment with pragmatic concerns about capital-labor imbalances and authoritarian misuse. Most striking is the recognition that while technical progress appears predictable, the real challenge lies in governance and equitable distribution. The vision of enabling every person's creative potential through accessible intelligence represents a radical democratization of capability, though the path requires careful navigation between safety and empowerment. This isn't just technical forecasting—it's a philosophical roadmap for one of humanity's most significant transitions.",
+    "summary_zh": "这篇文章通过三个核心观察描绘了AGI的经济轨迹：智能与资源呈对数增长、AI成本每年下降10倍、社会经济价值随智能提升呈超指数增长。作者巧妙地将技术现实与深刻的社会影响联系起来，既展望了AI代理人作为虚拟同事的未来，又清醒认识到技术收益可能分配不均。最可贵的是在乐观与务实间的平衡——既相信人类创造力的空前解放，又警惕资本与劳动的失衡及威权滥用。文章指出技术路径相对清晰，真正的挑战在于治理与公平分配，这种清醒的远见使文章超越了单纯的技术预测，成为对人类重大转型的哲学思考。",
+    "best_quote_en": "Anyone in 2035 should be able to marshall the intellectual capacity equivalent to everyone in 2025; everyone should have access to unlimited genius to direct however they can imagine.",
+    "best_quote_zh": "到2035年，任何人都应该能够调动相当于2025年全人类的智力；每个人都应该能够获得无限的天才，并按照自己的想象来引导。"
   }
 ]
