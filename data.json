@@ -1,125 +1,5 @@
 [
   {
-    "id": 26,
-    "title": "Sustainable period products that actually work: the best pads, menstrual cups and swimwear, tested",
-    "title_zh": "经期用品：测评可持续月经产品，包括最佳护垫、月经杯和泳衣",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2025/sep/16/best-sustainable-period-products-menstrual-cups-pads-swimwerar-uk",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "writing-content",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "写作内容",
-      "新手友好"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This article offers an invaluable, hands-on guide to sustainable period products, moving beyond mere recommendations to provide a deeply personal and thoroughly tested review. The author, a sustainability journalist, leverages her expertise and personal experience to dissect the environmental and health impacts of traditional versus eco-friendly options. What makes this piece particularly compelling is its blend of scientific backing (referencing LCA studies) with practical, real-world testing across various product categories like reusable pads, menstrual cups, and even period swimwear. The insights into product performance, comfort, and user experience, coupled with practical advice on usage and care, make this an exceptionally actionable resource for anyone looking to transition to more sustainable menstrual care. It thoughtfully addresses common concerns and debunks myths, providing a clear path for readers to make informed choices that benefit both their health and the planet.",
-    "summary_zh": "这篇文章为寻求可持续经期产品的读者提供了一份极其实用且经过亲身测试的指南。作者作为一名可持续发展记者，巧妙地将科学研究与个人体验相结合，深入剖析了传统产品对环境和健康的负面影响，并详细测评了可重复使用的护垫、月经杯乃至经期泳衣等多种替代品。其价值在于不仅提供了产品推荐，更融入了使用心得、注意事项及环保考量，对于希望实践可持续生活方式的读者而言，这是一份兼具知识性与操作性的宝贵资源，能够帮助她们做出更健康、更环保的个人选择。",
-    "best_quote_en": "The report concluded that the menstrual cup had the lowest environmental impact across all categories, followed by period underwear, reusable pads and, in last place, single-use pads and tampons.",
-    "best_quote_zh": "报告总结道，月经杯在所有类别中对环境的影响最低，其次是经期内裤、可重复使用的护垫，最后是即弃型护垫和卫生棉条。"
-  },
-  {
-    "id": 27,
-    "title": "A Steering Vector for SQL Injection Vulnerabilities in Phi-1.5",
-    "title_zh": "Phi-1.5 中 SQL 注入漏洞的转向向量研究",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/GkyfWMWto6nF6ofPY/a-steering-vector-for-sql-injection-vulnerabilities-in-phi-1",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "cybersecurity",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "网络安全",
-      "数据驱动"
-    ],
-    "date": "2025-09-17",
-    "summary_en": "This research delves into applying mechanistic interpretability techniques to enhance the security of LLM-generated code, specifically focusing on SQL Injection vulnerabilities in Microsoft's Phi-1.5 model. The author, in their first LessWrong post, meticulously details how a 'steering vector' can be extracted and utilized to nudge the model towards generating safer code. The work is particularly insightful in its methodology, using activation patching and logit attribution analysis to pinpoint the network layers most influential in safe/unsafe code generation. The findings demonstrate that Phi-1.5 can indeed produce vulnerable code, but crucially, an internal representation correlating with SQL Injection can be identified and manipulated. This has significant implications for the future of secure AI-assisted code development, offering a tangible path to control AI behavior beyond mere fine-tuning. It's a compelling example of how understanding the 'black box' can lead to practical, safety-critical applications.",
-    "summary_zh": "这篇 LessWrong 首发文章深入探讨了如何利用机械可解释性技术提升 LLM 生成代码的安全性，尤其聚焦于 Phi-1.5 模型中的 SQL 注入漏洞。作者通过细致的激活补丁和 Logit 归因分析，成功提取并应用了一个“转向向量”，有效引导模型生成更安全的代码。这不仅揭示了小型 LLM 存在生成脆弱代码的风险，更重要的是，它提供了一个通过理解模型内部机制来主动控制其行为的实用方法。对我而言，这不仅是技术上的突破，更引发了对 AI 安全可控性的深刻思考：我们能否通过深入理解而非简单规避，来驯服这些强大的智能体？",
-    "best_quote_en": "This project demonstrates how mechanistic interpretability techniques can be applied for cybersecurity problems. It demonstrates that coding models can generate unsafe code, and that models have internal representations that correlate with generating safe or unsafe code for a common SQL Injection vulnerability by extracting a steering vector for Phi-1.5 that generalizes across different programming languages.",
-    "best_quote_zh": "该项目展示了机械可解释性技术如何应用于网络安全问题。它表明编码模型可以生成不安全的代码，并且通过为 Phi-1.5 提取一个可跨不同编程语言泛化的转向向量，证明模型具有与生成针对常见 SQL 注入漏洞的安全或不安全代码相关的内部表征。"
-  },
-  {
-    "id": 28,
-    "title": "Your First Call After You Shoot Someone",
-    "title_zh": "枪击他人后的第一通电话",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-the-southwest/your-first-call-after-you-shoot-someone",
-    "tags": [
-      "analyze",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This deeply unsettling article explores the rise of 'self-defense insurance' in the era of Stand Your Ground laws, using a tragic case study of an elderly man who shot his tenant. It meticulously dissects how these legal services, often marketed by gun enthusiasts, navigate the complex, often morally ambiguous, aftermath of a lethal self-defense incident. The author critically examines the industry's role in both educating gun owners and, arguably, fostering a 'warrior mindset' that blurs the lines between legitimate self-defense and overreaction. The piece raises profound questions about the societal implications of such insurance, the nature of justifiable force, and the psychological toll on individuals caught in these life-altering events. It's a compelling look at the intersection of gun culture, legal frameworks, and human behavior, pushing readers to consider the broader ethical landscape.",
-    "summary_zh": "这篇文章深入剖析了“自卫保险”在“不退让法”盛行下的崛起，通过一个老年人枪杀房客的悲剧案例，揭示了这类服务在处理致命自卫事件后法律和道德上的复杂性。作者以批判性视角审视了该行业在提供法律援助的同时，如何也在无形中助长了一种“战士心态”，模糊了正当防卫与过度反应的界限。这不仅是对枪支文化与法律交织的深刻洞察，也促使我们反思何谓正义的武力，以及此类保险对个人和社会价值观的深远影响。读来令人深思，尤其是在个人责任与法律保护之间寻找平衡点。",
-    "best_quote_en": "Stoking fear and then presenting yourself as the antidote to that fear is a time-honored sales technique.",
-    "best_quote_zh": "煽动恐惧，然后将自己呈现为这种恐惧的解药，这是一种由来已久的销售技巧。"
-  },
-  {
-    "id": 29,
-    "title": "The Trump-Biden Debate",
-    "title_zh": "特朗普-拜登辩论",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2020/09/debate2020.html",
-    "tags": [
-      "solve",
-      "politics",
-      "medicine",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "医学健康",
-      "争议观点"
-    ],
-    "date": "2020-09-30",
-    "summary_en": "This transcript of the first Trump-Biden debate offers a raw, unfiltered look at the chaotic and often absurd nature of modern political discourse. Far from a substantive policy discussion, it devolves into personal attacks, interruptions, and evasions, particularly from Trump, with Biden struggling to maintain composure and articulate his points. The moderator, Chris Wallace, appears increasingly exasperated, highlighting the immense challenge of mediating such an event. The content, while presented as a direct transcript, reads more like a satirical play, exposing the performative and often farcical elements that can dominate high-stakes political encounters. It prompts reflection on the quality of political debate and the mechanisms through which leaders engage with critical national issues, ultimately suggesting a profound breakdown in civil discourse and a preference for spectacle over substance.",
-    "summary_zh": "这篇特朗普-拜登辩论实录读来令人哭笑不得，简直是一出现代政治荒诞剧。它揭示了政治辩论如何从政策讨论退化为个人攻击和无休止的打断，让人不禁思考，这究竟是政治家的真实面貌，还是我们作为观众所期待的“表演”？华莱士作为主持人的无奈，也侧面反映了这种交流模式的深层问题。看完之后，我个人对政治沟通的有效性感到一丝悲哀，同时也好奇，这种“娱乐化”的辩论究竟对社会产生了怎样的影响。",
-    "best_quote_en": "A squirrel’s ass, Chris. That’s where someone found a ballot the other day. A squirrel shit out a ballot in a park in Philadelphia and a man picked it up and guess what? It said Trump on the ballot.",
-    "best_quote_zh": "克里斯，有人前几天在一只松鼠的屁股里发现了一张选票。一只松鼠在费城的一个公园里拉出了一张选票，一个人捡起来，你猜怎么着？选票上写着特朗普。"
-  },
-  {
-    "id": 30,
-    "title": "How to Wrap Five Eggs / Frostgrave",
-    "title_zh": "如何包裹五个鸡蛋 / 冰墓：冰封之城奇幻战棋",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/how-to-wrap-five-eggs-frostgrave/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This article presents two distinct reviews: one for 'How to Wrap Five Eggs,' a 1967 book celebrating traditional Japanese packaging design, and another for 'Frostgrave,' a modern miniatures wargame. The packaging book highlights the ingenious use of natural materials and timeless aesthetic principles, offering inspiration for designers and makers by showcasing historical craft that remains surprisingly relevant. The 'Frostgrave' review delves into a tabletop game that captures the essence of old-school dungeon delving with streamlined rules and an approachable format, appealing to both seasoned wargamers and newcomers to the hobby. It reflects a broader renaissance in tabletop gaming, making it an excellent entry point for those seeking a quick, engaging fantasy experience without heavy investment. Both pieces, though disparate in subject, celebrate craftsmanship and thoughtful design, whether in ancient packaging or contemporary gaming mechanics.",
-    "summary_zh": "这篇文章奇妙地并置了两个看似不相关的世界：一本1967年关于日本传统包装艺术的经典，和一款现代奇幻战棋游戏《冰墓》。前者展现了极致的匠心与美学，那些古老而巧妙的包装设计至今仍令人惊叹，它提醒我们，真正的设计价值是超越时代的。后者则以其精炼的规则和亲民的设定，成功复刻了经典D&D的魅力，为桌面游戏爱好者提供了一个低门槛、高乐趣的体验。这让我思考，无论是古老的包装智慧，还是新潮的游戏设计，其核心都在于如何以最优雅、最有效的方式解决问题，并为体验者带来深层次的满足感。",
-    "best_quote_en": "This book is a museum of traditional packaging artifacts from Japan. Before the age of plastic, the Japanese perfected the art of packing consumables in incredibly ingenious ways. They excelled in using natural materials such as paper, straw, clay, and wood. Much of the packaging looks astonishingly modern, even though the form may be hundreds, if not thousands of years old.",
-    "best_quote_zh": "Frostgrave不是D&D。它是一款微缩模型游戏，而不是角色扮演游戏。但它仍然成功地在桌面游戏中提供了复古奇幻角色扮演体验的许多精髓，玩法快速简单，无需大量前期投入。"
-  },
-  {
     "id": 31,
     "title": "‘This is the hardest I’ve ever lived’: meet the US cowgirls making it as ranchers",
     "title_zh": "“这是我活过最艰难的日子”：探访在美国农场闯出一片天的女牛仔们",
@@ -2334,5 +2214,121 @@
     "summary_zh": "奥特曼的反思不仅记录了OpenAI从研究实验室到AI革命中心的历程，更揭示了技术变革背后的人性维度。从意外被解雇的危机到治理体系的完善，从纯粹研究到产品公司的转型，这段旅程充满了矛盾与成长。最打动人的是他对感恩的强调——在追求AGI的宏大目标时，真正支撑前进的是人际关系、信任与合作精神。这篇反思提醒我们，即便是最前沿的科技革命，其核心依然是人的智慧和情感连接。",
     "best_quote_en": "The overwhelming feeling is gratitude; I know that someday I'll be retired at our ranch watching the plants grow, a little bored, and will think back at how cool it was that I got to do the work I dreamed of since I was a little kid.",
     "best_quote_zh": "最强烈的感受是感激；我知道有一天我会在我们的牧场退休，看着植物生长，有点无聊，然后回想起来，能从事从小梦想的工作是多么酷的一件事。"
+  },
+  {
+    "id": 126,
+    "title": "A moment that changed me: I stopped restraining myself – and found the love of my life",
+    "title_zh": "改变我的那一刻：我不再约束自己——找到了此生挚爱",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/08/a-moment-that-changed-me-i-stopped-restraining-myself-and-found-the-love-of-my-life",
+    "tags": [
+      "learn",
+      "ai-research",
+      "psychology"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "心理学"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "This poignant personal narrative reveals the psychological burden of performative femininity in romantic relationships and the liberating power of authentic self-expression. The author's journey from carefully curated perfection to raw vulnerability demonstrates how internalized gender expectations can sabotage genuine connection. The pivotal moment—an involuntary roar of pain after stubbing her toe—becomes a metaphor for breaking free from self-imposed constraints. What makes this particularly insightful is how the author recognizes that her partner's acceptance wasn't the surprise; rather, her own realization that she'd been policing herself unnecessarily was the true breakthrough. The piece offers a subtle critique of dating culture that encourages women to maintain emotional distance and manufactured mystery, suggesting that lasting love requires the courage to be imperfect. The fact that her husband doesn't remember the incident underscores how our self-conscious moments often loom larger in our own minds than in others' perceptions.",
+    "summary_zh": "这篇深刻的自述揭示了女性在亲密关系中扮演完美角色的心理负担，以及真实自我表达带来的解放力量。作者从精心维持的完美形象到展露脆弱本性的转变，展现了内在化的性别期望如何阻碍真正的连接。那个意外疼痛的吼叫时刻成为打破自我约束的隐喻——最动人的是作者意识到，问题不在于伴侣是否接受，而在于自己一直不必要地审查着自己。这提醒我们，持久的关系需要接纳不完美的勇气，而我们自以为的尴尬时刻，在他人记忆中往往无足轻重。",
+    "best_quote_en": "\"Slowly I let the unedited version of myself break free. The roar served as a reminder that this relationship could be different, if I only let it.\"",
+    "best_quote_zh": "“慢慢地，我让未经编辑的自我挣脱出来。那声吼叫提醒我，这段关系可以不同——只要我允许它如此。”"
+  },
+  {
+    "id": 127,
+    "title": "The Airbnbs",
+    "title_zh": "Airbnb创始人们",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/airbnbs.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "This intimate recollection from Paul Graham reveals the extraordinary founding story of Airbnb through the lens of its founders' unwavering determination and unique character. What stands out is not the business idea itself—which initially garnered little investor or user interest—but the founders' relentless energy and problem-solving mindset that transformed a struggling startup into a global phenomenon. The narrative highlights how Brian Chesky, Joe Gebbia, and Nate Blecharczyk's personal experience as hosts revealed the core value proposition: a new form of travel that benefited both hosts needing income and guests seeking authentic experiences. The piece offers profound insights about startup resilience, showing how near-failure moments can become turning points when founders maintain conviction about their vision. The Airbnbs' methodical approach—focusing on New York as a beachhead market, personally improving listings with professional photography, and maintaining detailed notes—demonstrates how operational excellence complements visionary thinking. This account challenges conventional wisdom about what makes startups succeed, emphasizing founder character over market timing or initial traction.",
+    "summary_zh": "这篇由保罗·格雷厄姆撰写的回忆录揭示了Airbnb创始团队非凡的特质——他们并非因完美商业计划成功，而是凭借近乎偏执的勤奋和发现问题本质的能力。在2008年金融危机最严重时，当投资者中途离场、信用卡全部刷爆的情况下，他们依然坚持，因为他们亲身体验过作为房东与房客建立的真实连接。这种创始人精神比商业模式更珍贵：他们亲自前往纽约为房东拍摄专业照片，在浴室镜子上贴上‘拉面盈利’目标，将每个建议立即转化为行动。文章深刻说明了创业成功往往源于对用户需求的深刻洞察而非表面数据，以及极端环境下创业者品质的淬炼。",
+    "best_quote_en": "\"People, like matter, reveal their nature under extreme conditions.\"",
+    "best_quote_zh": "“人如同物质，在极端条件下才会显露本性。”"
+  },
+  {
+    "id": 128,
+    "title": "You Should Get a Reusable Mask",
+    "title_zh": "你应该购买可重复使用口罩",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/wXwjMbtiSqALMEw2g/you-should-get-a-reusable-mask",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "This article presents a compelling risk management argument for purchasing reusable masks as pandemic preparedness, blending statistical reasoning with practical advice. The author makes a persuasive case by comparing COVID-19 mortality rates with the 1918 flu pandemic, suggesting a conservative 0.02% annual chance of pandemic death. What's particularly insightful is the economic framing - using the US Department of Transportation's $14M valuation of human life to calculate that even a minimal risk reduction makes mask ownership cost-effective at $140-$14,000 in value. The piece stands out for its calm, rational approach to what's often an emotionally charged topic, acknowledging AI's potential to worsen future pandemics while focusing on simple, actionable preparedness. The personal invitation to try masks at an EA Boston meetup adds authenticity, though the argument would benefit from addressing mask limitations beyond efficacy percentages.",
+    "summary_zh": "这篇文章以冷静的理性分析疫情防范，将统计学与实用建议巧妙结合。作者通过比较新冠与1918流感的死亡率，提出可重复使用口罩的价值主张。最精彩的是用美国交通部对生命的1400万美元估值进行成本效益分析，即使风险降低效果只有预估的百分之一，购买口罩仍然划算。文章超越了简单的健康建议，展现了风险管理的思维框架，在情绪化话题中保持理性说服力。虽然AI可能加剧未来疫情风险的观点值得关注，但核心价值在于将抽象的风险转化为具体的防范行动。",
+    "best_quote_en": "If you, as the US DoT does, value not dying at $14M, then this is worth $14k. Even if the benefit of a mask is 100x lower than we estimated ($140), it's still worth it to buy one.",
+    "best_quote_zh": "如果你像美国交通部那样将避免死亡的价值定为1400万美元，那么这就值1.4万美元。即使口罩的益处比我们估计的低100倍（140美元），购买一个仍然是值得的。"
+  },
+  {
+    "id": 129,
+    "title": "The Volunteers Tracking ICE in Los Angeles",
+    "title_zh": "追踪ICE的洛杉矶志愿者",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-volunteers-tracking-ice-in-los-angeles",
+    "tags": [
+      "analyze",
+      "politics",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "This compelling report illuminates the Harbor Area Peace Patrol's grassroots surveillance of federal immigration enforcement in Los Angeles, revealing how ordinary citizens use simple tools—cellphones, clickers, Instagram—to document and disrupt ICE operations. The activists' daily monitoring at Terminal Island exposes the tension between constitutional rights and federal overreach, with agents responding through intimidation tactics and one member's violent detention. The article critically examines the gap between political rhetoric and reality, as local Democratic leaders' anti-Trump statements contrast with LAPD's apparent cooperation with immigration raids. Through historical parallels to Japanese internment and Sicilian immigrant solidarity, it frames current resistance within a legacy of community protection against state oppression. The Peace Patrol's work demonstrates how digital tools empower civilian oversight while highlighting systemic failures in political accountability.",
+    "summary_zh": "这篇报道深刻揭示了洛杉矶港口和平巡逻队如何通过日常监控ICE行动，展现普通公民对抗联邦权力扩张的草根力量。志愿者们用手机和计数器记录车辆，通过Instagram公开信息，形成有效的监督网络。文章不仅记录了他们遭遇的恐吓和逮捕，更批判了当地政客反特朗普言论与实际执法间的矛盾。通过将当前移民执法与二战时日裔拘留的历史联系起来，强调了社区抵抗的延续性。这种直接行动超越了传统政治参与，体现了在体制失效时公民自组织的必要性。",
+    "best_quote_en": "\"I'm scared every night when I come home that they're going to take me away,\" she said.",
+    "best_quote_zh": "“我每天晚上回家都害怕他们会把我带走，”她说。"
+  },
+  {
+    "id": 130,
+    "title": "The Sweetapolita Bakebook / Castro’s Cuba",
+    "title_zh": "The Sweetapolita 烘焙书 / 卡斯特罗的古巴",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-sweetapolita-bakebook-castros-cuba/",
+    "tags": [
+      "inspire",
+      "society",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "This content presents two distinct but equally compelling cultural artifacts that reflect different forms of artistic expression and historical documentation. The Sweetapolita Bakebook represents a fascinating intersection of culinary arts and visual design, transforming basic baking into edible fine art through vibrant colors and creative techniques. Rosie Alyea's journey from professional baker to entrepreneur demonstrates how digital platforms can amplify traditional crafts, creating communities around aesthetic experiences. Meanwhile, Lee Lockwood's 'Castro's Cuba' offers a rare glimpse into revolutionary Cuba through intimate photography and candid interviews with Fidel Castro himself. The timing of this Taschen reprint is particularly poignant as Cuba undergoes diplomatic normalization while maintaining its revolutionary identity. Both works, though seemingly unrelated, share a common thread of capturing transformative moments—whether in the kitchen or in political history—and preserving them through meticulous documentation. They remind us that artistry manifests in both sugar and social revolution, and that understanding either requires appreciating the context and craftsmanship behind the creation.",
+    "summary_zh": "这篇文章巧妙地并列了两部截然不同的文化作品，却同样展现了艺术表达与历史记录的深刻力量。《Sweetapolita烘焙书》将传统烘焙提升为可食用的艺术品，展现了色彩与创意如何转化日常烹饪。而《卡斯特罗的古巴》则通过亲密访谈和纪实摄影，捕捉了革命古巴的真实面貌。两部作品看似无关，实则都记录了某种转变的时刻——无论是厨房里的创意革命，还是政治舞台上的社会变革。它们提醒我们，真正的艺术既存在于糖霜的细腻中，也蕴含在历史的厚重里。在当前古巴与美国关系正常化的背景下，这部摄影集的重印更显时代意义。",
+    "best_quote_en": "\"From an early age, they must be discouraged from every egotistical feeling in the enjoyment of material things.\"",
+    "best_quote_zh": "\"从幼年开始，就必须抑制他们在物质享受中的一切自私感受。\""
   }
 ]
