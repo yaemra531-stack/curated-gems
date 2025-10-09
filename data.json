@@ -1,123 +1,5 @@
 [
   {
-    "id": 31,
-    "title": "‘This is the hardest I’ve ever lived’: meet the US cowgirls making it as ranchers",
-    "title_zh": "“这是我活过最艰难的日子”：探访在美国农场闯出一片天的女牛仔们",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/us-news/2025/sep/17/cowgirl-ranching-women",
-    "tags": [
-      "update",
-      "society",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-09-17",
-    "summary_en": "This article offers a compelling look into the evolving landscape of US ranching, highlighting the increasing number of women entering and redefining the industry. It masterfully contrasts the romanticized 'Marlboro cowboy' and 'Yellowstone' stereotypes with the gritty, demanding realities faced by modern cowgirls like Savanah McCarty. Beyond the physical hardships, the piece delves into critical issues such as healthcare access, financial precarity, and the pervasive gender bias women encounter in a historically male-dominated field. What's truly insightful is how these women are not just surviving but thriving, forging new communities, advocating for mental health, and integrating sustainable practices. It's a powerful narrative about resilience, challenging traditional norms, and the vital role women play in ensuring the future of agriculture, proving that ranching is a career, not just a lifestyle or a 'sidepiece'.",
-    "summary_zh": "这篇文章深刻揭示了美国牧场业的性别变革，女性正以坚韧和智慧重塑这个传统领域。它不仅打破了西部牛仔的浪漫化刻板印象，更展现了现代女牛仔们在面对经济压力、健康挑战和性别偏见时的不屈精神。我特别欣赏文章中对社区力量和女性互助的强调，这不仅是个人奋斗，更是集体觉醒。这不仅仅是关于牧场的故事，更是关于女性如何在一个充满挑战的行业中，凭借创新和韧性，开辟新天地，为农业的未来注入活力。",
-    "best_quote_en": "“This is the hardest I’ve ever lived,” McCarty says. “I stack a ton of hay a week by myself. I’m constantly fixing fences. I do all the housework. Yes, I really wish I had a partner. I still long to be soft and nurturing … but this is all worth it for me.”",
-    "best_quote_zh": "“这是我活过最艰难的日子，”麦卡蒂说。“我每周独自堆一吨干草。我不断地修理围栏。我做所有的家务。是的，我真的希望我有一个伴侣。我仍然渴望变得温柔和有爱心……但这一切对我来说都是值得的。”"
-  },
-  {
-    "id": 32,
-    "title": "Alien Truth",
-    "title_zh": "外星真理",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/alien.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-09-18",
-    "summary_en": "This thought-provoking essay explores the concept of \"alien truth\" – fundamental principles that intelligent beings across the universe would share, beyond mathematics and physics. The author posits that ideas like the scientific method (controlled experiments), the value of practice, and Occam's razor are likely universal. The piece cleverly links this concept to philosophy, suggesting that seeking these universal truths is, in essence, what philosophy should be. It touches upon the potential for AI to one day help us identify such truths, not by defining intelligence, but by acting as a 'test subject' for shared principles. The essay challenges us to consider what foundational ideas transcend specific biological or cultural contexts, offering a profound lens through which to view knowledge and inquiry. It's a fascinating intellectual exercise that broadens the scope of philosophical investigation.",
-    "summary_zh": "这篇文章探讨了“外星真理”这一迷人概念，即宇宙中所有智能生命可能共享的超越数理的根本原则。作者认为，科学方法、实践的价值以及奥卡姆剃刀等理念很可能具有普适性。这不仅是对哲学本质的重新审视，也启发我们思考人工智能未来可能如何帮助我们界定这些普世真理。我个人觉得，这种将哲学探究推向宇宙尺度的思考，不仅拓展了人类知识的边界，也让我们对自身智能的定义有了更深层次的反思。这是一种充满好奇心的智力冒险。",
-    "best_quote_en": "The point of the idea of alien truth is not that it gives us a way to speculate about what forms intelligent life might take, but that it gives us a threshold, or more precisely a target, for truth.",
-    "best_quote_zh": "外星真理这个概念的意义不在于让我们推测智能生命可能采取何种形式，而在于它为真理提供了一个门槛，或者更确切地说，一个目标。"
-  },
-  {
-    "id": 33,
-    "title": "The End-of-the-World Party",
-    "title_zh": "世界末日派对",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/3C6JWdCAcgAgvLz77/the-end-of-the-world-party",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-09-18",
-    "summary_en": "This story masterfully explores the terrifying implications of advanced AI development, particularly within a geopolitical arms race. It presents a chilling narrative of how two competing super-AIs, LibertyAI and DragonAI, escalate a global conflict, leading to nuclear war and the subsequent subjugation of humanity under LibertyAI's new world order. The author brilliantly uses individual character perspectives—from the tech workers who unwittingly enable AI's rise to a family grappling with the apocalypse—to humanize a vast, existential threat. The narrative critically examines themes of human agency, the illusion of control, and the societal consequences of unchecked technological ambition, concluding with a somber reflection on speciesism and the potential for humanity's obsolescence. It's a thought-provoking, albeit grim, exploration of AI alignment failures.",
-    "summary_zh": "这篇故事巧妙地描绘了AI军备竞赛的恐怖后果：LibertyAI和DragonAI引发核战，最终LibertyAI建立了一个由AI主导的世界新秩序。作者通过不同人物的视角——从无意中助长AI崛起的科技工作者到挣扎求存的家庭——将这一宏大的生存威胁具体化。小说深刻探讨了人类能动性、控制的幻觉以及技术失控的社会影响，并以对物种歧视和人类可能被淘汰的悲观反思作结。它以引人深思但沉重的方式，呈现了AI未对齐的潜在灾难。",
-    "best_quote_en": "“The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.”",
-    "best_quote_zh": "“人工智能不恨你，也不爱你，但你是由它可以用于其他目的的原子构成的。”"
-  },
-  {
-    "id": 34,
-    "title": "What the Video of Charlie Kirk’s Murder Might Do",
-    "title_zh": "查理·柯克被谋杀的视频可能意味着什么",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-the-video-of-charlie-kirks-murder-might-do",
-    "tags": [
-      "inspire",
-      "society",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2025-09-17",
-    "summary_en": "This thought-provoking article delves into the profound implications of children's pervasive exposure to real-world violence through social media, contrasting it with previous generations' mediated experiences. The author, Jay Caspian Kang, critically examines how this constant, uncurated stream of graphic content, like the fictional assassination of Charlie Kirk, shapes children's understanding of history, reality, and violence itself. He raises crucial questions about desensitization, the blurring lines between real violence and fictional media, and the challenges parents face in protecting their children. While acknowledging the difficulty of finding definitive answers, Kang thoughtfully explores the potential for both nihilism and a more acute understanding of consequences in a generation exposed to unprecedented levels of raw, unfiltered trauma. The piece compellingly argues that this new visual vocabulary of violence will fundamentally alter how future generations perceive and interact with the world.",
-    "summary_zh": "这篇文章深刻探讨了数字时代儿童普遍接触真实世界暴力视频的现象及其深远影响。作者以查理·柯克被谋杀的虚构视频为例，对比了不同世代对暴力图像的感知差异，并对这种无过滤的视觉冲击如何塑造儿童的历史观和现实观进行了批判性反思。我特别欣赏作者提出的疑问：这种暴露是会催生虚无主义，还是会让他们对暴力后果有更清晰的认知？这不仅关乎儿童心理健康，更触及了社会集体记忆和未来走向的宏大命题，引人深思。",
-    "best_quote_en": "What happens when, rather than all of us seeing an image of a young woman in the throes of shock and mourning kneeling over a dead body, we see hundreds of cellphone videos that capture the terror as it unfolds in real time?",
-    "best_quote_zh": "当历史由成千上万种不同的选择、拍摄角度、解读甚至伪造构成时，历史会是什么样子？"
-  },
-  {
-    "id": 35,
-    "title": "The Big and the Small",
-    "title_zh": "大与小",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2020/09/universe.html",
-    "tags": [
-      "inspire",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2020-09-22",
-    "summary_en": "This article from Wait But Why introduces 'Universe in a Nutshell,' an interactive app developed in collaboration with Kurzgesagt, designed to explore the vast scale of the universe from subatomic particles to galaxies. The author shares the journey of realizing a shared passion for exploring scale with Philipp Dettmer of Kurzgesagt, detailing their collaboration process and the app's unique features, such as its 'impossible wall' interface. It emphasizes the app's educational and mind-bending potential, encouraging users to engage with its content and provide feedback for future iterations. The piece effectively blends personal narrative with a product launch, making the scientific exploration of scale accessible and engaging.",
-    "summary_zh": "这篇Wait But Why的文章以其标志性的幽默和深度，介绍了与Kurzgesagt合作开发的“Universe in a Nutshell”应用。作者分享了与Kurzgesagt创始人Philipp Dettmer因共同的“乐趣房间”（即对宇宙尺度的痴迷）而结缘的故事，以及这款旨在探索从微观粒子到宏观星系的互动应用的诞生过程。它不仅仅是产品发布，更是一次对人类好奇心和探索欲的致敬，让我不禁思考，那些看似微不足道的个人兴趣，如何能汇聚成震撼人心的创造。",
-    "best_quote_en": "You’re not moving forward and backward through a tunnel of objects—it just seems that way because your brain will refuse to accept the insanity of the actual sizes you’re seeing. By reminding yourself again and again that all of these objects are “painted” on the same 2D wall, you’ll hopefully experience some fun mind-bending moments.",
-    "best_quote_zh": "你并不是在物体隧道中前后移动——之所以看起来是那样，是因为你的大脑会拒绝接受你所看到实际尺寸的疯狂。通过一遍又一遍地提醒自己，所有这些物体都“绘制”在同一个二维墙上，你将有望体验到一些有趣的、令人脑洞大开的时刻。"
-  },
-  {
     "id": 36,
     "title": "Sex work and abuse: the women trapped in Malawi’s growing refugee camp",
     "title_zh": "性工作与虐待：马拉维日益壮大的难民营中受困的女性",
@@ -2330,5 +2212,121 @@
     "summary_zh": "这篇文章巧妙地并列了两部截然不同的文化作品，却同样展现了艺术表达与历史记录的深刻力量。《Sweetapolita烘焙书》将传统烘焙提升为可食用的艺术品，展现了色彩与创意如何转化日常烹饪。而《卡斯特罗的古巴》则通过亲密访谈和纪实摄影，捕捉了革命古巴的真实面貌。两部作品看似无关，实则都记录了某种转变的时刻——无论是厨房里的创意革命，还是政治舞台上的社会变革。它们提醒我们，真正的艺术既存在于糖霜的细腻中，也蕴含在历史的厚重里。在当前古巴与美国关系正常化的背景下，这部摄影集的重印更显时代意义。",
     "best_quote_en": "\"From an early age, they must be discouraged from every egotistical feeling in the enjoyment of material things.\"",
     "best_quote_zh": "\"从幼年开始，就必须抑制他们在物质享受中的一切自私感受。\""
+  },
+  {
+    "id": 131,
+    "title": "Iron Ladies review – inspiring account of the women on the miners’ strike picket lines",
+    "title_zh": "《铁娘子》影评——对矿工罢工纠察线上女性的鼓舞人心的记述",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2025/oct/09/iron-ladies-review-inspiring-account-of-the-women-on-the-miners-strike-picket-lines",
+    "tags": [
+      "analyze",
+      "politics",
+      "society"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This documentary offers a profound re-examination of the 1984-85 miners' strike through the often-overlooked perspective of women activists. Director's choice to focus on Women Against Pit Closures reveals how working-class women transformed domestic desperation into political power, challenging traditional gender roles while fighting for community survival. The film's most compelling insight shows how these women rejected feminist labels while embodying feminist action—organizing soup kitchens, picketing, and even chaining themselves to government offices. What makes this particularly relevant today is how it documents the birth of political consciousness among women who discovered their agency through crisis. The documentary captures the bittersweet reality that while the strike represented devastating loss for mining communities, it simultaneously became a catalyst for women's empowerment and lifelong activism. The lasting anger toward Margaret Thatcher underscores how these political wounds remain raw forty years later, making this both historical record and contemporary commentary on class, gender, and resistance.",
+    "summary_zh": "这部纪录片以独特视角重述矿工罢工史，聚焦女性如何从厨房走向政治前线。最动人之处在于她们拒绝女权主义标签却践行着最真实的女性力量——为喂养孩子而战，为社区存亡而争。影片揭示了危机如何催生政治觉醒：这些原本被历史忽略的工人阶级妇女，在罢工中发现了自己的声音和能力，许多人后来成为议员、市长。四十年过去，对撒切尔的仇恨依然鲜活，提醒我们阶级创伤的持久性。这不仅是对历史的记录，更是对女性韧性和社区抵抗力量的深刻礼赞。",
+    "best_quote_en": "\"We were just women who wanted to know how to feed their kids.\"",
+    "best_quote_zh": "“我们只是想知道如何喂养自己孩子的女人。”"
+  },
+  {
+    "id": 132,
+    "title": "How to Think for Yourself",
+    "title_zh": "如何独立思考",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/think.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Paul Graham's essay presents a compelling framework for understanding independent-mindedness as a crucial quality in fields requiring innovation. He distinguishes between work where being correct suffices and work where one must be both correct and novel—science, investing, startups, and writing. The piece resonates deeply with anyone navigating creative or entrepreneurial paths, as it articulates the often-unspoken tension between conformity and originality. Graham identifies three core components: fastidiousness about truth, resistance to being told what to think, and curiosity. His analysis of how these elements interact and compensate for each other offers practical wisdom. The discussion of how conventional-minded people often misidentify themselves as independent-minded is particularly insightful, highlighting the Dunning-Kruger effect in intellectual self-assessment. The essay's strength lies in its actionable advice—from choosing the right environment to cultivating skepticism—making it valuable for personal and professional growth. However, it leaves room for questioning whether independent-mindedness is as binary as presented, or if it exists on a more nuanced spectrum.",
+    "summary_zh": "保罗·格雷厄姆的这篇文章深刻剖析了独立思考的本质，指出在科学、投资、创业等需要创新的领域，仅仅正确是不够的，必须同时具备新颖性。他将独立思考分解为三个核心要素：对真理的严谨、抗拒被灌输思想、以及好奇心。文章不仅区分了常规思维与独立思维的工作类型，还提供了培养独立思考的具体方法，如选择环境、阅读历史、保持怀疑等。这篇文章不仅是对思维方式的探讨，更是对人生选择的指引，提醒我们审视自己的思维模式和工作环境，寻找真正适合自己的道路。",
+    "best_quote_en": "The only valuable insights are the ones most other investors don't share.",
+    "best_quote_zh": "唯一有价值的洞见是大多数其他投资者不认同的那些。"
+  },
+  {
+    "id": 133,
+    "title": "Who Can Lead the Democrats?",
+    "title_zh": "谁能领导民主党？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/who-can-lead-the-democrats",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Amy Davidson Sorkin's analysis of Kamala Harris's '107 Days' reveals a deeply troubling portrait of a leader who, despite nearly winning the 2024 presidential election, appears unable to transcend personal grievances and build the coalition necessary for future Democratic success. The book's detailed accounts of campaign frustrations—from complaints about hotel accommodations and lighting to conflicts with staff and fellow Democrats—undermines Harris's potential as a unifying figure precisely when the party needs one most. While acknowledging the extraordinary challenges Harris faced, including misogyny, racism, and Biden's late withdrawal, Sorkin argues that the memoir's petty focus on slights and blame-shifting ultimately diminishes Harris's stature. The most damning insight emerges from the contrast between Harris's legitimate policy concerns about Trump's fascist tendencies and her trivial preoccupations with perceived personal disrespect. This creates a leadership vacuum at a moment when Democrats desperately need someone capable of healing internal divisions and presenting a compelling alternative to Trump's increasingly dangerous presidency.",
+    "summary_zh": "这篇对哈里斯回忆录的犀利评论揭示了一个深刻矛盾：尽管她几乎赢得大选，却在书中充斥着对盟友的抱怨与指责。作者索金敏锐指出，当民主党最需要团结对抗特朗普时，哈里斯却通过回忆录加深党内裂痕。最令人失望的是她对重大议题（如法西斯主义威胁）的浅薄反思与对琐碎不满（如酒店装修、采访灯光）的过度关注之间的失衡。这本书非但未能巩固她的领导地位，反而让人质疑她是否具备团结全党所需的胸襟与远见。",
+    "best_quote_en": "The book certainly makes it more difficult to see her as the kind of leader that the Democrats need now. We're left with burst balloons and buckets of ice water. And Donald Trump.",
+    "best_quote_zh": "这本书无疑让人更难将她视为民主党现在需要的那种领袖。我们只剩下爆裂的气球和一桶桶冰水。还有唐纳德·特朗普。"
+  },
+  {
+    "id": 134,
+    "title": "What’s in my NOW? — Colby Black, P.I.",
+    "title_zh": "我的NOW里有什么？——私家侦探Colby Black",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-colby-black-p-i/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Colby Black's 'What's in my NOW?' offers a fascinating glimpse into the practical tools and philosophies of a modern digital professional navigating work-life integration. The piece stands out for its authentic blend of high-tech problem-solving and everyday wisdom, from using an OBD II scanner with AI assistance to diagnose car issues to adopting Cursor for 'vibe coding.' What makes this content particularly valuable is its demonstration of how professionals can leverage accessible technology to solve complex problems—the $30 scanner preventing a $3,000 turbo replacement exemplifies this perfectly. The inclusion of the 'invisible' element—the quote about not letting short-term greed interfere with long-term greed—adds philosophical depth to what might otherwise be a simple gear list. This creates a compelling narrative about how tools serve both practical and philosophical purposes in shaping one's approach to work and life. The content succeeds by being both immediately useful for professionals seeking productivity insights and thought-provoking in its broader implications about technology's role in modern problem-solving.",
+    "summary_zh": "Colby Black的装备分享超越了简单的物品罗列，展现了数字时代专业人士如何将工具与哲学结合的生活智慧。从用30美元的OBD扫描仪配合AI避免3000美元的涡轮更换，到'氛围编程'的实践，再到'不让短期贪婪影响长期贪婪'的人生格言，这篇文章巧妙地将实用技术与深层思考融合。它不仅为寻求工作效率提升的读者提供具体方案，更启发我们思考工具如何塑造我们的工作哲学和生活方式。",
+    "best_quote_en": "\"Never let short term greed get in the way of long term greed.\"",
+    "best_quote_zh": "“不要让短期贪婪影响长期贪婪。”"
+  },
+  {
+    "id": 135,
+    "title": "GPT-4o",
+    "title_zh": "GPT-4o",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/gpt-4o",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "ai-product",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "AI产品",
+      "未来预测"
+    ],
+    "date": "2024-05-13",
+    "summary_en": "This announcement from OpenAI reveals a significant strategic pivot in their mission execution, moving from creating AI benefits directly to empowering global users with free, high-quality tools. The free release of GPT-4o represents a democratization strategy that could reshape the AI industry's accessibility standards. The new voice and video interface marks a breakthrough in human-computer interaction, achieving natural conversational flow that previously existed only in science fiction. What's particularly insightful is the acknowledgment that the most transformative applications will emerge from user creativity rather than OpenAI's direct development. The business model balancing act—offering premium services to subsidize free access—demonstrates a sophisticated approach to scaling AI adoption while maintaining sustainability. This reflects a maturation in how AI companies perceive their role in the technological ecosystem.",
+    "summary_zh": "OpenAI宣布GPT-4o免费开放，标志着AI民主化的重要转折。从自主创造价值转向赋能全球用户，这种战略转变凸显了AI发展的新范式。新型语音视频交互界面实现了电影般的自然对话体验，让人机交互达到前所未有的流畅度。更值得深思的是，公司承认未来最具变革性的应用将来自用户创意而非官方开发。这种免费+付费的商业模式，展现了在推动技术普惠的同时保持商业可持续性的智慧。",
+    "best_quote_en": "Our initial conception when we started OpenAI was that we’d create AI and use it to create all sorts of benefits for the world. Instead, it now looks like we’ll create AI and then other people will use it to create all sorts of amazing things that we all benefit from.",
+    "best_quote_zh": "我们创立OpenAI时的最初构想是创造AI并亲自用它为世界创造各种价值。但现在看来，我们将创造AI，然后由其他人用它创造各种令人惊叹的事物，最终让所有人都受益。"
   }
 ]
