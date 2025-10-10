@@ -51,9 +51,9 @@ OUTPUT_FILE = "data.json"
 SOURCE_FILE = "scripts/source.json"
 
 # Output and API call control
-MAX_NEW_ITEMS = 5         # Maximum successful output items for this run (max 5 items you want)
-MAX_API_CALLS = 8         # Maximum model API calls for this run (failures also count)
-MAX_PER_SOURCE = 5        # Maximum candidate items sampled per source (candidates only, not final success count)
+MAX_NEW_ITEMS = 10         # Maximum successful output items for this run (max 5 items you want)
+MAX_API_CALLS = 10         # Maximum model API calls for this run (failures also count)
+MAX_PER_SOURCE = 10        # Maximum candidate items sampled per source (candidates only, not final success count)
 HTTP_TIMEOUT = 20         # Timeout seconds for web scraping/model calls
 REQUEST_SLEEP = 0.2       # Light sleep to reduce rate limiting probability
 
@@ -280,10 +280,10 @@ def extract_full_content(link, rss_content_html):
     elif isinstance(rss_content_html, str):
         content_from_rss = rss_content_html
 
-    if len(content_from_rss) > 1000:
-        cleaned_rss = clean_text_lines(content_from_rss)
-        optimized_rss = optimize_content_length(cleaned_rss)
-        return optimized_rss, "Content fully retrieved from RSS Feed."
+    #if len(content_from_rss) > 1000:
+    #    cleaned_rss = clean_text_lines(content_from_rss)
+    #    optimized_rss = optimize_content_length(cleaned_rss)
+    #    return optimized_rss, "Content fully retrieved from RSS Feed."
 
     # RSS content is short, try to scrape webpage
     headers = {'User-Agent': 'Mozilla/5.0'}
@@ -429,8 +429,8 @@ Return a JSON object with exactly these fields:
 ```json
 {{
   "title_zh": "Chinese translation of title (keep original if already Chinese)",
-  "summary_en": "150-200 word English analysis focusing on core insights, implications, and critical evaluation. Write with intellectual curiosity and personal engagement.",
-  "summary_zh": "150-200 character Chinese analysis that reads like thoughtful commentary, not mere summary. Include personal reflection and broader significance.",
+  "summary_en": "A concise, single-sentence English summary, strictly under 30 words.",
+  "summary_zh": "一个精炼的、不超过 35 个汉字的单句中文摘要。",
   "best_quote_en": "Most insightful English quote from article (translate if originally Chinese)",
   "best_quote_zh": "Most insightful Chinese quote from article (translate if originally English)",
   "tags": ["value-based", "discoverable", "English", "tags"],

@@ -1,38 +1,82 @@
 [
-  {
-    "name": "Women | The Guardian",
-    "url": "http://theguardian.com/lifeandstyle/women/rss"
+    {
+    "name": "AI 开发者日报",
+    "url": "https://rsshub.app/liduos/ainews"
   },
   {
-    "name": "Paul Graham",
-    "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss"
+    "name": "OpenAI Blog (GPT)",
+    "url": "https://rsshub.app/openai/blog"
   },
   {
-    "name": "LessWrong",
-    "url": "https://www.lesswrong.com/feed.xml"
+    "name": "Google AI (Gemini)",
+    "url": "https://blog.google/technology/ai/rss/"
   },
   {
-    "name": "The New Yorker",
-    "url": "https://www.newyorker.com/feed/news"
+    "name": "Anthropic (Claude) Updates",
+    "url": "https://www.anthropic.com/news/feed.xml"
   },
   {
-    "name": "Wait But Why",
-    "url": "https://waitbutwhy.com/feed"
+    "name": "DeepSeek AI Blog",
+    "url": "https://www.deepseek.com/blog/rss.xml"
   },
   {
-    "name": "Kevin Kelly",
-    "url": "https://kk.org/cooltools/feed/"
+    "name": "Apple Developer News (iOS/macOS)",
+    "url": "https://developer.apple.com/news/rss/news.rss"
   },
   {
-    "name": "Sam Altman",
-    "url": "https://blog.samaltman.com/posts.atom"
+    "name": "GitHub Changelog",
+    "url": "https://github.blog/changelog/feed/"
   },
   {
-    "name": "Huberman Lab",
-    "url": "https://feeds.megaphone.fm/hubermanlab"
+    "name": "GitHub Product News",
+    "url": "https://github.blog/category/product/feed/"
   },
   {
-    "name": "Tim Ferriss",
-    "url": "https://tim.blog/feed/"
+    "name": "Obsidian Changelog",
+    "url": "https://obsidian.md/changelog/feed.xml"
+  },
+  {
+    "name": "Obsidian Announcements",
+    "url": "https://forum.obsidian.md/c/announcements.rss"
+  },
+  {
+    "name": "飞书产品更新 (via RSSHub)",
+    "url": "https://rsshub.app/feishu/product-updates"
+  },
+  {
+    "name": "豆包AI资讯 (36Kr via RSSHub)",
+    "url": "https://rsshub.app/36kr/search/article/%E8%B1%86%E5%8C%85"
+  },
+  {
+    "name": "机器之心 (AI in China)",
+    "url": "https://www.jiqizhixin.com/rss"
+  },
+  {
+    "name": "量子位 (AI news, Chinese)",
+    "url": "https://www.qbitai.com/feed"
+  },
+  {
+    "name": "Hugging Face Blog (AI community, English)",
+    "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+    "name": "36氪 - 创业与科技 (Chinese)",
+    "url": "https://36kr.com/feed"
+  },
+  {
+    "name": "Morning Brew (Finance & Tech, Easy English)",
+    "url": "https://www.morningbrew.com/feed"
+  },
+  {
+    "name": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "url": "https://fs.blog/feed/"
+  },
+  {
+    "name": "得到 App 精选 (成长/认知, Chinese)",
+    "url": "https://rsshub.app/dedao/knowledge"
+  },
+  {
+    "name": "The Financial Diet (Personal Finance, English)",
+    "url": "https://thefinancialdiet.com/feed/"
   }
 ]

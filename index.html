@@ -4,7 +4,11 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>孙玲的精选内容</title>
+    <title>35X的精选内容</title>
+    <!-- 引入Google Fonts: Noto Sans SC和Source Serif 4 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./styles.css" />
 </head>
 
@@ -12,13 +16,18 @@
     <header class="container">
         <div class="header-main">
             <div class="logo-area">
-                <h1 data-zh="精选内容聚合" data-en="Curated Content Hub">精选内容聚合</h1>
+                <h1 data-zh="35X精选内容聚合" data-en="Curated Content Hub">精选内容聚合</h1>
                 <p class="subtitle" data-zh="发现优质文章、播客和资源" data-en="Discover quality articles, podcasts and resources">发现优质文章、播客和资源</p>
             </div>
             <div class="header-controls">
                 <div class="control-item">
                     <button id="lang-toggle" class="control-button lang-toggle" title="切换语言 / Switch Language">
                         <span class="current-lang" data-zh="中" data-en="EN">中</span>
+                    </button>
+                </div>
+                <div class="control-item">
+                    <button id="theme-toggle" class="control-button theme-toggle" title="切换主题 / Toggle Theme">
+                        🌙
                     </button>
                 </div>
                 <div class="control-item version-selector">
@@ -70,6 +79,35 @@
             }
         }
         
+        // 暗黑模式管理
+        function toggleDarkMode() {
+            const body = document.body;
+            const themeToggle = document.getElementById('theme-toggle');
+            
+            body.classList.toggle('dark-mode');
+            
+            // 更新图标
+            if (body.classList.contains('dark-mode')) {
+                themeToggle.textContent = '☀️';
+            } else {
+                themeToggle.textContent = '🌙';
+            }
+            
+            // 可选：保存用户偏好到本地存储
+            localStorage.setItem('darkMode', body.classList.contains('dark-mode'));
+        }
+        
+        // 初始化暗黑模式（从本地存储中恢复用户偏好）
+        function initDarkMode() {
+            const isDarkMode = localStorage.getItem('darkMode') === 'true';
+            const themeToggle = document.getElementById('theme-toggle');
+            
+            if (isDarkMode) {
+                document.body.classList.add('dark-mode');
+                themeToggle.textContent = '☀️';
+            }
+        }
+        
         // Initialize parameters
         const params = new URLSearchParams(location.search);
         const ver = params.get("v") || "1";
@@ -80,6 +118,9 @@
         
         // Update language on load
         updateLanguage(lang);
+        
+        // 初始化暗黑模式
+        initDarkMode();
         
         // Version change handler - 不再需要，因为已经改为按钮
         // document.getElementById("ver").addEventListener("change", (e) => {
@@ -96,6 +137,9 @@
             u.searchParams.set("lang", newLang);
             location.href = u.toString();
         });
+        
+        // 暗黑模式切换处理
+        document.getElementById("theme-toggle").addEventListener("click", toggleDarkMode);
         
         // 版本选项卡处理
         const versionTabs = document.querySelectorAll('.version-tab');
