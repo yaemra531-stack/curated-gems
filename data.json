@@ -1,121 +1,5 @@
 [
   {
-    "id": 36,
-    "title": "Sex work and abuse: the women trapped in Malawi’s growing refugee camp",
-    "title_zh": "性工作与虐待：马拉维日益壮大的难民营中受困的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/sep/16/refugees-camp-malawi-dzaleka-aid-unhcr-sex-work-domestic-violence",
-    "tags": [
-      "solve",
-      "politics",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This article powerfully exposes the harrowing realities faced by women in Malawi's Dzaleka refugee camp, where funding cuts and a cessation of US refugee intake have exacerbated already dire conditions. Through the poignant testimonies of Francine, Anne, and Judith, it illuminates the tragic descent into sex work for survival, the surge in domestic violence, and the profound despair stemming from a lack of relocation prospects. The piece critically highlights the systemic failures and the immense human cost of global policy shifts, challenging readers to confront the ethical implications of reduced aid and restricted resettlement. It's a sobering look at how geopolitical decisions directly impact the most vulnerable, questioning the efficacy and humanity of current refugee support structures.",
-    "summary_zh": "这篇文章揭示了马拉维Dzaleka难民营中女性的残酷现实。资金削减和美国停止接收难民，让她们的困境雪上加霜。通过弗朗辛、安妮和朱迪思的证词，我看到了为生存从事性工作、家暴激增以及对安置前景的绝望。这不仅是对个人悲剧的记录，更是对全球政策失灵的深刻批判，让人不禁思考，当人道主义援助被削减，这些脆弱的生命该何去何从？我们真的可以袖手旁观吗？",
-    "best_quote_en": "“Sometimes I see other people going, who are in good health, but … I am staying behind. I feel so much pain. Sometimes I ask myself, ‘Why is it that I don’t get helped like others? Is it because of who I am, my health condition?’”",
-    "best_quote_zh": "“有时候我看到其他人走了，他们身体健康，而我却被留下了。我感到非常痛苦。有时我问自己，‘为什么我得不到像其他人一样的帮助？是因为我是谁，还是我的健康状况？’”"
-  },
-  {
-    "id": 37,
-    "title": "What I've Learned from Users",
-    "title_zh": "我从用户那里学到了什么",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/users.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-09-19",
-    "summary_en": "This essay offers profound insights into the operational philosophy and value proposition of Y Combinator, framed through the lens of lessons learned from interacting with thousands of startup founders. The author, a co-founder of YC, reveals that despite their unique products, most startups grapple with a surprisingly similar set of fundamental problems. A key takeaway is the counterintuitive nature of startups and the critical role YC plays in helping founders navigate this complexity, not through a one-size-fits-all formula, but through individualized guidance and by fostering a unique peer-to-peer ecosystem. The article compellingly argues that YC's true genius lies in its ability to provide focus, accelerate learning, and connect founders with a powerful network of colleagues, addressing a deep-seated need for ambitious individuals. It's a fascinating look into the mechanics of fostering innovation and growth at scale.",
-    "summary_zh": "这篇文章以YC联合创始人的视角，深入剖析了YC从服务数千家初创公司中汲取的宝贵经验。我被文章中“大多数初创公司面临的问题惊人地相似”这一洞察深深吸引，它揭示了创业的底层逻辑。YC的价值不仅在于提供指导，更在于它如何通过个性化辅导和强大的社群网络，帮助创始人驾驭创业的“反直觉”本质，并提供关键的“专注力”。这不仅是关于一个孵化器的运作模式，更是对创新生态系统如何有效赋能创业者的深刻思考，其对“同事”价值的强调尤为引人深思。",
-    "best_quote_en": "The reason startups are so counterintuitive is that they're so different from most people's other experiences. No one knows what it's like except those who've done it. Which is why YC partners should usually have been founders themselves.",
-    "best_quote_zh": "创业之所以如此反直觉，是因为它与大多数人的其他经历截然不同。除了亲身实践过的人，没人知道那是什么滋味。这就是为什么YC的合伙人通常也应该是创始人。"
-  },
-  {
-    "id": 38,
-    "title": "Book Review: If Anyone Builds It, Everyone Dies",
-    "title_zh": "书评：《如果有人建造，所有人都会死》",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/N2Cs7vGbfevfFzmxE/book-review-if-anyone-builds-it-everyone-dies-1",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-09-19",
-    "summary_en": "This review critically dissects the core arguments of \"If Anyone Builds It, Everyone Dies,\" a book positing that superintelligence will inevitably emerge, be misaligned, and destroy humanity. The reviewer, while sharing a general concern about superintelligence risk, systematically challenges the book's overconfident assertions, particularly regarding the speed of AI development, the suddenness of superintelligence emergence, and the inevitability of its destructive misalignment. The analysis highlights the book's flawed logic in conflating theoretical possibility with high probability, and its unrigorous leap from our inability to precisely specify AI goals to the certainty of alien, destructive goals. The reviewer thoughtfully contrasts the book's speculative claims with current empirical evidence from AI models, suggesting a more nuanced and less alarmist perspective on AI alignment and safety. The piece offers a balanced critique, acknowledging the book's value in clarifying certain misconceptions for a lay audience while firmly refuting its alarmist conclusions.",
-    "summary_zh": "这篇书评对《如果有人建造，所有人都会死》一书进行了深刻剖析，挑战了其关于超智能必然出现、失控并毁灭人类的核心论点。评论者虽认同超智能的潜在风险，但对作者将理论可能性等同于必然性的过度自信提出质疑，并指出其在AI发展速度、突发性以及目标异化方面的论证存在缺陷。我尤其欣赏评论者用现有AI模型的实际表现来反驳那些末日论断，这提醒我们，在面对未来科技时，批判性思维和实证精神远比恐慌更重要。这篇评论不仅是一次学术辩论，更是一次对AI未来走向的冷静思考。",
-    "best_quote_en": "The main flaw of the book is asserting that various things are possible in theory, and then implying that this means they will definitely happen.",
-    "best_quote_zh": "这本书的主要缺陷在于，它断言各种事情在理论上是可能的，然后暗示这意味着它们一定会发生。"
-  },
-  {
-    "id": 39,
-    "title": "The Grave Threat Posed by Donald Trump’s Attack on Jimmy Kimmel",
-    "title_zh": "唐纳德·特朗普攻击吉米·坎摩尔所构成的严重威胁",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/the-grave-threat-posed-by-donald-trumps-attack-on-jimmy-kimmel",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2025-09-19",
-    "summary_en": "This article presents a chilling Q&A with Michael Idov, a filmmaker and former editor of GQ Russia, who draws stark parallels between the Trump administration's alleged attacks on media and culture in the US and the gradual erosion of free expression under Putin's rule in Russia. Idov highlights the speed and directness of Trump's actions, contrasting them with Putin's more gradual, often reactive, and initially less centralized approach. The piece provocatively suggests that Trump's methods, driven by personal grievance, are perhaps more akin to Orbán or Erdoğan than early Putin, raising concerns about the rapid normalization of authoritarian tactics in a democratic society. It makes one ponder how easily foundational freedoms can be undermined when power is wielded with such deliberate intent.",
-    "summary_zh": "这篇访谈令人不安地揭示了特朗普政府对媒体和文化的攻击，与普京治下俄罗斯言论自由逐步受侵蚀的惊人相似之处。作者Michael Idov以亲身经历对比，指出特朗普行动的直接与迅速，可能比早期普京更具侵略性。这不禁让人深思，当权力被如此直接地用来压制异见时，民主社会的基石会以何等速度被侵蚀，而我们又该如何警醒。",
-    "best_quote_en": "Up until very recently, ninety-nine per cent of censorship that I’ve witnessed in Russia and in Russian culture was self-censorship. In a way, it was middle managers trying to divine which way the wind blows and preëmptively complying with rules that were never really written down.",
-    "best_quote_zh": "直到最近，我在俄罗斯和俄罗斯文化中看到百分之九十九的审查都是自我审查。在某种程度上，这是中层管理者试图揣摩风向，并先发制人地遵守从未真正成文的规则。"
-  },
-  {
-    "id": 40,
-    "title": "You Won’t Believe My Morning",
-    "title_zh": "你不会相信我的早晨",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2020/03/my-morning.html",
-    "tags": [
-      "learn",
-      "design",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2020-03-25",
-    "summary_en": "This captivating narrative plunges the reader into a mind-bending exploration of scale, time, and humanity's place in a multi-tiered universe. What begins as a mundane morning walk quickly spirals into a fantastical journey where the protagonist is shrunk to microscopic levels, revealing hidden civilizations and a startling origin story for the COVID-19 pandemic. The story cleverly uses the concept of vastly different scales and time perceptions to deliver a profound commentary on human arrogance, technological advancement outpacing wisdom, and the desperate need for global unity. It challenges our anthropocentric views, suggesting that our biggest problems might be orchestrated by beings we can't even perceive, all in an attempt to nudge us towards collective enlightenment. The ending, with its meta-commentary on the protagonist writing about his experience, adds another layer of intrigue and self-awareness.",
-    "summary_zh": "这篇引人入胜的故事将我们带入一个关于尺度、时间和多层宇宙的奇妙旅程。从一个普通的早晨散步开始，主人公意外缩小到微观世界，揭示了隐藏的文明和新冠疫情的惊人起源。故事巧妙地利用巨大的尺度差异和时间感知，深刻评论了人类的傲慢、技术进步与智慧脱节，以及全球团结的迫切需要。它挑战了我们以人类为中心的视角，暗示我们最大的问题可能由我们无法感知的存在精心策划，旨在推动我们走向集体觉醒。故事以主人公撰写自身经历的元叙事结尾，增添了一层引人深思的趣味。",
-    "best_quote_en": "For most of time, Earth was a safe and stable home for our world. But over the last century, your world has been advancing exponentially in technology but remaining stagnant in wisdom. You’re rapidly gaining tremendous powers but still behaving like short-sighted primates.",
-    "best_quote_zh": "在大部分时间里，地球对我们的世界来说都是一个安全稳定的家园。但在过去的一个世纪里，你们的世界在技术上呈指数级进步，智慧却停滞不前。你们正在迅速获得巨大的力量，却仍然表现得像短视的灵长类动物。"
-  },
-  {
     "id": 41,
     "title": "The pill, Puerto Rico and the patriarchal medical system | Letters",
     "title_zh": "避孕药、波多黎各与父权医疗体系 | 读者来信",
@@ -2328,5 +2212,119 @@
     "summary_zh": "OpenAI宣布GPT-4o免费开放，标志着AI民主化的重要转折。从自主创造价值转向赋能全球用户，这种战略转变凸显了AI发展的新范式。新型语音视频交互界面实现了电影般的自然对话体验，让人机交互达到前所未有的流畅度。更值得深思的是，公司承认未来最具变革性的应用将来自用户创意而非官方开发。这种免费+付费的商业模式，展现了在推动技术普惠的同时保持商业可持续性的智慧。",
     "best_quote_en": "Our initial conception when we started OpenAI was that we’d create AI and use it to create all sorts of benefits for the world. Instead, it now looks like we’ll create AI and then other people will use it to create all sorts of amazing things that we all benefit from.",
     "best_quote_zh": "我们创立OpenAI时的最初构想是创造AI并亲自用它为世界创造各种价值。但现在看来，我们将创造AI，然后由其他人用它创造各种令人惊叹的事物，最终让所有人都受益。"
+  },
+  {
+    "id": 136,
+    "title": "Jess Cartner-Morley: ladylike fashion is back, but it’s been given a modern twist",
+    "title_zh": "Jess Cartner-Morley：淑女风时尚回归，但已融入现代元素",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/oct/08/jess-cartner-morley-ladylike-fashion-is-back-but-its-been-given-a-modern-twist",
+    "tags": [
+      "update",
+      "design",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Jess Cartner-Morley presents a compelling analysis of ladylike fashion's contemporary revival, arguing that this traditionally feminine aesthetic has evolved beyond mere nostalgia into a sophisticated modern statement. The key insight lies in the strategic tension between delicate femininity and sturdy practicality—lace-trimmed skirts paired with blazers, kitten heels with ribbed socks, creating what she calls 'quiet power.' This isn't about reverting to outdated gender norms but rather reclaiming feminine elegance with contemporary edge. The Miu Miu autumn 2025 collection serves as her watershed example, demonstrating how retro elements like cloche hats and bullet bras can feel 'deliciously retro and bracingly up to date' simultaneously. What makes this analysis particularly insightful is Cartner-Morley's recognition that modern ladylike fashion embraces controlled messiness—multiple necklaces instead of one, bag charms on structured handbags—suggesting a more playful, less rigid interpretation of femininity that maintains its power while shedding its stuffiness.",
+    "summary_zh": "Cartner-Morley敏锐地捕捉到淑女风时尚的现代转型——这不再是简单的复古回归，而是女性气质与当代态度的巧妙融合。她提出的核心观点在于平衡：蕾丝裙搭配厚重针织衫，精致中带着力量感，形成她所说的'安静力量'。这种新淑女风拒绝脆弱娇柔，反而强调坚固元素与柔美细节的碰撞，体现了现代女性既优雅又独立的多重面向。最有趣的是她对'适度凌乱'的推崇——多条项链叠戴、包袋挂饰等细节，打破了传统淑女形象的刻板拘谨，展现出更为真实、生动的当代女性气质。",
+    "best_quote_en": "Ladylike is often underestimated as a vibe because its tone is softly spoken and doesn't shout over people to be heard. But while ladylike is feminine, it is not merely decorative. Ladylike is polite, but it is not a pushover.",
+    "best_quote_zh": "淑女风常被低估，因为它的语调轻柔，不会大声喧哗以引人注意。但淑女风虽女性化，却不仅仅是装饰性的。淑女风彬彬有礼，但绝非软弱可欺。"
+  },
+  {
+    "id": 137,
+    "title": "Early Work",
+    "title_zh": "早期作品",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/early.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "This profound essay dissects the psychological and cultural barriers that prevent ambitious creative work, arguing that our innate fear of producing 'lame' early versions stems from humanity's evolutionary inexperience with rapid innovation. The author insightfully frames this as a modern problem—our species historically evolved too slowly to develop customs for evaluating nascent ideas. Silicon Valley emerges as a fascinating case study where self-interest has paradoxically cultivated optimism as a social norm, demonstrating that dismissive attitudes aren't immutable. The piece offers practical strategies for overcoming self-skepticism, from Hardy's mathematical wisdom about overconfidence to practical techniques like treating projects as experiments or sketches. What makes this particularly compelling is how it reframes the solution: our very attitudes toward early work are themselves early work, suggesting we're already evolving better frameworks for nurturing innovation. The essay's power lies in its blend of psychological insight, cultural analysis, and actionable advice for creators across disciplines.",
+    "summary_zh": "这篇文章深刻剖析了阻碍伟大作品产生的心理与文化障碍，指出我们对‘糟糕’早期作品的恐惧源于人类缺乏评价新生事物的经验。作者将硅谷视为乐观主义的社会实验室，证明批判态度并非不可改变。文章提供了克服自我怀疑的实用策略，从哈代的过度自信理论到将项目视为实验的实践方法。最精彩的是作者将我们对早期作品的态度本身也视为‘早期作品’，暗示我们正在进化出更好的创新培育框架。这不仅是对创作心理的洞察，更是对创新文化的重新定义。",
+    "best_quote_en": "The right way to deal with new ideas is to treat them as a challenge to your imagination—not just to have lower standards, but to switch polarity entirely, from listing the reasons an idea won't work to trying to think of ways it could.",
+    "best_quote_zh": "对待新想法的正确方式是将其视为对想象力的挑战——不仅仅是降低标准，而是彻底转换极性，从列举想法行不通的原因转变为思考它可能实现的方式。"
+  },
+  {
+    "id": 138,
+    "title": "Trump, the Self-Styled “President of PEACE” Abroad, Makes War at Home",
+    "title_zh": "特朗普：自封海外“和平总统”，国内制造战争",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/trump-the-self-styled-president-of-peace-abroad-makes-war-at-home",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This incisive analysis reveals the profound dissonance in Donald Trump's presidency - while positioning himself as an international peacemaker with dubious claims of resolving seven wars, he simultaneously escalates domestic conflicts through martial rhetoric and military deployments against American cities. The article masterfully exposes how Trump's peacemaking achievements abroad are largely exaggerated or outright fabricated, from inventing conflicts between Armenia and Cambodia to misidentifying countries in his boasts. Meanwhile, his domestic actions tell a completely different story: deploying National Guard troops to cities he describes as 'war zones' and threatening to invoke the Insurrection Act. What makes this analysis particularly compelling is its exploration of how Trump's pursuit of international validation through peace deals contrasts sharply with his creation of domestic enemies and manufactured crises. The piece raises critical questions about presidential priorities and the dangerous normalization of military force against American citizens.",
+    "summary_zh": "这篇文章深刻揭示了特朗普总统任期的核心矛盾：他在国际上自诩为和平缔造者，声称解决了多场战争，但这些成就大多经不起推敲；在国内却将美国城市称为‘战区’，动用军队镇压所谓的‘叛乱’。作者敏锐地捕捉到这种认知失调——一边追求诺贝尔和平奖的国际认可，一边在国内制造敌人和危机。这种双重标准不仅暴露了政治修辞的虚伪，更反映了美国民主面临的深刻危机：当总统可以基于谎言部署军队对抗本国公民时，宪法原则和法治精神正受到严峻挑战。",
+    "best_quote_en": "\"Trump has labelled himself a 'President of PEACE,' as he searches for international accolades. But at home in America it is the battle with what he calls 'the enemy from within' that has consumed him and come to define his Presidency.\"",
+    "best_quote_zh": "特朗普自封为‘和平总统’，在国际上寻求赞誉。但在美国国内，与他所谓的‘内部敌人’的战斗消耗了他，并定义了他的总统任期。"
+  },
+  {
+    "id": 139,
+    "title": "Size of Africa/Office Mandate Realities/Cheaper Mexico Flights",
+    "title_zh": "非洲的真实面积/办公室强制返岗的现实/更便宜的墨西哥航班",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/size-of-africa-office-mandate-realities-cheaper-mexico-flights/",
+    "tags": [
+      "update",
+      "data-science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "数据科学",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This newsletter delivers four distinct insights with practical implications for global citizens and remote workers. The Africa visualization reveals cartographic distortions that reshape our geographical understanding, while the return-to-office analysis exposes the growing disconnect between corporate mandates and employee compliance, suggesting a fundamental shift in workplace dynamics. The Mexico flight hack offers actionable travel intelligence that challenges conventional booking strategies, demonstrating how regional airline networks can create unexpected cost efficiencies. Finally, the government shutdown warning serves as a timely reminder of how political dysfunction can disrupt travel logistics. Together, these pieces form a compelling mosaic of modern nomadism, where geographical awareness, workplace autonomy, travel optimization, and political awareness intersect to define contemporary mobility.",
+    "summary_zh": "这份通讯从四个维度剖析了现代游民生活的现实图景：非洲地图可视化挑战了我们固有的空间认知，办公室返岗数据揭示了企业强制与员工自主之间的深刻矛盾，墨西哥航班技巧提供了打破常规的旅行智慧，而政府停摆警告则提醒我们政治动荡如何影响日常出行。这些看似分散的主题共同描绘了全球化时代下个人与系统、自由与约束之间的复杂关系，值得每个追求工作与生活自主的现代人深思。",
+    "best_quote_en": "\"While required office time increased by 12% from 2024 to 2025, actual office attendance only increased by 1-3%.\"",
+    "best_quote_zh": "“虽然2024年至2025年要求的办公室时间增加了12%，但实际出勤率仅增长了1-3%。”"
+  },
+  {
+    "id": 140,
+    "title": "What I Wish Someone Had Told Me",
+    "title_zh": "我希望有人告诉我的事",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
+    "tags": [
+      "solve",
+      "leadership",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "创业策略"
+    ],
+    "date": "2023-12-21",
+    "summary_en": "This collection of hard-won entrepreneurial wisdom reads like a modern-day Meditations for startup founders. The author masterfully distinguishes between the qualities needed to launch ventures versus those required to complete them—a crucial distinction often overlooked in startup literature. Particularly insightful is the emphasis on 'unreasonable commitment' as the finishing fuel, suggesting that moderate dedication yields mediocre results. The advice about doing hard things that matter resonates deeply; it's counterintuitive yet psychologically astute—teams actually prefer meaningful challenges over trivial tasks. The tension between decade-long planning and week-by-week execution captures the essential rhythm of ambitious ventures. What makes this advice exceptional is its grounding in first principles rather than temporary tactics, offering timeless guidance for building organizations that compound their advantages.",
+    "summary_zh": "这篇创业智慧集锦如同现代版的《沉思录》，作者精妙区分了启动事业与完成事业所需的不同品质——这是创业文献中常被忽视的关键区别。尤其深刻的是将‘不合理的承诺’视为完成燃料的见解，暗示适度投入只会产生平庸结果。关于做重要难事的建议发人深省——团队其实更愿意接受有意义的挑战而非琐碎任务。十年规划与周度执行之间的张力捕捉了雄心勃勃事业的基本节奏。这些建议的卓越之处在于其基于第一性原理而非临时策略，为构建具有复合优势的组织提供了永恒指引。",
+    "best_quote_en": "It is easier for a team to do a hard thing that really matters than to do an easy thing that doesn't really matter; audacious ideas motivate people.",
+    "best_quote_zh": "团队做一件真正重要的难事，比做一件不重要的易事更容易；大胆的想法能激励人们。"
   }
 ]
