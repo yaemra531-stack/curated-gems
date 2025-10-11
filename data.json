@@ -1040,4 +1040,233 @@
     "summary_zh": "谷歌Nano Banana通过多模态AI实现精准图像编辑和生成，拓展创意应用。",
     "best_quote_en": "\"It's a giant quality leap, especially for image editing. We're putting capabilities that used to require specialized tools into the hands of everyday creators.\"",
     "best_quote_zh": "“这是质量的巨大飞跃，尤其是在图像编辑方面。我们将过去需要专业工具的功能交到了日常创作者手中。”"
+  },{
+    "id": 51,
+    "title": "1,001 real-world gen AI use cases from the world's leading organizations",
+    "title_zh": "全球领先组织的 1,001 个真实世界生成式 AI 应用案例",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/gen-ai-business-use-cases/",
+    "tags": [
+      "analyze",
+      "medicine",
+      "ai-product",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "AI产品",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Google Cloud showcases 1,001 real-world generative AI use cases across industries, demonstrating practical applications and measurable benefits.",
+    "summary_zh": "谷歌云展示跨行业 1,001 个真实生成式 AI 应用案例，涵盖实际应用场景与可量化效益。",
+    "best_quote_en": "AI will grow beyond even our imagination as our customers continue to challenge us to design, build, deploy, and create value.",
+    "best_quote_zh": "随着客户不断挑战我们去设计、构建、部署并创造价值，AI 将发展得超乎我们的想象。"
+  },
+  {
+    "id": 52,
+    "title": "New requirement for apps using Sign in with Apple for account creation",
+    "title_zh": "使用Apple登录进行账户创建的新要求",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=j9zukcr6",
+    "tags": [
+      "solve",
+      "legal",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "法律法规",
+      "设计创意"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Apple requires Korean developers to implement server-to-server notification endpoints for Sign in with Apple starting 2026.",
+    "summary_zh": "苹果要求韩国开发者自2026年起为Apple登录实现服务器间通知端点。",
+    "best_quote_en": "Account changes are directly related to privacy and control for the user and their personal data.",
+    "best_quote_zh": "账户变更直接关系到用户隐私及其个人数据的控制权。"
+  },
+  {
+    "id": 53,
+    "title": "GitHub Copilot CLI: Faster, more concise, and prettier",
+    "title_zh": "GitHub Copilot CLI：更快、更简洁、更美观",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-10-github-copilot-cli-faster-more-concise-and-prettier",
+    "tags": [
+      "update",
+      "design",
+      "programming"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "编程开发"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "GitHub Copilot CLI improvements deliver faster responses, streamlined interface, and enhanced Windows support.",
+    "summary_zh": "GitHub Copilot CLI 更新带来更快响应、简化界面和增强的Windows支持。",
+    "best_quote_en": "Copilot now responds more concisely to simple questions, delivering you answers faster and keeping you focused on the task at hand.",
+    "best_quote_zh": "Copilot 现在对简单问题回应更简洁，更快提供答案，让您专注于当前任务。"
+  },
+  {
+    "id": 54,
+    "title": "找出iPhone漏洞，库克给你200万美元",
+    "title_zh": "找出iPhone漏洞，库克给你200万美元",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/340638.html",
+    "tags": [
+      "update",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "Apple doubles its bug bounty program with record $2-5 million rewards for critical security vulnerabilities.",
+    "summary_zh": "苹果将漏洞赏金最高奖金翻倍至200万美元，激励安全研究。",
+    "best_quote_en": "We want top researchers who can crack the most difficult vulnerabilities and handle the most complex threats to receive substantial rewards matching their technical capabilities and time investment.",
+    "best_quote_zh": "我们希望那些能破解最棘手漏洞、应对最复杂威胁的顶尖研究人员，能因其技术能力和时间精力获得丰厚回报。"
+  },
+  {
+    "id": 55,
+    "title": "VibeGame: Exploring Vibe Coding Games",
+    "title_zh": "VibeGame：探索氛围编程游戏",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/vibegame",
+    "tags": [
+      "solve",
+      "programming",
+      "gaming",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "游戏开发",
+      "新手友好"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "VibeGame is a high-level game engine designed for AI-assisted development, solving context management and abstraction issues in vibe coding.",
+    "summary_zh": "VibeGame是为AI辅助开发设计的高级游戏引擎，解决氛围编程中的上下文管理和抽象问题。",
+    "best_quote_en": "VibeGame combines the best of both: the web stack's excellent AI performance and Roblox's perfect abstraction.",
+    "best_quote_zh": "VibeGame结合了两者的优点：Web技术栈的卓越AI性能和Roblox的完美抽象。"
+  },
+  {
+    "id": 56,
+    "title": "上海香港跻身全球海洋城市十强",
+    "title_zh": "上海香港跻身全球海洋城市十强",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3504535532526470?f=rss",
+    "tags": [
+      "update",
+      "economics",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "经济金融",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "Shanghai and Hong Kong rank among the top ten global marine cities in the 2025 competitiveness index report.",
+    "summary_zh": "上海与香港在全球海洋城市竞争力报告中跻身前十强。",
+    "best_quote_en": "Shanghai, Tokyo, Hong Kong, Sydney, Hamburg, Oslo, and Rotterdam also rank in the top ten, forming the leading group of global marine cities alongside 'New York, London, Singapore'.",
+    "best_quote_zh": "上海、东京、香港、悉尼、汉堡、奥斯陆、鹿特丹等城市也跻身前十，与“纽伦新”共同组成全球海洋城市的头部阵营。"
+  },
+  {
+    "id": 57,
+    "title": "JPMorgan requires biometric scanning at new HQ",
+    "title_zh": "摩根大通新总部要求生物识别扫描",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/2025/10/11/jpmorgan-requires-biometric-scanning-at-new-hq?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "update",
+      "cybersecurity",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "网络安全",
+      "未来预测"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "JPMorgan mandates biometric scanning for employee access at its new Manhattan headquarters, enhancing security after a nearby shooting.",
+    "summary_zh": "摩根大通在曼哈顿新总部强制员工使用生物识别扫描，以加强安全措施。",
+    "best_quote_en": "Instead of scanning badges, employees will have to take a more hands-on approach, offering up their palms or fingerprints.",
+    "best_quote_zh": "员工不再扫描徽章，而是必须采用更亲力亲为的方式，提供手掌或指纹。"
+  },
+  {
+    "id": 58,
+    "title": "Tracy Britt Cool: Brick by Brick",
+    "title_zh": "Tracy Britt Cool：一砖一瓦",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/tracy-britt-cool/",
+    "tags": [
+      "solve",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Warren Buffett's 'fireman' shares insights on business turnarounds, leadership, and capital allocation from her Berkshire Hathaway experience.",
+    "summary_zh": "巴菲特称为“消防员”的Tracy分享从伯克希尔学到的企业转型、领导力和资本配置智慧。",
+    "best_quote_en": "\"How incentives, culture, and structure line up to create lasting success\"",
+    "best_quote_zh": "“激励、文化和结构如何协调一致，创造持久成功”"
+  },
+  {
+    "id": 59,
+    "title": "Protected: The Financial Independence Summit Event Page: Video Recordings, Resources and Workbook",
+    "title_zh": "受保护：财务独立峰会活动页面：视频录像、资源和工作手册",
+    "source": "The Financial Diet (Personal Finance, English)",
+    "link": "https://thefinancialdiet.com/the-financial-independence-summit-event-page-video-recordings-resources-and-workbook/?utm_source=rss&utm_medium=rss&utm_campaign=the-financial-independence-summit-event-page-video-recordings-resources-and-workbook",
+    "tags": [
+      "update",
+      "personal-finance",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "动态",
+      "个人理财",
+      "生活方式"
+    ],
+    "date": "2022-04-16",
+    "summary_en": "A password-protected resource hub for financial independence content with recordings and materials.",
+    "summary_zh": "受密码保护的财务独立资源中心，包含视频录像和学习材料。",
+    "best_quote_en": "This content is password protected. To view it please enter your password below.",
+    "best_quote_zh": "此内容受密码保护。请在下方输入密码查看。"
+  },
+  {
+    "id": 60,
+    "title": "Gemini Enterprise: The new front door for Google AI in your workplace",
+    "title_zh": "Gemini Enterprise：工作场所中Google AI的新入口",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/gemini-enterprise-sundar-pichai/",
+    "tags": [
+      "guide",
+      "leadership",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "领导管理",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Google launches Gemini Enterprise, an AI platform integrating company data and tools to transform workplace workflows.",
+    "summary_zh": "谷歌推出Gemini Enterprise，整合公司数据和工具，变革工作流程的AI平台。",
+    "best_quote_en": "Gemini Enterprise is designed on the premise that true business transformation in the era of AI must go beyond simple chatbots.",
+    "best_quote_zh": "Gemini Enterprise的设计前提是，AI时代真正的业务转型必须超越简单的聊天机器人。"
   }]
