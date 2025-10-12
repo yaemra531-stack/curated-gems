@@ -1504,4 +1504,241 @@
     "summary_zh": "清华与生数科技开发AudioLBM桥类模型，实现语音、音效和音乐的通用音频超分，达到192kHz母带级音质。",
     "best_quote_en": "AudioLBM first builds a latent variable bridging generation process from low to high resolution in the waveform continuous latent space.",
     "best_quote_zh": "AudioLBM首次在波形连续隐空间中构建低分辨率到高分辨率的隐变量桥接生成过程。"
+  },{
+    "id": 71,
+    "title": "AI 开发者日报 2025-10-11",
+    "title_zh": "AI 开发者日报 2025-10-11",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-11",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "Latest AI developments cover reasoning benchmarks, system optimizations, model releases, scaling insights, and robotics advancements.",
+    "summary_zh": "AI前沿动态涵盖推理基准、系统优化、模型发布、规模扩展与机器人技术进展。",
+    "best_quote_en": "Models already contain reasoning mechanisms; 'thinking models' learn when to invoke them.",
+    "best_quote_zh": "基础模型已包含推理机制；'思维模型'学习何时调用这些机制。"
+  },
+  {
+    "id": 72,
+    "title": "4 ways Gemini Enterprise makes work easier for everyone",
+    "title_zh": "Gemini Enterprise 让工作更轻松的四种方式",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/4-ways-gemini-enterprise-makes-work-easier-for-everyone/",
+    "tags": [
+      "solve",
+      "design",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Gemini Enterprise integrates AI across business tools to automate workflows and save time through customizable agents.",
+    "summary_zh": "Gemini Enterprise 通过集成AI和可定制代理，自动化工作流程，为企业节省时间。",
+    "best_quote_en": "It brings your work, data, and people together in one AI-powered hub.",
+    "best_quote_zh": "它将您的工作、数据和人员汇集在一个由AI驱动的中心。"
+  },
+  {
+    "id": 73,
+    "title": "AI 开发者日报 2025-10-10",
+    "title_zh": "AI 开发者日报 2025-10-10",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-10",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "Daily AI developer report covering humanoid robots, open-source models, developer tools, and performance benchmarks across multiple AI domains.",
+    "summary_zh": "AI开发者日报涵盖人形机器人、开源模型、开发工具及性能基准测试。",
+    "best_quote_en": "\"The video contains no remote operation,\" positioning F.03 for \"Helix, home, and global scaling applications.\"",
+    "best_quote_zh": "“影片中没有任何内容是远程操控的”，将F.03定位为“面向Helix、家庭和全球规模化应用”。"
+  },
+  {
+    "id": 74,
+    "title": "Teaming up with LA28, Team USA and NBCUniversal for the LA28 Olympic and Paralympic Games",
+    "title_zh": "与LA28、美国队和NBC环球合作，助力2028年洛杉矶奥运会和残奥会",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/company-announcements/team-usa-la28-nbc-partnerships/",
+    "tags": [
+      "update",
+      "ai-research",
+      "ai-product",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "AI产品",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google partners with LA28, Team USA, and NBCUniversal to enhance Olympic experiences using AI, cloud, and search technologies.",
+    "summary_zh": "谷歌与LA28、美国队和NBC环球合作，利用AI、云和搜索技术提升奥运会体验。",
+    "best_quote_en": "Google Cloud will serve as the official cloud provider for the LA28 Games, bringing the best in AI technology to enhance the experience for fans, athletes, and businesses.",
+    "best_quote_zh": "谷歌云将成为LA28奥运会的官方云提供商，带来最先进的AI技术，提升粉丝、运动员和企业的体验。"
+  },
+  {
+    "id": 75,
+    "title": "AI 开发者日报 2025-10-09",
+    "title_zh": "AI 开发者日报 2025-10-09",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-09",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Daily AI development highlights covering miniature reasoning models, multimodal architectures, agent systems, and infrastructure updates.",
+    "summary_zh": "AI开发者日报涵盖微型推理模型、多模态架构、智能体系统和基础设施更新。",
+    "best_quote_en": "Less layers improve generalization (4 layers → 2 layers: Sudoku task improved from 79.5% to 87.4%)",
+    "best_quote_zh": "更少的层数改善了泛化能力（4层→2层：数独任务从79.5%提升至87.4%）"
+  },
+  {
+    "id": 76,
+    "title": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
+    "title_zh": "谷歌以两年50亿欧元投资比利时AI基础设施，推动其数字未来",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/infrastructure/google-ai-infrastructure-investment-belgium/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google invests €5 billion in Belgium to expand AI infrastructure, create jobs, and provide free AI training for workers.",
+    "summary_zh": "谷歌投资50亿欧元扩建比利时AI基础设施，创造就业，并为工人提供免费AI培训。",
+    "best_quote_en": "We're equipping Belgians with the skills needed to thrive in an AI-driven economy, at no cost.",
+    "best_quote_zh": "我们免费为比利时人提供在AI驱动经济中蓬勃发展所需的技能。"
+  },
+  {
+    "id": 77,
+    "title": "AI 开发者日报 2025-10-07",
+    "title_zh": "AI 开发者日报 2025-10-07",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-07",
+    "tags": [
+      "guide",
+      "writing-content",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "写作内容",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "OpenAI DevDay announces Apps SDK, AgentKit, GPT-5 Pro, Sora 2 API, and major platform updates for AI developers.",
+    "summary_zh": "OpenAI DevDay发布应用SDK、AgentKit、GPT-5 Pro和Sora 2 API等核心开发者更新。",
+    "best_quote_en": "OpenAI is turning ChatGPT into an application platform with interactive apps, custom UI, and monetization features.",
+    "best_quote_zh": "OpenAI将ChatGPT转变为一个应用平台，具备交互式应用、自定义UI和即将推出的货币化功能。"
+  },
+  {
+    "id": 78,
+    "title": "The latest AI news we announced in September",
+    "title_zh": "九月份发布的最新AI新闻",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/google-ai-updates-september-2025/",
+    "tags": [
+      "update",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google announced major AI updates including Chrome enhancements, visual search upgrades, robotics advancements, and new learning tools.",
+    "summary_zh": "谷歌发布重大AI更新，包括Chrome增强、视觉搜索升级、机器人进展和学习工具。",
+    "best_quote_en": "Our overarching goal remains the same: to make AI as useful as possible, whether through fun, visible features or essential, behind-the-scenes magic.",
+    "best_quote_zh": "我们的首要目标始终如一：让AI尽可能有用，无论是通过有趣可见的功能还是关键的后台魔法。"
+  },
+  {
+    "id": 79,
+    "title": "AI 开发者日报 2025-10-06",
+    "title_zh": "AI 开发者日报 2025-10-06",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-06",
+    "tags": [
+      "update",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "Daily report covering AI coding agents, video generation, reinforcement learning, efficiency optimizations, and industry research updates.",
+    "summary_zh": "涵盖AI编程智能体、视频生成、强化学习、效率优化和行业研究动态的每日报告。",
+    "best_quote_en": "\"Claude Sonnet 4.5 in programming is basically the same as Opus 4.1\" - highlighting practical model comparisons.",
+    "best_quote_zh": "Claude Sonnet 4.5在编程方面“基本上与Opus 4.1相同”——突显实用模型对比。"
+  },
+  {
+    "id": 80,
+    "title": "AI Mode is now available in more languages and locations around the world.",
+    "title_zh": "AI模式现已在全球更多语言和地区推出",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/search/ai-mode-expands-languages-locations/",
+    "tags": [
+      "update",
+      "ai-research",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google Search's AI Mode expands to over 35 new languages and 40 countries, powered by Gemini models for enhanced natural language understanding.",
+    "summary_zh": "谷歌搜索AI模式扩展至35种新语言和40个国家，由Gemini模型驱动增强自然语言理解。",
+    "best_quote_en": "AI Mode allows people to ask anything in their preferred language with advanced reasoning and multimodal understanding.",
+    "best_quote_zh": "AI模式允许人们用首选语言提问，具备先进的推理和多模态理解能力。"
   }]
