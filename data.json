@@ -1500,4 +1500,237 @@
     "summary_zh": "谷歌与LA28、美国队及NBC环球合作，运用AI和云技术提升奥运体验。",
     "best_quote_en": "This partnership brings together the latest advancements across Google Search, Gemini and Google Cloud to bring you closer to all of the action.",
     "best_quote_zh": "此次合作汇集了谷歌搜索、Gemini和谷歌云的最新进展，让您更贴近所有赛事动态。"
+  },{
+    "id": 71,
+    "title": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
+    "title_zh": "谷歌以两年50亿欧元投资比利时AI基础设施，助力其数字未来",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/infrastructure/google-ai-infrastructure-investment-belgium/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google invests €5 billion in Belgium's AI and cloud infrastructure, creating jobs and providing free AI training to boost the digital economy.",
+    "summary_zh": "谷歌投资50亿欧元加强比利时AI基础设施，创造就业并提供免费AI技能培训以推动数字经济发展。",
+    "best_quote_en": "This is an extraordinary time for European innovation and its digital and economic future.",
+    "best_quote_zh": "这是欧洲创新及其数字和经济未来的非凡时刻。"
+  },
+  {
+    "id": 72,
+    "title": "New requirements for apps available in Texas",
+    "title_zh": "德克萨斯州应用新要求",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=btkirlj8",
+    "tags": [
+      "update",
+      "legal",
+      "cybersecurity",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "网络安全",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Texas law SB2420 mandates age verification for app downloads, raising privacy concerns while requiring parental consent for minors.",
+    "summary_zh": "德克萨斯州SB2420法案要求应用下载年龄验证，引发隐私担忧，同时规定未成年人需获家长同意。",
+    "best_quote_en": "We are concerned that SB2420 impacts the privacy of users by requiring collection of sensitive information to download any app.",
+    "best_quote_zh": "我们担忧SB2420法案因要求收集敏感信息下载任何应用而影响用户隐私。"
+  },
+  {
+    "id": 73,
+    "title": "Improved blocked users view in organization and personal settings",
+    "title_zh": "组织和个人设置中改进的已阻止用户视图",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-09-improved-blocked-users-view-in-organization-and-personal-settings",
+    "tags": [
+      "solve",
+      "leadership",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Enhanced blocked users view with date tracking, admin identification, and longer notes for better moderation transparency.",
+    "summary_zh": "改进已阻止用户视图，支持日期跟踪、操作者识别和长备注，提升管理透明度。",
+    "best_quote_en": "The date each user was blocked now appears in the blocked users list.",
+    "best_quote_zh": "每个用户被阻止的日期现在显示在已阻止用户列表中。"
+  },
+  {
+    "id": 74,
+    "title": "吴恩达Agentic AI新课：手把手教你搭建Agent工作流，GPT-3.5反杀GPT-4就顺手的事",
+    "title_zh": "吴恩达Agentic AI新课：手把手教你搭建Agent工作流，GPT-3.5反杀GPT-4就顺手的事",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/340687.html",
+    "tags": [
+      "guide",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "Andrew Ng's new course teaches systematic Agentic AI workflows using reflection, tool use, planning, and multi-agent collaboration.",
+    "summary_zh": "吴恩达新课教授Agentic AI四大设计模式：反思、工具、规划与协作，提升AI任务执行能力。",
+    "best_quote_en": "Who can establish systematic evaluation and error analysis processes to continuously locate and improve problems in agent workflows leads in agent development.",
+    "best_quote_zh": "谁能建立起系统化的评估与误差分析流程，持续定位并改进智能体工作流中的问题，谁就在智能体开发中领先一步"
+  },
+  {
+    "id": 75,
+    "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
+    "title_zh": "Smol2Operator: 用于计算机使用的训练后GUI智能体",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/smol2operator",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "A lightweight vision-language model is trained through a two-phase process to acquire GUI automation skills and agentic reasoning capabilities.",
+    "summary_zh": "通过两阶段训练，轻量级视觉语言模型获得GUI自动化技能和智能推理能力。",
+    "best_quote_en": "Our experiments demonstrate that high-quality, reasoning-oriented data can substantially improve GUI grounding, even for small VLMs, using only supervised fine-tuning (SFT).",
+    "best_quote_zh": "我们的实验表明，高质量、面向推理的数据即使仅使用监督微调也能显著提升小型VLM的GUI基础能力。"
+  },
+  {
+    "id": 76,
+    "title": "比亚迪中标新加坡L4级智驾巴士试点项目",
+    "title_zh": "比亚迪中标新加坡L4级智驾巴士试点项目",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3505892033518724?f=rss",
+    "tags": [
+      "update",
+      "startup-funding",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业融资",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "BYD wins Singapore's first L4 autonomous electric bus pilot project, starting testing in 2026.",
+    "summary_zh": "比亚迪中标新加坡首个L4级自动驾驶巴士试点，将于2026年测试。",
+    "best_quote_en": "BYD wins Singapore's autonomous driving bus service pilot project, the first official L4-level autonomous bus project in Singapore.",
+    "best_quote_zh": "比亚迪中标新加坡智驾巴士服务试点项目，也是新加坡首个L4级自动驾驶巴士的官方项目。"
+  },
+  {
+    "id": 77,
+    "title": "These trips will make you sweat",
+    "title_zh": "这些旅行会让你大汗淋漓",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/these-trips-will-make-you-sweat?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "Hotels and spas are expanding sauna offerings to attract wellness-focused travelers, featuring unique locations worldwide.",
+    "summary_zh": "酒店和温泉为吸引健康旅游爱好者，在全球推出特色桑拿体验。",
+    "best_quote_en": "Wellness tourism has exploded in the last few years, especially among younger and high-income travelers.",
+    "best_quote_zh": "健康旅游在过去几年中激增，尤其是在年轻和高收入旅行者中。"
+  },
+  {
+    "id": 78,
+    "title": "[Outliers] Fred Smith: The Story of FedEx",
+    "title_zh": "《异类》弗雷德·史密斯：联邦快递的故事",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/outliers-fred-smith/",
+    "tags": [
+      "analyze",
+      "leadership",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-04",
+    "summary_en": "Fred Smith built FedEx from an idea everyone rejected, overcoming failures through resilience and strategic lessons in leadership and incentives.",
+    "summary_zh": "弗雷德·史密斯将众人否定的想法变为联邦快递帝国，凭借韧性与领导力智慧战胜重重挑战。",
+    "best_quote_en": "\"Fear of failure must never be a reason not to try something,\" Fred Smith learned from overcoming childhood disability to build an overnight delivery empire.",
+    "best_quote_zh": "“对失败的恐惧绝不能成为不去尝试某事的理由。”——弗雷德·史密斯从战胜残疾到创建隔夜快递帝国的核心信念。"
+  },
+  {
+    "id": 79,
+    "title": "A Business Owner On The 3 Most Overrated Pieces Of Business Advice",
+    "title_zh": "企业主谈三大最被高估的商业建议",
+    "source": "The Financial Diet (Personal Finance, English)",
+    "link": "https://thefinancialdiet.com/a-business-owner-on-the-3-most-overrated-pieces-of-business-advice/?utm_source=rss&utm_medium=rss&utm_campaign=a-business-owner-on-the-3-most-overrated-pieces-of-business-advice",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理"
+    ],
+    "date": "2021-12-08",
+    "summary_en": "A business owner debunks three common startup myths about spending, partnerships, and websites with practical alternatives.",
+    "summary_zh": "企业主剖析三大被高估商业建议：过度投入、依赖合伙人、仓促建站，并提供实用替代方案。",
+    "best_quote_en": "\"I really hate when people say you need to spend money to make money... you'll spend yourself into a hole and a bunch of debt.\"",
+    "best_quote_zh": "“我真的很讨厌人们说‘需要花钱才能赚钱’……你会把自己花进债务的深渊。”"
+  },
+  {
+    "id": 80,
+    "title": "The latest AI news we announced in September",
+    "title_zh": "我们九月宣布的最新AI新闻",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/google-ai-updates-september-2025/",
+    "tags": [
+      "update",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google announced major AI updates for Chrome, Search, robotics, and education tools in September.",
+    "summary_zh": "谷歌九月推出Chrome、搜索、机器人和教育工具的AI重大更新。",
+    "best_quote_en": "With AI our overarching goal remains the same: to make AI as useful as possible, whether through the fun, visible features that help you with everyday tasks or in the essential, behind-the-scenes magic boosting your cybersecurity and learning.",
+    "best_quote_zh": "我们对AI的总体目标始终如一：让AI尽可能有用，无论是通过帮助日常任务的有趣可见功能，还是提升网络安全和学习的幕后魔法。"
   }]
