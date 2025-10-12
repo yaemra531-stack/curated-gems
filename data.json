@@ -1271,4 +1271,237 @@
     "summary_zh": "谷歌与滑铁卢大学合作，通过设立百万教席和未来实验室探索AI在教育中的应用。",
     "best_quote_en": "How can we best prepare students for jobs that don't exist yet? How do we evolve the learning experience to meet learners where they are?",
     "best_quote_zh": "我们如何最好地为尚不存在的职业培养学生？如何改进学习体验以满足学习者的需求？"
+  },{
+    "id": 61,
+    "title": "1,001 real-world gen AI use cases from the world's leading organizations",
+    "title_zh": "全球领先组织的 1,001 个真实世界生成式 AI 应用案例",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/gen-ai-business-use-cases/",
+    "tags": [
+      "analyze",
+      "medicine",
+      "ai-product",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "AI产品",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Google Cloud showcases over 1,000 real-world generative AI implementations across industries demonstrating practical business value and innovation.",
+    "summary_zh": "谷歌云展示各行业超千个生成式AI实际应用案例，展现实用商业价值和创新。",
+    "best_quote_en": "Our list has now grown by 10X, and still, that's just scratching the surface of what's becoming possible with AI across the enterprise.",
+    "best_quote_zh": "我们的列表现已增长10倍，但这仅仅触及了AI在企业中可能实现的表面。"
+  },
+  {
+    "id": 62,
+    "title": "New requirement for apps using Sign in with Apple for account creation",
+    "title_zh": "使用苹果登录创建账户的新要求",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=j9zukcr6",
+    "tags": [
+      "update",
+      "legal",
+      "programming"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "编程开发"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Korean developers must implement server-to-server notifications for Sign in with Apple starting January 2026.",
+    "summary_zh": "韩国开发者自2026年起需为苹果登录配置服务端通知端点。",
+    "best_quote_en": "Account changes are directly related to privacy and control for the user and their personal data, and confirming account changes should be straightforward and transparent.",
+    "best_quote_zh": "账户变更直接关系到用户隐私和个人数据控制，确认账户变更应简单透明。"
+  },
+  {
+    "id": 63,
+    "title": "GitHub Copilot CLI: Faster, more concise, and prettier",
+    "title_zh": "GitHub Copilot CLI：更快、更简洁、更美观",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-10-github-copilot-cli-faster-more-concise-and-prettier",
+    "tags": [
+      "update",
+      "design",
+      "programming"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "编程开发"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "GitHub Copilot CLI updates deliver faster responses, streamlined interface, and Windows improvements based on community feedback.",
+    "summary_zh": "GitHub Copilot CLI 更新基于社区反馈，提供更快速响应、简化界面和Windows改进。",
+    "best_quote_en": "Copilot now responds more concisely to simple questions, delivering you answers faster and keeping you focused on the task at hand.",
+    "best_quote_zh": "Copilot 现在对简单问题的回应更简洁，更快地提供答案，让你专注于手头任务。"
+  },
+  {
+    "id": 64,
+    "title": "吴恩达Agentic AI新课：手把手教你搭建Agent工作流，GPT-3.5反杀GPT-4就顺手的事",
+    "title_zh": "吴恩达Agentic AI新课：手把手教你搭建Agent工作流，GPT-3.5反杀GPT-4就顺手的事",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/340687.html",
+    "tags": [
+      "guide",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "Andrew Ng's new course teaches systematic Agentic AI workflow design patterns for enhanced AI performance.",
+    "summary_zh": "吴恩达新课教授构建智能体工作流的系统方法论，通过反思、规划与协作提升AI效能。",
+    "best_quote_en": "Whoever can establish systematic evaluation and error analysis processes to continuously locate and improve issues in agent workflows will lead in agent development.",
+    "best_quote_zh": "谁能建立起系统化的评估与误差分析流程，持续定位并改进智能体工作流中的问题，谁就在智能体开发中领先一步"
+  },
+  {
+    "id": 65,
+    "title": "Swift Transformers Reaches 1.0 — and Looks to the Future",
+    "title_zh": "Swift Transformers 达到 1.0 版本并展望未来",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/swift-transformers",
+    "tags": [
+      "inspire",
+      "programming",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "编程开发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "Swift Transformers library reaches stable 1.0 release, enhancing local LLM integration for Apple developers with improved tokenizers and MLX support.",
+    "summary_zh": "Swift Transformers 库发布稳定 1.0 版本，通过改进分词器和 MLX 支持，增强 Apple 开发者本地 LLM 集成能力。",
+    "best_quote_en": "We want to double down on the use cases that provide most benefits to the community, and lay out the foundations for the future.",
+    "best_quote_zh": "我们希望加倍投入对社区最有益的用例，并为未来奠定基础。"
+  },
+  {
+    "id": 66,
+    "title": "中国外贸含新量飙升，重庆新能源汽车出口值暴增11倍",
+    "title_zh": "中国外贸含新量飙升，重庆新能源汽车出口值暴增11倍",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3505660491439232?f=rss",
+    "tags": [
+      "analyze",
+      "startup-funding",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业融资",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "China's foreign trade sees rising high-tech exports, with Chongqing's new energy vehicle exports surging 11-fold since 2021.",
+    "summary_zh": "中国外贸含新量飙升，重庆新能源汽车出口值比“十四五”首年增长超11倍。",
+    "best_quote_en": "Chongqing's new energy vehicle exports are a microcosm of China's high-quality foreign trade development over the past five years.",
+    "best_quote_zh": "重庆新能源汽车出口是五年来我国外贸高质量发展的一个缩影。"
+  },
+  {
+    "id": 67,
+    "title": "Gemini Enterprise: The new front door for Google AI in your workplace",
+    "title_zh": "Gemini Enterprise：工作场所中 Google AI 的新入口",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/gemini-enterprise-sundar-pichai/",
+    "tags": [
+      "inspire",
+      "leadership",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "领导管理",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Google launches Gemini Enterprise, an AI platform integrating company data and tools to transform workplace workflows.",
+    "summary_zh": "谷歌推出Gemini Enterprise，集成公司数据和工具的人工智能平台，旨在改变工作流程。",
+    "best_quote_en": "Gemini Enterprise is designed on the premise that true business transformation in the era of AI must go beyond simple chatbots.",
+    "best_quote_zh": "Gemini Enterprise的设计理念是：AI时代的真正业务转型必须超越简单的聊天机器人。"
+  },
+  {
+    "id": 68,
+    "title": "Updated Apple Developer Program License Agreement now available",
+    "title_zh": "更新的苹果开发者计划许可协议现已发布",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=fnkpd51y",
+    "tags": [
+      "update",
+      "ai-research",
+      "programming"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "编程开发"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Apple has revised its Developer Program License Agreement with updates to policies, interpreted code requirements, and EU Data Act compliance.",
+    "summary_zh": "苹果更新了开发者计划许可协议，涉及政策、解释代码要求和欧盟数据法合规性。",
+    "best_quote_en": "The Apple Developer Program License Agreement has been revised to support updated policies and to provide clarification.",
+    "best_quote_zh": "苹果开发者计划许可协议已修订，以支持更新政策并提供澄清。"
+  },
+  {
+    "id": 69,
+    "title": "CodeQL 2.23.2 adds additional detections for Rust, and improves accuracy across languages",
+    "title_zh": "CodeQL 2.23.2 增加对 Rust 的额外检测并提高多语言准确性",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-09-codeql-2-23-2-adds-additional-detections-for-rust-and-improves-accuracy-across-languages",
+    "tags": [
+      "solve",
+      "programming",
+      "cybersecurity",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "网络安全",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "CodeQL 2.23.2 enhances Rust security detection and improves analysis accuracy across multiple programming languages.",
+    "summary_zh": "CodeQL 2.23.2 增强了 Rust 安全检测并提高了多编程语言的分析准确性。",
+    "best_quote_en": "CodeQL 2.23.2 introduces a new Rust security query and various other improvements that enhance the accuracy of your code scanning results.",
+    "best_quote_zh": "CodeQL 2.23.2 引入了新的 Rust 安全查询和各种其他改进，提高了代码扫描结果的准确性。"
+  },
+  {
+    "id": 70,
+    "title": "清华大学生数科技：从波形到隐空间，AudioLBM引领音频超分新范式",
+    "title_zh": "清华大学生数科技：从波形到隐空间，AudioLBM引领音频超分新范式",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/340698.html",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "Tsinghua University and Shengshu AI develop AudioLBM, a bridge model for universal audio super-resolution achieving 192kHz quality across speech, sound, and music.",
+    "summary_zh": "清华与生数科技开发AudioLBM桥类模型，实现语音、音效和音乐的通用音频超分，达到192kHz母带级音质。",
+    "best_quote_en": "AudioLBM first builds a latent variable bridging generation process from low to high resolution in the waveform continuous latent space.",
+    "best_quote_zh": "AudioLBM首次在波形连续隐空间中构建低分辨率到高分辨率的隐变量桥接生成过程。"
   }]
