@@ -1269,4 +1269,235 @@
     "summary_zh": "谷歌推出Gemini Enterprise，整合公司数据和工具，变革工作流程的AI平台。",
     "best_quote_en": "Gemini Enterprise is designed on the premise that true business transformation in the era of AI must go beyond simple chatbots.",
     "best_quote_zh": "Gemini Enterprise的设计前提是，AI时代真正的业务转型必须超越简单的聊天机器人。"
+  },{
+    "id": 61,
+    "title": "4 ways Gemini Enterprise makes work easier for everyone",
+    "title_zh": "4 种方式让 Gemini Enterprise 为每个人简化工作",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/4-ways-gemini-enterprise-makes-work-easier-for-everyone/",
+    "tags": [
+      "solve",
+      "design",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Gemini Enterprise integrates AI across business tools to automate workflows and boost productivity.",
+    "summary_zh": "Gemini Enterprise 集成AI到业务工具中，自动化工作流程并提升生产力。",
+    "best_quote_en": "It brings your work, data, and people together in one AI-powered hub.",
+    "best_quote_zh": "它将您的工作、数据和人员汇聚在一个由AI驱动的中心。"
+  },
+  {
+    "id": 62,
+    "title": "Updated Apple Developer Program License Agreement now available",
+    "title_zh": "更新的 Apple Developer Program 许可协议现已可用",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=fnkpd51y",
+    "tags": [
+      "update",
+      "ai-research",
+      "programming",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "编程开发",
+      "新手友好"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Apple has revised its Developer Program License Agreement with updates to policies, code requirements, and services.",
+    "summary_zh": "苹果更新了开发者计划许可协议，涉及政策、代码要求和服务的调整。",
+    "best_quote_en": "The Apple Developer Program License Agreement has been revised to support updated policies and to provide clarification.",
+    "best_quote_zh": "苹果开发者计划许可协议已修订，以支持更新的政策并提供澄清。"
+  },
+  {
+    "id": 63,
+    "title": "CodeQL 2.23.2 adds additional detections for Rust, and improves accuracy across languages",
+    "title_zh": "CodeQL 2.23.2 新增 Rust 检测功能并提升多语言分析准确性",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-09-codeql-2-23-2-adds-additional-detections-for-rust-and-improves-accuracy-across-languages",
+    "tags": [
+      "solve",
+      "programming",
+      "cybersecurity",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "网络安全",
+      "深度分析"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "CodeQL 2.23.2 enhances Rust security detection and improves static analysis accuracy across multiple programming languages.",
+    "summary_zh": "CodeQL 2.23.2 增强 Rust 安全检测并提升多语言静态分析准确性。",
+    "best_quote_en": "CodeQL 2.23.2 introduces a new Rust security query and various other improvements that enhance the accuracy of your code scanning results.",
+    "best_quote_zh": "CodeQL 2.23.2 引入了新的 Rust 安全查询及其他改进，提升了代码扫描结果的准确性。"
+  },
+  {
+    "id": 64,
+    "title": "拒绝小扎15亿美元offer的大佬，还是加入Meta了",
+    "title_zh": "拒绝小扎15亿美元offer的大佬，还是加入Meta了",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/340662.html",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "AI expert Andrew Tulloch rejoins Meta after declining a $1.5B offer, following stints at OpenAI and his own startup.",
+    "summary_zh": "机器学习专家Tulloch在拒绝扎克伯格巨额薪酬后，经历创业重返Meta任职。",
+    "best_quote_en": "\"He is absolutely a genius,\" said former Facebook executive Mike Vernal about Tulloch's exceptional capabilities.",
+    "best_quote_zh": "曾与Tulloch共事的Facebook前高管Mike Vernal评价说，“他绝对是个天才”。"
+  },
+  {
+    "id": 65,
+    "title": "Swift Transformers Reaches 1.0 — and Looks to the Future",
+    "title_zh": "Swift Transformers 发布 1.0 版本——展望未来",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/swift-transformers",
+    "tags": [
+      "inspire",
+      "programming",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "编程开发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "Swift Transformers 1.0 release provides stable tools for Apple developers to integrate local LLMs with enhanced tokenizers, Hub access, and MLX focus.",
+    "summary_zh": "Swift Transformers 1.0 发布，为苹果开发者提供稳定工具，整合本地 LLM，增强分词器和 Hub 访问。",
+    "best_quote_en": "We want to double down on the use cases that provide most benefits to the community, and lay out the foundations for the future.",
+    "best_quote_zh": "我们希望加倍投入对社区最有益的用例，并为未来奠定基础。"
+  },
+  {
+    "id": 66,
+    "title": "美团试点外卖骑手屏蔽顾客功能",
+    "title_zh": "美团试点外卖骑手屏蔽顾客功能",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3505651886054280?f=rss",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "Meituan pilots a feature allowing delivery riders to block customers after abusive incidents.",
+    "summary_zh": "美团在七个城市试点骑手评价并屏蔽用户功能，保护骑手权益。",
+    "best_quote_en": "Riders can select 'no longer deliver to this customer' in the evaluation page if encountering customer abuse or threats.",
+    "best_quote_zh": "如果遇到顾客辱骂、恐吓威胁等场景，可在评价页面勾选“不再为该顾客送餐”快捷屏蔽用户。"
+  },
+  {
+    "id": 67,
+    "title": "Aufguss combines saunas, dance, and competition",
+    "title_zh": "Aufguss 结合桑拿、舞蹈与竞技",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/2025/10/12/aufguss-combines-saunas-dance-and-competition?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "update",
+      "leadership",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "领导管理",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "Aufguss is a competitive sauna ritual combining choreographed towel performances and heat distribution, gaining US popularity with world championships.",
+    "summary_zh": "Aufguss是一种结合桑拿、舞蹈与竞技的仪式，在美国逐渐流行并举办世界锦标赛。",
+    "best_quote_en": "It’s a ritual ceremony called Aufguss that’s been described as 'Kabuki in the heat.'",
+    "best_quote_zh": "这是一种名为Aufguss的仪式，被形容为“热浪中的歌舞伎”。"
+  },
+  {
+    "id": 68,
+    "title": "Lulu Cheng Meservey: How To Build A Cult",
+    "title_zh": "Lulu Cheng Meservey：如何建立一种追随",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/lulu-cheng-meservey/",
+    "tags": [
+      "solve",
+      "leadership"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理"
+    ],
+    "date": "2025-09-11",
+    "summary_en": "Communications strategist Lulu Cheng Meservey shares principles for capturing attention, building trust, and influencing through storytelling in a noisy world.",
+    "summary_zh": "传播策略师分享在嘈杂世界中通过讲故事吸引注意力、建立信任和影响他人的原则。",
+    "best_quote_en": "Reality bends to whoever tells the better story.",
+    "best_quote_zh": "现实会向讲述更好故事的人屈服。"
+  },
+  {
+    "id": 69,
+    "title": "Protected: The Financial Independence Summit Event Page: Links to Zoom, Slack and Workbook",
+    "title_zh": "受保护：财务独立峰会活动页面：Zoom、Slack 和工作簿链接",
+    "source": "The Financial Diet (Personal Finance, English)",
+    "link": "https://thefinancialdiet.com/the-financial-independence-summit-event-page-links-to-zoom-slack-and-workbook/?utm_source=rss&utm_medium=rss&utm_campaign=the-financial-independence-summit-event-page-links-to-zoom-slack-and-workbook",
+    "tags": [
+      "guide",
+      "education",
+      "economics"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "经济金融"
+    ],
+    "date": "2022-04-12",
+    "summary_en": "Password-protected event page for a financial independence summit with access links.",
+    "summary_zh": "财务独立峰会密码保护活动页面，包含访问链接。",
+    "best_quote_en": "This content is password protected. To view it please enter your password below.",
+    "best_quote_zh": "此内容受密码保护。请在下文输入密码查看。"
+  },
+  {
+    "id": 70,
+    "title": "Teaming up with LA28, Team USA and NBCUniversal for the LA28 Olympic and Paralympic Games",
+    "title_zh": "与LA28、美国队和NBC环球合作，助力洛杉矶2028年奥运会和残奥会",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/company-announcements/team-usa-la28-nbc-partnerships/",
+    "tags": [
+      "update",
+      "ai-research",
+      "ai-product",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "AI产品",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google partners with LA28, Team USA, and NBCUniversal to enhance Olympic experiences using AI and cloud technology.",
+    "summary_zh": "谷歌与LA28、美国队及NBC环球合作，运用AI和云技术提升奥运体验。",
+    "best_quote_en": "This partnership brings together the latest advancements across Google Search, Gemini and Google Cloud to bring you closer to all of the action.",
+    "best_quote_zh": "此次合作汇集了谷歌搜索、Gemini和谷歌云的最新进展，让您更贴近所有赛事动态。"
   }]
