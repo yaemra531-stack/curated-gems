@@ -1,50 +1,14 @@
 [
   {
-    "name": "AI 开发者日报 (via RSSHub)",
-    "url": "https://rsshub.app/liduos/ainews"
+    "name": "AI 开发者日报",
+    "url": "https://ainews.liduos.com/rss.xml"
   },
   {
-    "name": "OpenAI Blog (via RSSHub)",
-    "url": "https://rsshub.app/openai/blog"
+    "name": "OpenAI Blog (GPT)",
+    "url": "https://openai.com/news/rss.xml"
   },
   {
     "name": "Google AI (Gemini)",
     "url": "https://blog.google/technology/ai/rss/"
-  },
-  {
-    "name": "Anthropic (Claude) Updates",
-    "url": "https://www.anthropic.com/news/feed.xml"
-  },
-  {
-    "name": "DeepSeek AI Blog",
-    "url": "https://www.deepseek.com/blog/rss.xml"
-  },
-  {
-    "name": "Apple Developer News (iOS/macOS)",
-    "url": "https://developer.apple.com/news/rss/news.rss"
-  },
-  {
-    "name": "GitHub Changelog",
-    "url": "https://github.blog/changelog/feed/"
-  },
-  {
-    "name": "Obsidian Changelog",
-    "url": "https://obsidian.md/changelog/feed.xml"
-  },
-  {
-    "name": "飞书产品更新 (via RSSHub)",
-    "url": "https://rsshub.app/feishu/product-updates"
-  },
-  {
-    "name": "量子位 (AI news, Chinese)",
-    "url": "https://www.qbitai.com/feed"
-  },
-  {
-    "name": "Hugging Face Blog (AI community, English)",
-    "url": "https://huggingface.co/blog/feed.xml"
-  },
-  {
-    "name": "36氪 - 创业与科技 (Chinese)",
-    "url": "https://36kr.com/feed"
   }
 ]
