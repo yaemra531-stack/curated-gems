@@ -1733,4 +1733,239 @@
     "summary_zh": "谷歌九月推出Chrome、搜索、机器人和教育工具的AI重大更新。",
     "best_quote_en": "With AI our overarching goal remains the same: to make AI as useful as possible, whether through the fun, visible features that help you with everyday tasks or in the essential, behind-the-scenes magic boosting your cybersecurity and learning.",
     "best_quote_zh": "我们对AI的总体目标始终如一：让AI尽可能有用，无论是通过帮助日常任务的有趣可见功能，还是提升网络安全和学习的幕后魔法。"
+  },{
+    "id": 81,
+    "title": "AI Mode is now available in more languages and locations around the world.",
+    "title_zh": "AI 模式现已在全球更多语言和地区推出",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/search/ai-mode-expands-languages-locations/",
+    "tags": [
+      "update",
+      "ai-research",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google expands AI Mode in Search to over 35 languages and 40 countries, powered by Gemini models for advanced reasoning.",
+    "summary_zh": "谷歌将AI搜索模式扩展至35种语言和40个国家，由Gemini模型提供高级推理支持。",
+    "best_quote_en": "AI Mode allows people to ask anything in their preferred language with advanced reasoning and multimodal understanding.",
+    "best_quote_zh": "AI模式让人们可以用母语提问，具备先进的推理和多模态理解能力。"
+  },
+  {
+    "id": 82,
+    "title": "Hello Developer: October 2025",
+    "title_zh": "Hello Developer: 2025年10月",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=glqa1owr",
+    "tags": [
+      "guide",
+      "programming",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "编程开发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Apple's October 2025 developer update introduces on-device LLM coding, new games, App Store features, and an air-quality app showcase.",
+    "summary_zh": "苹果2025年10月开发者更新：本地LLM编程、新游戏、App Store功能及空气质量应用展示。",
+    "best_quote_en": "Discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.",
+    "best_quote_zh": "了解如何使用Foundation Models框架访问为苹果智能提供动力的设备端LLM。"
+  },
+  {
+    "id": 83,
+    "title": "Upcoming deprecation of Claude Sonnet 3.5",
+    "title_zh": "即将弃用Claude Sonnet 3.5",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-07-upcoming-deprecation-of-claude-sonnet-3-5",
+    "tags": [
+      "solve",
+      "ai-product",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI产品",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "GitHub Copilot will deprecate Claude Sonnet 3.5 on November 6, 2025, replacing it with newer models for improved user experience.",
+    "summary_zh": "GitHub Copilot将于2025年11月6日弃用Claude Sonnet 3.5，引入更先进模型提升用户体验。",
+    "best_quote_en": "Newer, more capable models will be introduced to ensure that users on our Copilot Free plan continue to have an improved experience over time.",
+    "best_quote_zh": "将引入更新、更强大的模型，确保免费版Copilot用户持续获得改进体验。"
+  },
+  {
+    "id": 84,
+    "title": "刚得诺奖的成果被做成芯片了",
+    "title_zh": "刚得诺奖的成果被做成芯片了",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/340861.html",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Scientists create brain-like memory chips using Nobel Prize-winning MOF materials for next-generation computing.",
+    "summary_zh": "科学家利用诺奖MOF材料制成类脑记忆芯片，开启新一代计算范式。",
+    "best_quote_en": "\"We can manufacture advanced fluid chips that supplement or even overcome some limitations of today's electronic chips.\"",
+    "best_quote_zh": "“我们就可以制造出先进的流体芯片，以补充甚至克服当今电子芯片的一些局限性。”"
+  },
+  {
+    "id": 85,
+    "title": "Gaia2 and ARE: Empowering the community to study agents",
+    "title_zh": "Gaia2 和 ARE：赋能社区研究智能体",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/gaia2",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-22",
+    "summary_en": "Gaia2 and ARE provide open tools for evaluating AI agents through complex real-world simulations and structured analysis.",
+    "summary_zh": "Gaia2 和 ARE 提供开源工具，通过复杂现实模拟和结构化分析评估 AI 智能体。",
+    "best_quote_en": "Gaia2 is a follow up to GAIA, going way beyond it in terms of capabilities studied, focusing on interactive behavior and complexity management.",
+    "best_quote_zh": "Gaia2 是 GAIA 的后续版本，在研究的智能体能力方面远超前者，专注于交互行为和复杂性管理。"
+  },
+  {
+    "id": 86,
+    "title": "吉利汽车：获中国银行间市场交易商协会批准注册不超过人民币100亿元债务融资工具",
+    "title_zh": "吉利汽车：获中国银行间市场交易商协会批准注册不超过人民币100亿元债务融资工具",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3507376889650055?f=rss",
+    "tags": [
+      "update",
+      "startup-funding",
+      "economics"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业融资",
+      "经济金融"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Geely Auto receives approval to register up to RMB 10 billion in debt financing instruments over two years.",
+    "summary_zh": "吉利汽车获批注册不超过100亿元债务融资工具，可在两年内分期发行。",
+    "best_quote_en": "Company can issue various products including super short-term, short-term, medium-term notes, perpetual notes, and green debt financing tools.",
+    "best_quote_zh": "公司可分期发行包括超短期融资券、短期融资券、中期票据、永续票据及绿色债务融资工具等产品。"
+  },
+  {
+    "id": 87,
+    "title": "Saunas are the hot new activity for Americans",
+    "title_zh": "桑拿成为美国人热衷的新活动",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/2025/10/12/saunas-are-the-hot-new-activity-for-americans?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "analyze",
+      "health-wellness",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "健康养生",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "Saunas are gaining popularity in the US for health benefits, social connections, and as wellness alternatives.",
+    "summary_zh": "桑拿在美国因健康益处、社交功能及健康生活方式选择而日益流行。",
+    "best_quote_en": "Americans are increasingly looking for fitness alternatives and something other than a bar for socializing, leading to more sweatboxes popping up around the country.",
+    "best_quote_zh": "美国人越来越多地寻找健身替代品和酒吧以外的社交场所，导致全国涌现出更多桑拿房。"
+  },
+  {
+    "id": 88,
+    "title": "Benedict Evans: Why AI Isn’t What You Think",
+    "title_zh": "Benedict Evans：为什么AI并非你所想",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/benedict-evans/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-08-28",
+    "summary_en": "Benedict Evans argues AI is a major platform shift like the iPhone, not a civilization-altering technology, with adoption gaps and commoditization risks.",
+    "summary_zh": "Benedict Evans认为AI是类似iPhone的平台变革，而非文明改变，存在采用差距和商品化风险。",
+    "best_quote_en": "\"AI is the biggest platform shift since the iPhone, but it's only that. It's not a civilization-altering technology like electricity.\"",
+    "best_quote_zh": "“AI是自iPhone以来最大的平台变革，但仅此而已。它不像电力那样是改变文明的技术。”"
+  },
+  {
+    "id": 89,
+    "title": "4 Professional & Financial Intentions To Set For The Rest Of The Year",
+    "title_zh": "为年底前设定的4个专业与财务目标",
+    "source": "The Financial Diet (Personal Finance, English)",
+    "link": "https://thefinancialdiet.com/4-professional-financial-intentions-to-set-for-the-rest-of-the-year/?utm_source=rss&utm_medium=rss&utm_campaign=4-professional-financial-intentions-to-set-for-the-rest-of-the-year",
+    "tags": [
+      "solve",
+      "design",
+      "personal-finance",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "个人理财",
+      "案例研究"
+    ],
+    "date": "2021-12-07",
+    "summary_en": "Four actionable professional and financial intentions to maximize the final months of the year.",
+    "summary_zh": "四个可操作的专业和财务目标，助你充分利用年底前的时间。",
+    "best_quote_en": "Every day you delay, you pay the price of lost growth potential.",
+    "best_quote_zh": "每拖延一天，你都在为错失的增长潜力付出代价。"
+  },
+  {
+    "id": 90,
+    "title": "Investing in America 2025",
+    "title_zh": "投资美国 2025",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/company-announcements/investing-in-america-2025/",
+    "tags": [
+      "update",
+      "education",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google invests in U.S. AI infrastructure, workforce training, and energy capacity to drive innovation and economic growth.",
+    "summary_zh": "谷歌投资美国AI基础设施、人才培训和能源能力，推动创新与经济增长。",
+    "best_quote_en": "Google's investments across the U.S are helping enable this extraordinary time for American innovation.",
+    "best_quote_zh": "谷歌在美国各地的投资正在帮助实现这一美国创新的非凡时刻。"
   }]
