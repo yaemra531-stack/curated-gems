@@ -1968,4 +1968,237 @@
     "summary_zh": "谷歌投资美国AI基础设施、人才培训和能源能力，推动创新与经济增长。",
     "best_quote_en": "Google's investments across the U.S are helping enable this extraordinary time for American innovation.",
     "best_quote_zh": "谷歌在美国各地的投资正在帮助实现这一美国创新的非凡时刻。"
+  },{
+    "id": 91,
+    "title": "1,001 real-world gen AI use cases from the world's leading organizations",
+    "title_zh": "全球领先组织的1001个真实世界生成式AI应用案例",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/gen-ai-business-use-cases/",
+    "tags": [
+      "analyze",
+      "medicine",
+      "ai-product",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "AI产品",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Google Cloud showcases over 1,000 real-world generative AI implementations across industries like automotive, finance, and healthcare.",
+    "summary_zh": "谷歌云展示了汽车、金融和医疗等行业1000多个生成式AI的实际应用案例。",
+    "best_quote_en": "The list has now grown by 10X, and still, that's just scratching the surface of what's becoming possible with AI across the enterprise.",
+    "best_quote_zh": "这个列表已经增长了10倍，而这仍然只是触及了AI在企业中可能实现的表面。"
+  },
+  {
+    "id": 92,
+    "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+    "title_zh": "改变罗里·麦克罗伊职业生涯的惊魂大师赛崩盘",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html",
+    "tags": [
+      "analyze",
+      "psychology",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2024-04-09",
+    "summary_en": "Rory McIlroy's 2011 Masters collapse became a pivotal learning moment that fueled his subsequent major championship success.",
+    "summary_zh": "罗里·麦克罗伊2011年大师赛崩盘成为转折点，推动了他后续大满贯胜利。",
+    "best_quote_en": "\"If I had not had the whole unravelling, if I had just made a couple of bogeys coming down the stretch and lost by one, I would not have learned as much.\"",
+    "best_quote_zh": "“如果我没有经历那次彻底崩盘，如果我只是在最后几洞吞下几个柏忌并以一杆之差落败，我不会学到这么多。”"
+  },
+  {
+    "id": 93,
+    "title": "Gemini Enterprise: The new front door for Google AI in your workplace",
+    "title_zh": "Gemini Enterprise：工作场所中Google AI的新门户",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/gemini-enterprise-sundar-pichai/",
+    "tags": [
+      "guide",
+      "leadership",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "领导管理",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Google launches Gemini Enterprise, an AI platform integrating company data and tools to transform workplace workflows.",
+    "summary_zh": "谷歌推出Gemini Enterprise AI平台，整合公司数据与工具以变革工作流程。",
+    "best_quote_en": "Gemini Enterprise is designed on the premise that true business transformation in the era of AI must go beyond simple chatbots.",
+    "best_quote_zh": "Gemini Enterprise的设计前提是，在AI时代，真正的业务转型必须超越简单的聊天机器人。"
+  },
+  {
+    "id": 94,
+    "title": "Scientists film deepest ever fish on seabed off Japan",
+    "title_zh": "科学家在日本海底拍摄到史上最深鱼类",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2023-04-18",
+    "summary_en": "Scientists filmed the deepest fish ever recorded at 8,336 meters, setting new records in deep-sea exploration.",
+    "summary_zh": "科学家在日本海沟8336米深处拍摄到史上最深鱼类，刷新深海探索纪录。",
+    "best_quote_en": "\"What is significant is that it shows how far a particular type of fish will descend in the ocean,\" said marine biologist Alan Jamieson.",
+    "best_quote_zh": "海洋生物学家艾伦·贾米森表示：“重要的是它显示了特定鱼类在海洋中能够下潜的深度。”"
+  },
+  {
+    "id": 95,
+    "title": "4 ways Gemini Enterprise makes work easier for everyone",
+    "title_zh": "Gemini Enterprise 让每个人工作更轻松的 4 种方式",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/4-ways-gemini-enterprise-makes-work-easier-for-everyone/",
+    "tags": [
+      "solve",
+      "design",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Gemini Enterprise integrates AI across business tools to automate workflows and boost productivity through customizable agents.",
+    "summary_zh": "Gemini Enterprise 通过可定制AI代理集成业务工具，自动化工作流程并提升生产力。",
+    "best_quote_en": "True transformation comes from improving entire processes, not just single steps.",
+    "best_quote_zh": "真正的转型来自改进整个流程，而不仅仅是单个步骤。"
+  },
+  {
+    "id": 96,
+    "title": "See the world's deepest fish",
+    "title_zh": "观看世界上最深的鱼",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn",
+    "tags": [
+      "analyze",
+      "science",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2023-04-12",
+    "summary_en": "Scientists discovered a new snailfish species at over 27,000 feet depth during a Japanese trench expedition.",
+    "summary_zh": "科学家在日本海沟探险中发现了一种生活在27000英尺深度的新蜗牛鱼物种。",
+    "best_quote_en": "Scientists captured the unknown snailfish species at a depth of more than 27,000 feet",
+    "best_quote_zh": "科学家在超过27000英尺的深度捕获了未知的蜗牛鱼物种"
+  },
+  {
+    "id": 97,
+    "title": "Teaming up with LA28, Team USA and NBCUniversal for the LA28 Olympic and Paralympic Games",
+    "title_zh": "与LA28、美国队和NBC环球合作，共同打造洛杉矶2028年奥运会和残奥会",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/company-announcements/team-usa-la28-nbc-partnerships/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "ai-product",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "AI产品",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google partners with LA28, Team USA, and NBCUniversal to enhance Olympic experiences using AI and cloud technology.",
+    "summary_zh": "谷歌与LA28、美国队和NBC环球合作，利用AI和云技术提升奥运体验。",
+    "best_quote_en": "Google Cloud will serve as the official cloud provider for the LA28 Games, bringing the best in AI technology to enhance the experience for fans, athletes, and businesses.",
+    "best_quote_zh": "谷歌云将成为LA28奥运会的官方云服务提供商，提供顶尖AI技术，提升粉丝、运动员和企业的体验。"
+  },
+  {
+    "id": 98,
+    "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
+    "title_zh": "5000亿美元美容业的“绿色”雄心只是拼凑而成，远未达标",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/style/article/beauty-skincare-climate/index.html",
+    "tags": [
+      "solve",
+      "business-model",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "商业模式",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2023-04-06",
+    "summary_en": "The beauty industry's sustainability efforts are inconsistent, lacking standardized regulations and transparency, with greenwashing and plastic waste remaining major challenges.",
+    "summary_zh": "美容业可持续发展努力不一致，缺乏标准法规和透明度，存在漂绿和塑料废物问题。",
+    "best_quote_en": "'The only way out of this is transparency,' said British Beauty Council CEO Millie Kendall, highlighting the industry's fundamental challenge.",
+    "best_quote_zh": "英国美容委员会首席执行官米莉·肯德尔表示：“唯一的出路是透明度”，点明了行业根本挑战。"
+  },
+  {
+    "id": 99,
+    "title": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
+    "title_zh": "谷歌以两年50亿欧元投资比利时AI基础设施",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/infrastructure/google-ai-infrastructure-investment-belgium/",
+    "tags": [
+      "inspire",
+      "tech-trends",
+      "economics"
+    ],
+    "tags_zh": [
+      "启发",
+      "技术趋势",
+      "经济金融"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google invests €5 billion in Belgian AI infrastructure and workforce training to drive digital transformation.",
+    "summary_zh": "谷歌投资50亿欧元建设比利时AI基础设施并提供免费技能培训推动数字化转型",
+    "best_quote_en": "We're equipping Belgians with the skills needed to thrive in an AI-driven economy, at no cost and will fund non-profits to provide free, practical AI training for low-skilled workers.",
+    "best_quote_zh": "我们正在免费为比利时人提供在AI驱动经济中蓬勃发展所需的技能，并资助非营利组织为低技能工人提供免费的实用AI培训。"
+  },
+  {
+    "id": 100,
+    "title": "The latest AI news we announced in September",
+    "title_zh": "九月最新AI新闻发布",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/google-ai-updates-september-2025/",
+    "tags": [
+      "update",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google announced major AI upgrades for Chrome, Search, robotics, and learning tools in September.",
+    "summary_zh": "谷歌九月推出Chrome、搜索、机器人和学习工具的重大AI升级。",
+    "best_quote_en": "With AI our overarching goal remains the same: to make AI as useful as possible, whether through the fun, visible features that help you with everyday tasks or in the essential, behind-the-scenes magic boosting your cybersecurity and learning.",
+    "best_quote_zh": "AI的总体目标保持不变：使AI尽可能有用，无论是通过帮助日常任务的可见功能，还是提升网络安全和学习的幕后魔法。"
   }]
