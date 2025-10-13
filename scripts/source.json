@@ -1,7 +1,7 @@
 [
   {
     "name": "AI 开发者日报",
-    "url": "https://ainews.liduos.com/feed.xml"
+    "url": "https://ainews.liduos.com/rss.xml"
   },
   {
     "name": "OpenAI Blog (GPT)",
@@ -15,4 +15,4 @@
     "name": "CNN news (CNN)",
     "url": "http://rss.cnn.com/rss/edition.rss"
   }
-]
+] 
