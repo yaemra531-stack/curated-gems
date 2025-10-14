@@ -217,4 +217,233 @@
     "best_quote_en": "Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.",
     "best_quote_zh": "多年以后，奥雷连诺上校站在行刑队面前，必将想起父亲带他去见识冰块的那个遥远的下午。"
   }
-  ]
+  ,{
+    "id": 11,
+    "title": "AI 开发者日报 2025-10-11",
+    "title_zh": "AI 开发者日报 2025-10-11",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-11",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "Latest AI advancements in reasoning capabilities, system optimizations, model releases, and scaling infrastructure developments.",
+    "summary_zh": "AI推理能力前沿进展、系统优化、模型发布及规模基础设施发展。",
+    "best_quote_en": "Base models already contain reasoning mechanisms; 'thinking models' learn when to invoke them.",
+    "best_quote_zh": "基础模型已经包含推理机制；'思维模型'学习的是何时调用这些机制。"
+  },
+  {
+    "id": 12,
+    "title": "New AI-powered features help you connect with web content in Search and Discover.",
+    "title_zh": "全新AI功能助您在搜索和发现中连接网络内容",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/search/ai-features-web-content/",
+    "tags": [
+      "update",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Google introduces AI-powered features in Search and Discover to help users find trending content and sports updates.",
+    "summary_zh": "谷歌在搜索和发现中推出AI功能，帮助用户获取趋势内容和体育更新。",
+    "best_quote_en": "Our testing shows this makes it easier to catch up on stories from a wide range of publishers and creators.",
+    "best_quote_zh": "我们的测试表明，这让用户更容易了解来自各种发布者和创作者的故事。"
+  },
+  {
+    "id": 13,
+    "title": "AI 开发者日报 2025-10-10",
+    "title_zh": "AI 开发者日报 2025-10-10",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-10",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "Comprehensive AI development update covering humanoid robots, open-source models, developer tools, benchmarks, and performance optimizations.",
+    "summary_zh": "AI开发者日报全面报道人形机器人、开源模型、开发工具和性能优化进展。",
+    "best_quote_en": "The video contains no remote control content, positioning F.03 for Helix, home, and global scale applications.",
+    "best_quote_zh": "影片中没有任何内容是远程操控的，将F.03定位为面向Helix、家庭和全球规模化应用。"
+  },
+  {
+    "id": 14,
+    "title": "Nano Banana is coming to Google Search, NotebookLM and Photos.",
+    "title_zh": "Nano Banana 即将登陆 Google 搜索、NotebookLM 和相册",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/nano-banana-google-products/",
+    "tags": [
+      "update",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Google is expanding its Nano Banana AI image editing tool from Gemini to Search, NotebookLM, and Photos for creative visual transformations.",
+    "summary_zh": "谷歌将Nano Banana AI图像编辑工具从Gemini扩展到搜索、NotebookLM和相册，用于创意视觉转换。",
+    "best_quote_en": "Now, we’re bringing Nano Banana to Google Search and NotebookLM (and soon to Photos), helping more people access these advanced capabilities in products where they’re already exploring, learning and creating with visuals.",
+    "best_quote_zh": "现在，我们将Nano Banana引入Google搜索和NotebookLM（并很快引入相册），帮助更多人在他们已经在探索、学习和创造视觉内容的产品中访问这些先进功能。"
+  },
+  {
+    "id": 15,
+    "title": "Haberman reveals why Trump attacked judge and his family in speech",
+    "title_zh": "哈伯曼揭示特朗普为何在演讲中攻击法官及其家人",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2023-04-05",
+    "summary_en": "Maggie Haberman explains Trump's motivations for attacking the judge and his family after his arraignment.",
+    "summary_zh": "哈伯曼解释特朗普在提审后攻击法官及其家人的动机。",
+    "best_quote_en": "Haberman explains the reasoning behind Donald Trump's attacks on the judge and his family.",
+    "best_quote_zh": "哈伯曼解释特朗普攻击法官及其家人的背后原因。"
+  },
+  {
+    "id": 16,
+    "title": "AI 开发者日报 2025-10-09",
+    "title_zh": "AI 开发者日报 2025-10-09",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-09",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Daily AI developer report covering micro reasoning models, JEPA density estimation, multi-modal systems, and agent infrastructure advancements.",
+    "summary_zh": "AI开发者日报涵盖微型推理模型、JEPA密度估计和多模态系统与智能体基础设施进展。",
+    "best_quote_en": "Less is more: fewer layers improve generalization (4→2 layers: Sudoku from 79.5% to 87.4%)",
+    "best_quote_zh": "少即是多：更少的层数改善了泛化能力（4层→2层：数独任务从79.5%提升至87.4%）"
+  },
+  {
+    "id": 17,
+    "title": "How to edit images with Nano Banana in Search",
+    "title_zh": "如何在搜索中使用 Nano Banana 编辑图片",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/search/nano-banana-search-lens/",
+    "tags": [
+      "guide",
+      "design",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "AI研究"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Google introduces Nano Banana in Search via Lens and AI Mode for instant image editing and creation.",
+    "summary_zh": "谷歌在搜索中推出Nano Banana，通过Lens和AI模式实现即时图片编辑和创作。",
+    "best_quote_en": "Ready to unleash your imagination and have a whole bunch of fun with photos?",
+    "best_quote_zh": "准备好释放你的想象力，在照片中享受一整串的乐趣了吗？"
+  },
+  {
+    "id": 18,
+    "title": "Syrian refugee elected mayor of German town, years after fleeing war",
+    "title_zh": "叙利亚难民当选德国小镇镇长，数年前逃离战争",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/04/europe/germany-mayor-syrian-refugee-intl/index.html",
+    "tags": [
+      "analyze",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2023-04-04",
+    "summary_en": "A Syrian refugee who fled war in 2015 was elected mayor of a German town, demonstrating successful integration and political participation.",
+    "summary_zh": "一名2015年逃离战争的叙利亚难民当选德国小镇镇长，展现了成功的融合与政治参与。",
+    "best_quote_en": "\"Today, Ostelsheim sent an example for broad-mindedness and cosmopolitanism for the whole of Germany.\"",
+    "best_quote_zh": "\"今天，奥斯特尔斯海姆为整个德国树立了开放思想和世界主义的榜样。\""
+  },
+  {
+    "id": 19,
+    "title": "AI 开发者日报 2025-10-07",
+    "title_zh": "AI 开发者日报 2025-10-07",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-07",
+    "tags": [
+      "guide",
+      "writing-content",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "写作内容",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "OpenAI DevDay announces major platform updates including Apps SDK, AgentKit, GPT-5 Pro, Sora 2 APIs, and new model releases with significant price reductions.",
+    "summary_zh": "OpenAI开发者大会发布应用SDK、AgentKit、GPT-5 Pro和Sora 2 API，并推出多款新模型及大幅降价。",
+    "best_quote_en": "OpenAI is turning ChatGPT into an app platform with Apps SDK enabling interactive applications directly within ChatGPT.",
+    "best_quote_zh": "OpenAI正将ChatGPT转变为应用平台，Apps SDK让合作伙伴能将完整交互应用直接嵌入ChatGPT。"
+  },
+  {
+    "id": 20,
+    "title": "Video Overviews on NotebookLM get a major upgrade with Nano Banana",
+    "title_zh": "NotebookLM 的视频概述功能通过 Nano Banana 实现重大升级",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/google-labs/video-overviews-nano-banana/",
+    "tags": [
+      "learn",
+      "design",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "NotebookLM upgrades Video Overviews with Nano Banana's image generation and adds a Brief format for quick insights.",
+    "summary_zh": "NotebookLM 视频概述通过 Nano Banana 图像生成升级，新增快速摘要格式。",
+    "best_quote_en": "Nano Banana in NotebookLM generates helpful, contextual, and beautiful illustrations based on the sources you upload.",
+    "best_quote_zh": "Nano Banana 在 NotebookLM 中根据您上传的源文件生成有用、上下文相关且美观的插图。"
+  }]
