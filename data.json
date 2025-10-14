@@ -1968,4 +1968,217 @@
     "summary_zh": "谷歌投资美国AI基础设施、人才培训和能源能力，推动创新与经济增长。",
     "best_quote_en": "Google's investments across the U.S are helping enable this extraordinary time for American innovation.",
     "best_quote_zh": "谷歌在美国各地的投资正在帮助实现这一美国创新的非凡时刻。"
+  },{
+    "id": 91,
+    "title": "New AI-powered features help you connect with web content in Search and Discover.",
+    "title_zh": "新AI功能助您在搜索和发现中连接网络内容",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/search/ai-features-web-content/",
+    "tags": [
+      "update",
+      "ai-research",
+      "programming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "编程开发",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Google introduces AI-powered features in Search and Discover for personalized content discovery and sports updates.",
+    "summary_zh": "谷歌推出搜索和发现中的AI新功能，帮助个性化内容发现和体育更新。",
+    "best_quote_en": "Our testing shows this makes it easier to catch up on stories from a wide range of publishers and creators.",
+    "best_quote_zh": "我们的测试表明，这使您更容易了解来自各种发布商和创作者的故事。"
+  },
+  {
+    "id": 92,
+    "title": "App Store submissions now open for the latest OS releases",
+    "title_zh": "App Store 提交现已开放最新操作系统版本",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=6lxhtioi",
+    "tags": [
+      "update",
+      "programming",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "编程开发",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "Apple opens App Store submissions for iOS 26 and other OS updates, requiring developers to use new SDKs and features.",
+    "summary_zh": "苹果开放 iOS 26 等最新操作系统的 App Store 提交，要求开发者使用新 SDK 和功能。",
+    "best_quote_en": "You can now submit apps and games that take advantage of Apple’s broadest design update ever.",
+    "best_quote_zh": "你现在可以提交利用苹果有史以来最广泛设计更新的应用程序和游戏。"
+  },
+  {
+    "id": 93,
+    "title": "Anthropic’s Claude Sonnet 4.5 is now generally available in GitHub Copilot",
+    "title_zh": "Anthropic的Claude Sonnet 4.5现已在GitHub Copilot中全面可用",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-13-anthropics-claude-sonnet-4-5-is-now-generally-available-in-github-copilot",
+    "tags": [
+      "update",
+      "programming",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "编程开发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Claude Sonnet 4.5 is now available across GitHub Copilot plans for chat, coding agent, and IDE integration.",
+    "summary_zh": "Claude Sonnet 4.5现已在GitHub Copilot各订阅计划中全面可用，支持聊天、编码代理和IDE集成。",
+    "best_quote_en": "Copilot coding agent will also now use Claude Sonnet 4.5 for all subscription types, regardless of your Copilot Chat and IDE settings.",
+    "best_quote_zh": "Copilot编码代理现在也将为所有订阅类型使用Claude Sonnet 4.5，无论您的Copilot聊天和IDE设置如何。"
+  },
+  {
+    "id": 94,
+    "title": "别Claude Code了，一个国产免费命令行就够了",
+    "title_zh": "别Claude Code了，一个国产免费命令行就够了",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/341545.html",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "iFlow CLI is a free Chinese AI command-line tool that outperforms Claude Code and integrates multiple domestic models for developers.",
+    "summary_zh": "iFlow CLI是一款免费国产AI命令行工具，性能超越Claude Code，集成多个国内模型。",
+    "best_quote_en": "It's like having a Unix veteran in your terminal, transforming command-line interaction through natural language.",
+    "best_quote_zh": "它就像是把一个Unix老炮儿装进了你的终端，通过自然语言对话改变命令行使用方式。"
+  },
+  {
+    "id": 95,
+    "title": "Scaleway on Hugging Face Inference Providers 🔥",
+    "title_zh": "Scaleway 成为 Hugging Face 推理提供商 🔥",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/inference-providers-scaleway",
+    "tags": [
+      "guide",
+      "ai-research",
+      "business-model",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "商业模式",
+      "未来预测"
+    ],
+    "date": "2025-09-19",
+    "summary_en": "Scaleway joins Hugging Face as an inference provider, offering serverless access to open models with European data sovereignty.",
+    "summary_zh": "Scaleway 加入 Hugging Face 成为推理提供商，提供无服务器访问开放模型并确保欧洲数据主权。",
+    "best_quote_en": "Scaleway joins our growing ecosystem, enhancing the breadth and capabilities of serverless inference directly on the Hub’s model pages.",
+    "best_quote_zh": "Scaleway 加入我们不断增长的生态系统，直接在 Hub 模型页面上增强了无服务器推理的广度和能力。"
+  },
+  {
+    "id": 96,
+    "title": "This company supplies car parts & 2008 flashbacks",
+    "title_zh": "这家公司供应汽车零部件与2008年回忆",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/2025/10/14/first-brands-bankruptcy-private-credit?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "analyze",
+      "economics",
+      "personal-finance",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "经济金融",
+      "个人理财",
+      "未来预测"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "First Brands' bankruptcy with $10B debt raises concerns about private credit risks and potential financial contagion.",
+    "summary_zh": "First Brands破产暴露100亿美元债务，引发对私人信贷风险和金融传染的担忧。",
+    "best_quote_en": "\"if something is going disastrously wrong, it might only be detected once it's too late\"",
+    "best_quote_zh": "如果出现问题，可能要到为时已晚才能被发现"
+  },
+  {
+    "id": 97,
+    "title": "[Outliers] John Bragg: The Unknown Billionaire Who Controls Half the World’s Blueberries",
+    "title_zh": "局外人约翰·布拉格：掌控全球一半蓝莓的隐形亿万富翁",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/outliers-john-bragg/",
+    "tags": [
+      "analyze",
+      "education",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-08-21",
+    "summary_en": "John Bragg built billion-dollar businesses in blueberries and telecom through patient capital and unconventional strategies.",
+    "summary_zh": "约翰·布拉格通过耐心资本和非常规策略，在蓝莓和电信领域建立了数十亿美元的商业帝国。",
+    "best_quote_en": "\"Only those who look at the horizon find the right road. If you look at your feet, you'll stumble.\"",
+    "best_quote_zh": "“只有看向地平线的人才能找到正确的道路。如果你只盯着脚下，就会跌倒。”"
+  },
+  {
+    "id": 98,
+    "title": "The Costly Mistake That’s Hurting Your Career Goals (& How To Avoid It)",
+    "title_zh": "损害职业目标的代价高昂错误（及如何避免）",
+    "source": "The Financial Diet (Personal Finance, English)",
+    "link": "https://thefinancialdiet.com/the-costly-mistake-thats-hurting-your-career-goals-how-to-avoid-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-costly-mistake-thats-hurting-your-career-goals-how-to-avoid-it",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2021-11-17",
+    "summary_en": "Entrepreneurs should choose reliable website hosts like Squarespace to avoid security risks, poor service, and financial losses.",
+    "summary_zh": "创业者应选择可靠网站托管服务，避免安全风险、服务差和财务损失。",
+    "best_quote_en": "\"I actually wanted to use Squarespace when I first started but for some reason I decided to go somewhere else and boy, did I regret it!\"",
+    "best_quote_zh": "“我一开始其实想用Squarespace，但不知为何选了别家，天啊，我后悔极了！”"
+  },
+  {
+    "id": 99,
+    "title": "Nano Banana is coming to Google Search, NotebookLM and Photos.",
+    "title_zh": "Nano Banana即将登陆Google搜索、NotebookLM和相册",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/nano-banana-google-products/",
+    "tags": [
+      "update",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Google expands Nano Banana AI image editing to Search, NotebookLM, and Photos for enhanced visual creativity.",
+    "summary_zh": "谷歌将Nano Banana AI图像编辑扩展至搜索、NotebookLM和相册，提升视觉创作体验。",
+    "best_quote_en": "Now, we’re bringing Nano Banana to Google Search and NotebookLM (and soon to Photos), helping more people access these advanced capabilities.",
+    "best_quote_zh": "现在，我们将Nano Banana引入Google搜索和NotebookLM（很快还有相册），帮助更多人使用这些高级功能。"
   }]
