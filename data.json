@@ -1,91 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Chang'an's Lychees",
-    "title_zh": "长安的荔枝",
-    "source": "马伯庸",
-    "link": "https://book.douban.com/subject/35806849/",
-    "tags": [
-      "historical fiction",
-      "Tang dynasty"
-    ],
-    "tags_zh": [
-      "历史小说",
-      "唐朝"
-    ],
-    "date": "2025-01-01",
-    "summary_en": "A historical novel depicting the journey of transporting fresh lychees to the capital during the Tang dynasty, reflecting politics, power, and human fate.",
-    "summary_zh": "一部以唐代荔枝进贡为背景的历史小说，展现了政治博弈、人性命运与权力角逐。",
-    "best_quote_en": "A lychee from Lingnan may decide the fate of the entire empire.",
-    "best_quote_zh": "岭南一颗荔枝，关乎天下之势。"
-  },
-  {
-    "id": 2,
-    "title": "The Three-Body Problem",
-    "title_zh": "三体",
-    "source": "刘慈欣",
-    "link": "https://book.douban.com/subject/2567698/",
-    "tags": [
-      "sci-fi",
-      "cosmos",
-      "civilization"
-    ],
-    "tags_zh": [
-      "科幻",
-      "宇宙",
-      "文明"
-    ],
-    "date": "2025-01-01",
-    "summary_en": "A sci-fi classic exploring first contact between humanity and an alien civilization from a three-sun system.",
-    "summary_zh": "描写地球文明与三体文明第一次接触的科幻经典，探讨人类的未来与文明的冲突。",
-    "best_quote_en": "Weakness and ignorance are not barriers to survival, arrogance is.",
-    "best_quote_zh": "弱小和无知不是生存的障碍，傲慢才是。"
-  },
-  {
-    "id": 3,
-    "title": "Records of the Ming Dynasty",
-    "title_zh": "明朝那些事儿",
-    "source": "当年明月",
-    "link": "https://book.douban.com/subject/3896214/",
-    "tags": [
-      "history",
-      "China",
-      "Ming dynasty"
-    ],
-    "tags_zh": [
-      "历史",
-      "中国",
-      "明朝"
-    ],
-    "date": "2025-01-01",
-    "summary_en": "A popular history book that retells the Ming dynasty's events in a witty and accessible style.",
-    "summary_zh": "以生动幽默的语言讲述明朝历史，让历史变得有趣又容易理解。",
-    "best_quote_en": "History is not only about emperors and generals, but also about ordinary people's joys and sorrows.",
-    "best_quote_zh": "历史不仅是帝王将相的故事，也是百姓悲欢的记录。"
-  },
-  {
-    "id": 4,
-    "title": "To Live",
-    "title_zh": "活着",
-    "source": "余华",
-    "link": "https://book.douban.com/subject/4913064/",
-    "tags": [
-      "life",
-      "suffering",
-      "human resilience"
-    ],
-    "tags_zh": [
-      "人生",
-      "苦难",
-      "坚韧"
-    ],
-    "date": "2025-01-01",
-    "summary_en": "A story of an ordinary man enduring hardships and tragedies, yet choosing to live on.",
-    "summary_zh": "讲述一个普通人在苦难与悲剧中仍然选择活下去的故事。",
-    "best_quote_en": "To live is to bear the suffering of life with patience and dignity.",
-    "best_quote_zh": "活着，就是忍受生命赋予我们的苦难。"
-  },
-  {
     "id": 5,
     "title": "Ordinary World",
     "title_zh": "平凡的世界",
@@ -216,8 +130,8 @@
     "summary_zh": "魔幻现实主义经典，讲述布恩迪亚家族百年的兴衰史。",
     "best_quote_en": "Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.",
     "best_quote_zh": "多年以后，奥雷连诺上校站在行刑队面前，必将想起父亲带他去见识冰块的那个遥远的下午。"
-  }
-,{
+  },
+  {
     "id": 16,
     "title": "Murati翁荔陈丹琦公司发布首个产品，让大模型微调门槛暴降",
     "title_zh": "Murati翁荔陈丹琦公司发布首个产品，让大模型微调门槛暴降",
@@ -336,7 +250,8 @@
     "summary_zh": "埃德·斯塔克分享11条商业经验，讲述如何将父亲的困境小店打造成数十亿美元的体育用品帝国。",
     "best_quote_en": "Trust isn't earned in the easy times; it's earned in the fire.",
     "best_quote_zh": "信任不是在轻松时刻赢得的；而是在烈火中赢得的。"
-  },{
+  },
+  {
     "id": 21,
     "title": "机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了",
     "title_zh": "机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了",
@@ -453,7 +368,8 @@
     "summary_zh": "19世纪海蒂·格林通过逆向投资、极度节俭和独立自主成为美国最富有女性的传奇故事。",
     "best_quote_en": "\"I buy when things are low and nobody wants them. I keep them until they go up and people are crazy to get them.\"",
     "best_quote_zh": "“我在东西便宜没人要时买入，持有到价格上涨人们疯狂想要时卖出。”"
-  },{
+  },
+  {
     "id": 26,
     "title": "机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了",
     "title_zh": "机器人“狂踹不倒”视频刷屏！太空舱遍布城市街巷，银河通用这几手秀麻了",
@@ -568,7 +484,8 @@
     "summary_zh": "赫蒂·格林通过逆向投资、极度节俭和在金融危机中保持现金储备，成为美国最富有的女性。",
     "best_quote_en": "\"I buy when things are low and nobody wants them. I keep them until they go up and people are crazy to get them.\"",
     "best_quote_zh": "“我在东西便宜没人要时买入，一直持有到价格上涨人们疯狂抢购时卖出。”"
-  },{
+  },
+  {
     "id": 31,
     "title": "OpenAI强硬回击马斯克窃密诉讼！xAI被指恶意人肉离职员工",
     "title_zh": "OpenAI强硬回击马斯克窃密诉讼！xAI被指恶意人肉离职员工",
@@ -803,7 +720,8 @@
     "summary_zh": "AI系统在17小时内自主完成认知心理学研究，包括实验设计和30页论文撰写。",
     "best_quote_en": "The AI's autonomous research capability stems from collaboration + simulating human cognitive mechanisms + dynamic knowledge interaction.",
     "best_quote_zh": "其自主科研能力源于协作+模拟人类认知机制+动态知识交互的技术设计。"
-  },{
+  },
+  {
     "id": 41,
     "title": "New ways to build with Jules, our AI coding agent",
     "title_zh": "使用我们的AI编码助手Jules的新构建方式",
@@ -1040,7 +958,8 @@
     "summary_zh": "谷歌Nano Banana通过多模态AI实现精准图像编辑和生成，拓展创意应用。",
     "best_quote_en": "\"It's a giant quality leap, especially for image editing. We're putting capabilities that used to require specialized tools into the hands of everyday creators.\"",
     "best_quote_zh": "“这是质量的巨大飞跃，尤其是在图像编辑方面。我们将过去需要专业工具的功能交到了日常创作者手中。”"
-  },{
+  },
+  {
     "id": 51,
     "title": "1,001 real-world gen AI use cases from the world's leading organizations",
     "title_zh": "全球领先组织的 1,001 个真实世界生成式 AI 应用案例",
@@ -1269,7 +1188,8 @@
     "summary_zh": "谷歌推出Gemini Enterprise，整合公司数据和工具，变革工作流程的AI平台。",
     "best_quote_en": "Gemini Enterprise is designed on the premise that true business transformation in the era of AI must go beyond simple chatbots.",
     "best_quote_zh": "Gemini Enterprise的设计前提是，AI时代真正的业务转型必须超越简单的聊天机器人。"
-  },{
+  },
+  {
     "id": 61,
     "title": "4 ways Gemini Enterprise makes work easier for everyone",
     "title_zh": "4 种方式让 Gemini Enterprise 为每个人简化工作",
@@ -1500,7 +1420,8 @@
     "summary_zh": "谷歌与LA28、美国队及NBC环球合作，运用AI和云技术提升奥运体验。",
     "best_quote_en": "This partnership brings together the latest advancements across Google Search, Gemini and Google Cloud to bring you closer to all of the action.",
     "best_quote_zh": "此次合作汇集了谷歌搜索、Gemini和谷歌云的最新进展，让您更贴近所有赛事动态。"
-  },{
+  },
+  {
     "id": 71,
     "title": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
     "title_zh": "谷歌以两年50亿欧元投资比利时AI基础设施，助力其数字未来",
@@ -1733,7 +1654,8 @@
     "summary_zh": "谷歌九月推出Chrome、搜索、机器人和教育工具的AI重大更新。",
     "best_quote_en": "With AI our overarching goal remains the same: to make AI as useful as possible, whether through the fun, visible features that help you with everyday tasks or in the essential, behind-the-scenes magic boosting your cybersecurity and learning.",
     "best_quote_zh": "我们对AI的总体目标始终如一：让AI尽可能有用，无论是通过帮助日常任务的有趣可见功能，还是提升网络安全和学习的幕后魔法。"
-  },{
+  },
+  {
     "id": 81,
     "title": "AI Mode is now available in more languages and locations around the world.",
     "title_zh": "AI 模式现已在全球更多语言和地区推出",
@@ -1968,7 +1890,8 @@
     "summary_zh": "谷歌投资美国AI基础设施、人才培训和能源能力，推动创新与经济增长。",
     "best_quote_en": "Google's investments across the U.S are helping enable this extraordinary time for American innovation.",
     "best_quote_zh": "谷歌在美国各地的投资正在帮助实现这一美国创新的非凡时刻。"
-  },{
+  },
+  {
     "id": 91,
     "title": "New AI-powered features help you connect with web content in Search and Discover.",
     "title_zh": "新AI功能助您在搜索和发现中连接网络内容",
@@ -2181,4 +2104,239 @@
     "summary_zh": "谷歌将Nano Banana AI图像编辑扩展至搜索、NotebookLM和相册，提升视觉创作体验。",
     "best_quote_en": "Now, we’re bringing Nano Banana to Google Search and NotebookLM (and soon to Photos), helping more people access these advanced capabilities.",
     "best_quote_zh": "现在，我们将Nano Banana引入Google搜索和NotebookLM（很快还有相册），帮助更多人使用这些高级功能。"
-  }]
+  },
+  {
+    "id": 100,
+    "title": "10 ways you can ask Google Photos to edit your photos for you",
+    "title_zh": "10种让Google Photos帮你编辑照片的方法",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/photos/how-to-tips-editing-prompts/",
+    "tags": [
+      "guide",
+      "design",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "Google Photos now allows users to edit images using conversational prompts for various enhancements.",
+    "summary_zh": "Google Photos现可通过对话提示进行多种照片编辑，无需专业技能。",
+    "best_quote_en": "It's easier than ever to edit your images in Google Photos — all you have to do is ask.",
+    "best_quote_zh": "在Google Photos中编辑图像比以往任何时候都更容易——你只需要开口要求。"
+  },
+  {
+    "id": 101,
+    "title": "Hello Developer: September 2025",
+    "title_zh": "Hello Developer: 2025年9月",
+    "source": "Apple Developer News (iOS/macOS)",
+    "link": "https://developer.apple.com/news/?id=6zd7a3al",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "data-science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "数据科学",
+      "未来预测"
+    ],
+    "date": "2025-09-02",
+    "summary_en": "Announcing new design resources and one-on-one AI learning sessions for developers and creators.",
+    "summary_zh": "为开发者和创作者提供新设计资源和一对一AI学习预约。",
+    "best_quote_en": "Be ready for the new design. Whether you’re a longtime pro or a hobbyist, get inspired and make your apps and games look their best.",
+    "best_quote_zh": "准备好迎接新设计。无论您是资深专家还是业余爱好者，获取灵感，让您的应用和游戏展现最佳外观。"
+  },
+  {
+    "id": 102,
+    "title": "CodeQL scanning Rust and C/C++ without builds is now generally available",
+    "title_zh": "CodeQL扫描Rust和C/C++无需构建现已正式发布",
+    "source": "GitHub Changelog",
+    "link": "https://github.blog/changelog/2025-10-14-codeql-scanning-rust-and-c-c-without-builds-is-now-generally-available",
+    "tags": [
+      "solve",
+      "programming",
+      "data-science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "编程开发",
+      "数据科学",
+      "深度分析"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "CodeQL now supports Rust and build-free C/C++ scanning, enhancing security analysis for developers.",
+    "summary_zh": "CodeQL现已支持Rust和无构建扫描C/C++，提升开发者的代码安全分析能力。",
+    "best_quote_en": "The transition to a new way of scanning C/C++ has enabled customers to significantly improve the speed of adoption.",
+    "best_quote_zh": "向新的C/C++扫描方式的转变使客户显著提高了采用速度。"
+  },
+  {
+    "id": 103,
+    "title": "王兴兴硕士论文惊现GitHub，宇树雏形那时候就有了",
+    "title_zh": "王兴兴硕士论文惊现GitHub，宇树雏形那时候就有了",
+    "source": "量子位 (AI news, Chinese)",
+    "link": "https://www.qbitai.com/2025/10/341880.html",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Wang Xingxing's 2016 master's thesis introduced XDog, pioneering cost-effective electric quadruped robots that laid the foundation for Yushu Technology's success.",
+    "summary_zh": "王兴兴2016年硕士论文提出低成本电驱四足机器人XDog，奠定宇树科技百亿估值基础。",
+    "best_quote_en": "\"Pure electric drive, with its simple structure, low cost, and high controllability, is expected to become the mainstream choice for small and medium-sized quadruped robots in the future.\"",
+    "best_quote_zh": "“纯电机驱动因其结构简单、低成本、高可控等优点，未来有望成为中小型四足机器人的主流选择。”"
+  },
+  {
+    "id": 104,
+    "title": "Get your VLM running in 3 simple steps on Intel CPUs",
+    "title_zh": "在英特尔CPU上通过3个简单步骤运行VLM",
+    "source": "Hugging Face Blog (AI community, English)",
+    "link": "https://huggingface.co/blog/openvino-vlm",
+    "tags": [
+      "solve",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "A step-by-step tutorial for running Vision Language Models locally on Intel CPUs using OpenVINO and Optimum tools.",
+    "summary_zh": "使用OpenVINO和Optimum工具在英特尔CPU上本地运行视觉语言模型的逐步教程。",
+    "best_quote_en": "Applying 8-bit weight-only quantization further reduces TTFT (x1.7) and increases throughput (x1.4), while also reducing model size and improving efficiency.",
+    "best_quote_zh": "应用8位仅权重量化进一步减少首次令牌时间（提升1.7倍）并提高吞吐量（提升1.4倍），同时减小模型大小并提高效率。"
+  },
+  {
+    "id": 105,
+    "title": "苹果游说印度修改税法，避免因持有iPhone生产设备被征税",
+    "title_zh": "苹果游说印度修改税法，避免因持有iPhone生产设备被征税",
+    "source": "36氪 - 创业与科技 (Chinese)",
+    "link": "https://36kr.com/newsflashes/3510206364097410?f=rss",
+    "tags": [
+      "update",
+      "ai-research",
+      "startup-funding"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "创业融资"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Apple is lobbying India to amend tax laws to avoid being taxed for providing iPhone manufacturing equipment to suppliers.",
+    "summary_zh": "苹果正游说印度政府修改税法，避免因向代工厂提供iPhone生产设备而被征税。",
+    "best_quote_en": "Apple is lobbying the Indian government to amend the Income Tax Act to ensure the company is not taxed for providing high-end iPhone production equipment to contract manufacturers.",
+    "best_quote_zh": "苹果正游说印度政府修改《所得税法》，以确保公司不会因向代工厂提供高端iPhone生产设备而被征税。"
+  },
+  {
+    "id": 106,
+    "title": "Instagram says teen accounts will all be PG-13",
+    "title_zh": "Instagram表示青少年账户将全部限制为PG-13内容",
+    "source": "Morning Brew (Finance & Tech, Easy English)",
+    "link": "https://www.morningbrew.com/stories/instagram-says-teen-accounts-will-all-be-pg-13?utm_source=&utm_medium=syndication&utm_campaign=feed",
+    "tags": [
+      "update",
+      "society",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Instagram restricts teen accounts to PG-13 content and blocks adult material, responding to safety concerns.",
+    "summary_zh": "Instagram限制青少年账户只能访问PG-13内容，并屏蔽成人内容以应对安全担忧。",
+    "best_quote_en": "Using more than one f-bomb could now get you booted from the teens' feeds.",
+    "best_quote_zh": "使用超过一个脏话现在可能会让你从青少年的信息流中被移除。"
+  },
+  {
+    "id": 107,
+    "title": "Dr. Sue Johnson: The Science of Lasting Love",
+    "title_zh": "苏·约翰逊博士：持久爱情的科学",
+    "source": "Farnam Street (FS Blog, Thinking & Growth, English)",
+    "link": "https://fs.blog/knowledge-project-podcast/dr-sue-johnson-2/",
+    "tags": [
+      "solve",
+      "psychology",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "争议观点"
+    ],
+    "date": "2025-08-14",
+    "summary_en": "Dr. Sue Johnson reveals the science behind lasting relationships through attachment theory and practical emotional connection strategies.",
+    "summary_zh": "苏·约翰逊博士通过依恋理论和实用策略揭示持久爱情背后的科学原理。",
+    "best_quote_en": "\"The best recipe for a great sex life throughout your life is safe emotional connection.\"",
+    "best_quote_zh": "“一生拥有美好性生活的最佳秘诀是安全的情感连接。”"
+  },
+  {
+    "id": 108,
+    "title": "Protected: The Society Exclusive Access – The Intentional Wealth Summit Recordings and Resources",
+    "title_zh": "保护内容：专属访问 - 意图财富峰会录音和资源",
+    "source": "The Financial Diet (Personal Finance, English)",
+    "link": "https://thefinancialdiet.com/the-society-exclusive-access-the-intentional-wealth-summit-recordings-and-resources/?utm_source=rss&utm_medium=rss&utm_campaign=the-society-exclusive-access-the-intentional-wealth-summit-recordings-and-resources",
+    "tags": [
+      "guide",
+      "society",
+      "education"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "教育学习"
+    ],
+    "date": "2021-11-12",
+    "summary_en": "Password-protected wealth summit recordings and resources for exclusive access.",
+    "summary_zh": "受密码保护的财富峰会录音和资源，仅供专属访问。",
+    "best_quote_en": "This content is password protected.",
+    "best_quote_zh": "此内容受密码保护。"
+  },
+  {
+    "id": 109,
+    "title": "How to edit images with Nano Banana in Search",
+    "title_zh": "如何在搜索中使用 Nano Banana 编辑图像",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/search/nano-banana-search-lens/",
+    "tags": [
+      "guide",
+      "design",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Google introduces Nano Banana image editing in Search via Lens and AI Mode for instant photo transformations.",
+    "summary_zh": "谷歌在搜索中推出 Nano Banana 图像编辑功能，通过 Lens 和 AI 模式即时变换照片。",
+    "best_quote_en": "Ready to unleash your imagination and have a whole bunch of fun with photos?",
+    "best_quote_zh": "准备好释放你的想象力，尽情享受照片的乐趣了吗？"
+  }
+]
