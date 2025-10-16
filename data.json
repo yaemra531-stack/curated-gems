@@ -360,4 +360,239 @@
     "summary_zh": "NotebookLM 视频概述通过 Nano Banana 图像生成升级，新增快速摘要格式。",
     "best_quote_en": "Nano Banana in NotebookLM generates helpful, contextual, and beautiful illustrations based on the sources you upload.",
     "best_quote_zh": "Nano Banana 在 NotebookLM 中根据您上传的源文件生成有用、上下文相关且美观的插图。"
+  },{
+    "id": 21,
+    "title": "AI 开发者日报 2025-10-15",
+    "title_zh": "AI 开发者日报 2025-10-15",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-15",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Daily AI developer update covering hardware comparisons, new frameworks, model benchmarks, and infrastructure innovations in machine learning.",
+    "summary_zh": "涵盖硬件对比、新框架发布、模型基准测试和机器学习基础设施创新的AI开发者日报。",
+    "best_quote_en": "The world needs more compute power - OpenAI leadership on 10 GW custom accelerator partnership with Broadcom.",
+    "best_quote_zh": "世界需要更多算力——OpenAI领导层就与博通的10吉瓦定制加速器合作发表评论。"
+  },
+  {
+    "id": 22,
+    "title": "Introducing Veo 3.1 and advanced capabilities in Flow",
+    "title_zh": "介绍 Veo 3.1 和 Flow 中的高级功能",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/veo-updates-flow/",
+    "tags": [
+      "inspire",
+      "design",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Google DeepMind introduces Veo 3.1 with enhanced audio, narrative control, and editing tools for AI video creation in Flow.",
+    "summary_zh": "Google DeepMind 推出 Veo 3.1，增强音频、叙事控制和编辑工具，提升 AI 视频创作体验。",
+    "best_quote_en": "With more precise editing capabilities, audio across all existing features and higher-quality outputs powered by Veo 3.1, we're opening up new possibilities for richer, more powerful video storytelling.",
+    "best_quote_zh": "凭借更精确的编辑功能、所有现有功能的音频支持以及由 Veo 3.1 驱动的高质量输出，我们正在为更丰富、更强大的视频叙事开辟新的可能性。"
+  },
+  {
+    "id": 23,
+    "title": "AI 开发者日报 2025-10-06",
+    "title_zh": "AI 开发者日报 2025-10-06",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-10-06",
+    "tags": [
+      "update",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "Comprehensive AI development update covering coding agents, video generation, robotics, and reinforcement learning with latest model rankings and breakthroughs.",
+    "summary_zh": "全面AI开发更新，涵盖编程智能体、视频生成、机器人和强化学习，包含最新模型排名与突破。",
+    "best_quote_en": "\"Terence Tao publicly documented using GPT-5 with tool functions to find counterexamples and heuristics in mathematics.\"",
+    "best_quote_zh": "\"陶哲轩公开记录使用 GPT-5 结合工具功能在数学中寻找反例和启发式方法。"
+  },
+  {
+    "id": 24,
+    "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
+    "title_zh": "Gemma模型如何帮助发现新的潜在癌症治疗途径",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "A 27-billion parameter AI model identified a novel cancer therapy pathway by discovering synergistic drug effects, validated through lab experiments.",
+    "summary_zh": "一个270亿参数的AI模型通过发现协同药物效应识别出新的癌症治疗途径，并通过实验验证。",
+    "best_quote_en": "The model predicted a strong increase in antigen presentation when silmitasertib was applied in the 'immune-context-positive' setting, but little to no effect in the 'immune-context-neutral' one.",
+    "best_quote_zh": "模型预测在'免疫环境阳性'设置中应用silmitasertib会显著增加抗原呈递，但在'免疫环境中性'设置中几乎没有效果。"
+  },
+  {
+    "id": 25,
+    "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
+    "title_zh": "Kwame Brathwaite，'黑即是美'运动摄影师，逝世，享年85岁",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/style/article/kwame-brathwaite-obituary-tan/index.html",
+    "tags": [
+      "guide",
+      "music-arts",
+      "design"
+    ],
+    "tags_zh": [
+      "指导",
+      "音乐艺术",
+      "设计创意"
+    ],
+    "date": "2023-04-04",
+    "summary_en": "Pioneering photographer Kwame Brathwaite, who defined the 'Black is Beautiful' movement through his work celebrating Black culture and beauty, has died at 85.",
+    "summary_zh": "开拓性摄影师Kwame Brathwaite通过作品定义'黑即是美'运动，颂扬黑人文化与美，逝世享年85岁。",
+    "best_quote_en": "\"You want to get the feeling, the mood that you're experiencing when they're playing. That's the thing. You want to capture that.\"",
+    "best_quote_zh": "\"你想要捕捉他们演奏时的感觉和氛围。这才是关键。你想要捕捉那种感觉。\""
+  },
+  {
+    "id": 26,
+    "title": "Britain's pound is beating every other major currency this year",
+    "title_zh": "英国英镑今年表现优于所有其他主要货币",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/04/investing/british-pound-currency-dollar/index.html",
+    "tags": [
+      "inspire",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2023-04-04",
+    "summary_en": "The British pound has become the best-performing major currency in 2023, rebounding strongly from last year's lows due to economic resilience and interest rate expectations.",
+    "summary_zh": "英国英镑今年表现最佳，因经济韧性和加息预期从去年低点强劲反弹。",
+    "best_quote_en": "Sterling hit its highest level against the US dollar in 10 months on Tuesday, topping $1.25 for the first time since June 2022.",
+    "best_quote_zh": "英镑周二兑美元汇率创下10个月新高，自2022年6月以来首次突破1.25美元。"
+  },
+  {
+    "id": 27,
+    "title": "10 ways you can ask Google Photos to edit your photos for you",
+    "title_zh": "10种方法让Google Photos帮你编辑照片",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/photos/how-to-tips-editing-prompts/",
+    "tags": [
+      "guide",
+      "design",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "Google Photos now allows users to edit images through conversational prompts, offering 10 creative examples for AI-powered photo enhancements.",
+    "summary_zh": "Google Photos现可通过对话指令编辑照片，提供10种AI增强创意示例。",
+    "best_quote_en": "It's easier than ever to edit your images in Google Photos — all you have to do is ask.",
+    "best_quote_zh": "在Google Photos中编辑图像比以往任何时候都更容易——你只需要开口要求。"
+  },
+  {
+    "id": 28,
+    "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
+    "title_zh": "NASA挑选四名宇航员执行50年来首次载人登月任务",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/world/artemis-2-astronaut-crew-scn/index.html",
+    "tags": [
+      "update",
+      "design",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2023-04-04",
+    "summary_en": "NASA reveals the four astronauts selected for Artemis II, the first crewed moon mission since 1972.",
+    "summary_zh": "NASA公布四名宇航员，将执行50年来首次载人绕月飞行任务。",
+    "best_quote_en": "\"It's so much more than the four names that have been announced... It is the next step in the journey that will get humanity to Mars.\"",
+    "best_quote_zh": "“这远不止是公布的四个名字……这是将人类送上火星之旅的下一步。”"
+  },
+  {
+    "id": 29,
+    "title": "AI Mode is now available in more languages and locations around the world.",
+    "title_zh": "AI 模式现已在全球更多语言和地区推出",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/search/ai-mode-expands-languages-locations/",
+    "tags": [
+      "update",
+      "ai-research",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google Search expands AI Mode to 35+ languages and 40+ countries, powered by Gemini models for natural language understanding.",
+    "summary_zh": "谷歌搜索 AI 模式新增 35 种语言和 40 个国家，由 Gemini 模型驱动实现自然语言理解。",
+    "best_quote_en": "The advanced reasoning and multimodal understanding of our custom Gemini model allows AI Mode to truly grasp the subtleties of local languages.",
+    "best_quote_zh": "我们定制 Gemini 模型的高级推理和多模态理解使 AI 模式能真正掌握本地语言的细微差别。"
+  },
+  {
+    "id": 30,
+    "title": "These are the animals people most want to see photographed",
+    "title_zh": "人们最希望拍摄到的动物",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/travel/article/new-big-5-wildlife-photography-book-c2e-scn-spc-intl/index.html",
+    "tags": [
+      "solve",
+      "environment",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "环境科学",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2023-04-04",
+    "summary_en": "The New Big 5 photography book showcases endangered wildlife through stunning images to raise conservation awareness.",
+    "summary_zh": "《新五大动物》摄影书通过精美图片展示濒危野生动物，旨在提高环保意识。",
+    "best_quote_en": "\"We have a window of time during which we can start to heal some of the harm we have inflicted on the natural world, but only if we get together and take action now.\"",
+    "best_quote_zh": "\"我们有一个时间窗口可以开始修复我们对自然世界造成的伤害，但前提是我们必须立即团结起来采取行动。\""
   }]
