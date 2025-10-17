@@ -595,4 +595,235 @@
     "summary_zh": "《新五大动物》摄影书通过精美图片展示濒危野生动物，旨在提高环保意识。",
     "best_quote_en": "\"We have a window of time during which we can start to heal some of the harm we have inflicted on the natural world, but only if we get together and take action now.\"",
     "best_quote_zh": "\"我们有一个时间窗口可以开始修复我们对自然世界造成的伤害，但前提是我们必须立即团结起来采取行动。\""
+  },{
+    "id": 31,
+    "title": "10 years of genomics research at Google",
+    "title_zh": "谷歌基因组研究的十年历程",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/research/ten-years-google-genomics/",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "Google's decade-long genomics research used AI to improve DNA sequencing accuracy and develop tools for healthcare and biodiversity applications.",
+    "summary_zh": "谷歌十年基因组研究利用AI提升DNA测序精度并开发医疗和生物多样性工具。",
+    "best_quote_en": "The advancement of genomics over the past decade comes down to our approach to creating an innovation flywheel: we are driven by a real-world problem to conduct fundamental computer science research.",
+    "best_quote_zh": "过去十年基因组学的进步归功于我们创建创新飞轮的方法：我们被现实世界问题驱动进行基础计算机科学研究。"
+  },
+  {
+    "id": 32,
+    "title": "DeepSomatic, an open-source AI model, is speeding up genetic analysis for cancer research.",
+    "title_zh": "DeepSomatic，一个开源AI模型，正在加速癌症研究的基因分析",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/research/deepsomatic-an-open-source-ai-model-is-speeding-up-genetic-analysis-for-cancer-research/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "DeepSomatic uses AI to accurately identify cancer-driving genetic variants, outperforming current methods and accelerating global research.",
+    "summary_zh": "DeepSomatic利用AI精确识别癌症驱动基因变异，超越现有方法，加速全球癌症研究。",
+    "best_quote_en": "The tool is proven to outperform current methods at spotting these key variants, particularly insertions and deletions.",
+    "best_quote_zh": "该工具被证明在检测这些关键变异（特别是插入和删除）方面优于现有方法。"
+  },
+  {
+    "id": 33,
+    "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
+    "title_zh": "2023年疯狂三月：康涅狄格大学还是圣地亚哥州立大学将在全国冠军赛中胜出？",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/sport/march-madness-championship-game-final-preview-spt-intl/index.html",
+    "tags": [
+      "update",
+      "gaming",
+      "design"
+    ],
+    "tags_zh": [
+      "动态",
+      "游戏开发",
+      "设计创意"
+    ],
+    "date": "2023-04-04",
+    "summary_en": "UConn defeated San Diego State 76-59 to win its fifth men's basketball national championship title.",
+    "summary_zh": "康涅狄格大学以76-59战胜圣地亚哥州立大学，赢得第五个男子篮球全国冠军。",
+    "best_quote_en": "\"We knew we were the best team in the tournament going in and we just had to play to our level,\" said UConn coach Dan Hurley.",
+    "best_quote_zh": "康涅狄格大学教练丹·赫尔利表示：“我们知道自己是锦标赛中最强的球队，只需打出我们的水平。”"
+  },
+  {
+    "id": 34,
+    "title": "Investing in America 2025",
+    "title_zh": "投资美国 2025",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/company-announcements/investing-in-america-2025/",
+    "tags": [
+      "update",
+      "education",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google announces major US investments in AI infrastructure, workforce development, and energy capacity to advance American innovation and economic growth.",
+    "summary_zh": "谷歌宣布在美国大规模投资AI基础设施、劳动力发展和能源容量，以推动美国创新和经济增长。",
+    "best_quote_en": "Through major investments in technical infrastructure, research and development — along with expanded energy capacity for an AI-driven economy and workforce development and education programs — we will help the U.S. continue to lead the world in AI.",
+    "best_quote_zh": "通过对技术基础设施、研发的重大投资，以及为AI驱动经济扩展能源容量和劳动力发展与教育计划，我们将帮助美国继续在AI领域引领世界。"
+  },
+  {
+    "id": 35,
+    "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+    "title_zh": "北京承诺对台湾领导人访美'坚决回击'，但这次损失可能更大",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2023-04-04",
+    "summary_en": "China faces strategic constraints in responding to Tsai-McCarthy meeting amid global tensions and Taiwan's upcoming election.",
+    "summary_zh": "中国在全球局势紧张和台湾选举前对蔡麦会面回应面临战略制约。",
+    "best_quote_en": "\"This puts the burden on China not to overreact, because any overreaction is only going to push China further away from the world,\" said Yun Sun, director of the China Program at the Stimson Center think tank in Washington.",
+    "best_quote_zh": "华盛顿智库史汀生中心中国项目主任孙韵表示：“这给中国带来了不要反应过度的负担，因为任何过度反应只会让中国离世界更远。”"
+  },
+  {
+    "id": 36,
+    "title": "Introducing the Gemini 2.5 Computer Use model",
+    "title_zh": "Gemini 2.5 计算机使用模型发布",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/google-deepmind/gemini-computer-use-model/",
+    "tags": [
+      "analyze",
+      "design",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google releases Gemini 2.5 Computer Use model enabling AI agents to interact with user interfaces via API.",
+    "summary_zh": "谷歌发布 Gemini 2.5 计算机使用模型，通过 API 实现 AI 代理与用户界面交互。",
+    "best_quote_en": "The ability to natively fill out forms, manipulate interactive elements and operate behind logins is a crucial next step in building powerful, general-purpose agents.",
+    "best_quote_zh": "原生填写表单、操作交互元素并在登录后工作的能力是构建强大通用代理的关键下一步。"
+  },
+  {
+    "id": 37,
+    "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+    "title_zh": "美光科技：中国调查美国芯片制造商网络安全风险，科技紧张局势升级",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/tech/china-micron-probe-us-chip-war-intl-hnk/index.html",
+    "tags": [
+      "solve",
+      "politics",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2023-04-04",
+    "summary_en": "China launches cybersecurity probe into Micron Technology amid escalating tech tensions with US and allies over semiconductor restrictions.",
+    "summary_zh": "中国对美光科技启动网络安全审查，美中科技紧张局势因半导体限制升级。",
+    "best_quote_en": "The move is aimed at ensuring the security of key information infrastructure supply chains, preventing cybersecurity risks, and maintaining national security.",
+    "best_quote_zh": "此举旨在保障关键信息基础设施供应链安全，防范网络安全风险，维护国家安全。"
+  },
+  {
+    "id": 38,
+    "title": "Google AI Plus is coming to 36 more countries.",
+    "title_zh": "Google AI Plus 即将登陆 36 个新国家",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-one/google-ai-plus-36-countries/",
+    "tags": [
+      "update",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google AI Plus expands to 36 more countries, offering enhanced AI features and a limited-time 50% discount for new subscribers.",
+    "summary_zh": "Google AI Plus 扩展至 36 个国家，提供增强 AI 功能和限时 50% 新用户折扣。",
+    "best_quote_en": "Google AI Plus is our new plan designed to help people do more with the latest Google AI models and features, for less.",
+    "best_quote_zh": "Google AI Plus 是我们的新计划，旨在帮助人们以更低成本利用最新的 Google AI 模型和功能做更多事情。"
+  },
+  {
+    "id": 39,
+    "title": "What OPEC's surprise oil cut means for gas prices",
+    "title_zh": "OPEC意外减产对汽油价格意味着什么",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/energy/gas-prices-opec/index.html",
+    "tags": [
+      "solve",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2023-04-04",
+    "summary_en": "OPEC+'s surprise oil production cut will raise US gas prices and reignite inflation concerns.",
+    "summary_zh": "OPEC+意外减产将推高美国汽油价格并重燃通胀担忧。",
+    "best_quote_en": "\"I think OPEC is reawakening the inflation monster. The White House has to be shocked and major-time pissed.\"",
+    "best_quote_zh": "\"我认为OPEC正在重新唤醒通胀怪兽。白宫肯定感到震惊且极度愤怒。\""
+  },
+  {
+    "id": 40,
+    "title": "Googler Michel Devoret awarded the Nobel Prize in Physics",
+    "title_zh": "谷歌员工 Michel Devoret 获诺贝尔物理学奖",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/company-announcements/googler-michel-devoret-awarded-the-nobel-prize-in-physics/",
+    "tags": [
+      "update",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google Quantum AI scientist Michel Devoret wins 2025 Nobel Prize for foundational work enabling modern superconducting quantum computing.",
+    "summary_zh": "谷歌量子AI科学家因奠定超导量子计算基础的突破性研究获2025年诺贝尔物理学奖。",
+    "best_quote_en": "They proved that quantum mechanics could be revealed and controlled in a macroscopic electrical circuit on a chip.",
+    "best_quote_zh": "他们证明了量子力学可以在芯片上的宏观电路中显现并受控。"
   }]
