@@ -967,4 +967,233 @@
     "summary_zh": "研究发现饮用水中锂含量与自闭症风险存在微弱关联，但因果关系未证实，需进一步研究。",
     "best_quote_en": "\"Any drinking water contaminants that may affect the developing human brain deserve intense scrutiny,\" said study co-author Dr. Beate Ritz.",
     "best_quote_zh": "研究合著者Beate Ritz博士表示：“任何可能影响发育中人脑的饮用水污染物都值得密切关注。”"
+  },{
+    "id": 47,
+    "title": "AI 开发者日报 2025-12-04",
+    "title_zh": "AI 开发者日报 2025-12-04",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-12-04",
+    "tags": [
+      "update",
+      "ai-research",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "AI developers report major advances in video generation, model releases, agent infrastructure, and benchmark developments across multiple AI domains.",
+    "summary_zh": "AI开发者日报报道视频生成、模型发布、智能体基础设施和基准测试等多领域重大进展。",
+    "best_quote_en": "Kling 2.6 model can generate videos with synchronized voice, sound effects and ambient audio in one go, achieving excellent audiovisual coordination.",
+    "best_quote_zh": "Kling全新的2.6模型能够一次性生成视频并同步生成语音、音效和环境音效，具备出色的'视听协调性'。"
+  },
+  {
+    "id": 48,
+    "title": "Look back on your 2025 with Google Photos Recap",
+    "title_zh": "用 Google Photos Recap 回顾你的 2025 年",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/photos/google-photos-2025-recap/",
+    "tags": [
+      "guide",
+      "design",
+      "ai-product",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "AI产品",
+      "新手友好"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "Google Photos Recap returns for 2025 with enhanced personalization and sharing features including CapCut integration and WhatsApp sharing.",
+    "summary_zh": "Google Photos Recap 2025 版推出，新增个性化编辑和社交分享功能。",
+    "best_quote_en": "This year, we've added new ways for you to personalize, create and share your Recap.",
+    "best_quote_zh": "今年我们增加了新的方式，让您可以个性化、创建和分享您的回顾。"
+  },
+  {
+    "id": 49,
+    "title": "AI 开发者日报 2025-12-02",
+    "title_zh": "AI 开发者日报 2025-12-02",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-12-02",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-02",
+    "summary_en": "Daily AI development report covering major model releases, technical innovations, and community insights across the AI ecosystem.",
+    "summary_zh": "AI开发者日报，涵盖主要模型发布、技术创新和AI生态系统社区动态。",
+    "best_quote_en": "The router is becoming the de facto multi-supplier abstraction layer for AI applications, but SRE-style reliability and transparency are now top priorities.",
+    "best_quote_zh": "路由器正在成为AI应用事实上的多供应商抽象层，但SRE风格的可靠性和透明度现在已成为首要关注点。"
+  },
+  {
+    "id": 50,
+    "title": "We’re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
+    "title_zh": "我们宣布新的健康人工智能资助，同时新报告显示欧洲健康领域迎来转折点",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/health/ai-health-fund-eu/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "Google announced $5M funding for AI healthcare solutions in Europe and released a report showing AI is reversing slowing scientific productivity.",
+    "summary_zh": "谷歌宣布500万美元资助欧洲AI医疗解决方案，报告显示AI正扭转科学生产力下降趋势。",
+    "best_quote_en": "AI is reversing the long-term trend of slowing scientific productivity, providing a turning point for a European healthcare system grappling with rising costs and workforce shortages.",
+    "best_quote_zh": "人工智能正在扭转科学生产力长期放缓的趋势，为应对成本上升和劳动力短缺的欧洲医疗体系提供了转折点。"
+  },
+  {
+    "id": 51,
+    "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
+    "title_zh": "以色列退伍军人成为抗议运动中坚力量，誓言继续示威",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/middleeast/israel-protests-military-veterans-intl-cmd/index.html",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "Israeli military veterans are leading ongoing protests against judicial reforms, using military organizational skills to defend democracy.",
+    "summary_zh": "以色列退伍军人运用军事组织技能领导抗议司法改革，誓言捍卫民主制度。",
+    "best_quote_en": "\"We believe this is our responsibility to go once again called to the flag of the nation to stop this madness to defend Israel,\"",
+    "best_quote_zh": "“我们相信这是我们的责任，再次响应国家号召，阻止这种疯狂，保卫以色列。”"
+  },
+  {
+    "id": 52,
+    "title": "AI 开发者日报 2025-11-28",
+    "title_zh": "AI 开发者日报 2025-11-28",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-11-28",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-28",
+    "summary_en": "Comprehensive AI development updates covering persistent agents, Claude Opus 4.5 performance, multimodal generation breakthroughs, and production deployment insights.",
+    "summary_zh": "涵盖持久智能体、Claude Opus 4.5性能评估、多模态生成突破和生产部署洞察的AI开发者综合动态。",
+    "best_quote_en": "LatentMAS replaces text messages with compact latent vectors between agents, reducing communication tokens by ~70-84% while improving accuracy by up to +4.6% on 9 benchmarks.",
+    "best_quote_zh": "LatentMAS用紧凑的潜在向量替代智能体间的文本消息，通信令牌减少约70-84%，同时在9个基准测试中准确率提高高达+4.6%。"
+  },
+  {
+    "id": 53,
+    "title": "We’re celebrating Geoffrey Hinton’s Nobel-winning legacy with the University of Toronto.",
+    "title_zh": "我们与多伦多大学共同庆祝杰弗里·辛顿的诺贝尔奖遗产",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/hinton-chair-toronto/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "Google invests $10 million CAD to establish the Hinton AI Chair at University of Toronto, honoring Geoffrey Hinton's neural network legacy.",
+    "summary_zh": "谷歌投资1000万加元在多伦多大学设立辛顿人工智能教席，致敬杰弗里·辛顿的神经网络遗产。",
+    "best_quote_en": "This chair honors his legacy and will help the university recruit visionary scholars dedicated to the same kind of curiosity-driven, fundamental research that Geoff championed.",
+    "best_quote_zh": "这个教席旨在纪念他的遗产，并将帮助大学招募致力于与杰夫所倡导的同样类型的好奇心驱动的基础研究的远见卓识的学者。"
+  },
+  {
+    "id": 54,
+    "title": "Shania Twain calls for equal pay and more diversity in country music",
+    "title_zh": "仙妮亚·唐恩呼吁乡村音乐界实现同工同酬和更多多样性",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/entertainment/shania-twain-equal-diversity/index.html",
+    "tags": [
+      "solve",
+      "music-arts",
+      "leadership"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "领导管理"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "Shania Twain advocates for equity and diversity in country music, highlighting inclusive actions and trailblazing efforts.",
+    "summary_zh": "仙妮亚·唐恩在CMT颁奖礼上呼吁乡村音乐界实现平等与多样性，支持包容性行动。",
+    "best_quote_en": "\"Together, let’s ensure all our fellow artists get equal play regardless of gender, age or race.\"",
+    "best_quote_zh": "“让我们一起确保所有艺术家，无论性别、年龄或种族，都能获得平等的展示机会。”"
+  },
+  {
+    "id": 55,
+    "title": "AI 开发者日报 2025-11-27",
+    "title_zh": "AI 开发者日报 2025-11-27",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-11-27",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "AI Developer Daily covers major model releases like Claude Opus 4.5 and FLUX.2, benchmark performance analysis, and ecosystem developments in AI research and applications.",
+    "summary_zh": "AI开发者日报涵盖Claude Opus 4.5和FLUX.2等主要模型发布、基准性能分析以及AI研究和应用生态发展。",
+    "best_quote_en": "The era of scaling is over; we are returning to an era of research focused on deployment-time continual learning, value functions regulated by emotions, and model serrations rather than raw scale.",
+    "best_quote_zh": "规模化时代已经结束；我们正回归研究时代，重点关注部署时持续学习、情绪调节的价值函数以及模型锯齿性而非原始规模。"
+  },
+  {
+    "id": 56,
+    "title": "Use Circle to Search and Google Lens to spot scam messages.",
+    "title_zh": "使用 Circle to Search 和 Google Lens 识别诈骗信息",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/search/scam-detection-circle-to-search-lens/",
+    "tags": [
+      "solve",
+      "cybersecurity"
+    ],
+    "tags_zh": [
+      "解决",
+      "网络安全"
+    ],
+    "date": "2025-12-02",
+    "summary_en": "Google's Circle to Search and Lens now help detect scam messages using AI analysis and web data.",
+    "summary_zh": "谷歌 Circle to Search 和 Lens 新增功能，利用 AI 和网络数据帮助识别诈骗信息。",
+    "best_quote_en": "Our systems will use AI and information from the web to assess whether the message is likely a scam.",
+    "best_quote_zh": "我们的系统将利用 AI 和网络信息来评估信息是否可能是诈骗。"
   }]
