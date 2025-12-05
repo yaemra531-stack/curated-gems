@@ -1196,4 +1196,231 @@
     "summary_zh": "谷歌 Circle to Search 和 Lens 新增功能，利用 AI 和网络数据帮助识别诈骗信息。",
     "best_quote_en": "Our systems will use AI and information from the web to assess whether the message is likely a scam.",
     "best_quote_zh": "我们的系统将利用 AI 和网络信息来评估信息是否可能是诈骗。"
+  },{
+    "id": 57,
+    "title": "AI 开发者日报 2025-12-05",
+    "title_zh": "AI 开发者日报 2025-12-05",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-12-05",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "AI developer daily covering Google's Gemini 3 Deep Think reasoning model, programming frameworks, AI agent safety, and latest model benchmarks.",
+    "summary_zh": "AI开发者日报涵盖Google Gemini 3 Deep Think推理模型、编程框架、AI智能体安全和最新模型基准测试。",
+    "best_quote_en": "\"Agent scaffolding is as important as the model itself,\" highlighting the critical role of infrastructure in production AI systems.",
+    "best_quote_zh": "\"智能体脚手架与模型同等重要\"，凸显了基础设施在生产AI系统中的关键作用。"
+  },
+  {
+    "id": 58,
+    "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
+    "title_zh": "Gemini 3 和 Nano Banana Pro 在搜索中即将登陆全球更多国家",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
+    "tags": [
+      "update",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "Google expands Gemini 3 and Nano Banana Pro AI models to nearly 120 countries, offering advanced reasoning and multimodal capabilities.",
+    "summary_zh": "谷歌将 Gemini 3 和 Nano Banana Pro AI 模型扩展至近 120 个国家，提供高级推理和多模态功能。",
+    "best_quote_en": "AI Mode can grasp the nuance of your most complex queries with Gemini 3's state-of-the-art reasoning capabilities.",
+    "best_quote_zh": "借助 Gemini 3 最先进的推理能力，AI 模式能够理解您最复杂查询的细微差别。"
+  },
+  {
+    "id": 59,
+    "title": "AI 开发者日报 2025-11-26",
+    "title_zh": "AI 开发者日报 2025-11-26",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-11-26",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2025-11-26",
+    "summary_en": "Anthropic releases Claude Opus 4.5 with major cost reductions and performance gains, while AMD-native ZAYA1 and new diffusion RL methods push AI boundaries.",
+    "summary_zh": "Anthropic发布Claude Opus 4.5，成本降低3倍性能提升，AMD原生模型和新扩散RL方法突破AI边界。",
+    "best_quote_en": "\"At medium effort, Opus 4.5 beats Sonnet 4.5 on SWE-bench Verified while using 76% fewer output tokens.\"",
+    "best_quote_zh": "在\"中等effort\"下，Opus 4.5在SWE-bench Verified上击败了Sonnet 4.5，同时使用了76%更少的输出token。"
+  },
+  {
+    "id": 60,
+    "title": "Here’s how researchers in Asia-Pacific are using AlphaFold",
+    "title_zh": "亚太研究人员如何运用AlphaFold",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-26",
+    "summary_en": "Researchers in Asia-Pacific use AlphaFold AI to advance disease treatment and biological discovery through protein structure prediction.",
+    "summary_zh": "亚太研究人员利用AlphaFold AI预测蛋白质结构，推动疾病治疗和生物学发现。",
+    "best_quote_en": "\"AlphaFold is like the internet for structural biology.\"",
+    "best_quote_zh": "\"AlphaFold就像结构生物学的互联网。\""
+  },
+  {
+    "id": 61,
+    "title": "What pet cemeteries reveal about being human",
+    "title_zh": "宠物墓地揭示的人类本质",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/opinions/pet-cemeteries-burying-animals-history-tourigny/index.html",
+    "tags": [
+      "analyze",
+      "psychology",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "Archaeological analysis of pet cemeteries reveals evolving human-animal relationships and changing mourning practices across centuries.",
+    "summary_zh": "考古研究揭示宠物墓地反映人类与动物关系演变及哀悼方式的变迁。",
+    "best_quote_en": "Like the burial of people, the burial of pets is an intimate cultural practice, one that changes over time and is reflective of the changing relationships that a society has with its cherished creatures.",
+    "best_quote_zh": "如同人类葬礼一样，宠物葬礼是一种亲密的文化习俗，它随时间变化，反映社会与其珍爱动物关系的演变。"
+  },
+  {
+    "id": 62,
+    "title": "Erdogan's political fate may be determined by Turkey's Kurds",
+    "title_zh": "埃尔多安的政治命运可能由土耳其的库尔德人决定",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/middleeast/kurdish-kingmaker-turkish-elections-mime-intl/index.html",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "Turkey's pro-Kurdish HDP party emerges as kingmaker in upcoming elections, potentially unseating President Erdogan after decades in power.",
+    "summary_zh": "土耳其亲库尔德政党成为选举关键力量，可能终结埃尔多安二十年统治。",
+    "best_quote_en": "We are facing a turning point that will shape the future of Turkey and (its) society... we will not field a presidential candidate in (the) May 14 elections.",
+    "best_quote_zh": "我们正面临塑造土耳其及其社会未来的转折点……我们不会在5月14日选举中推出自己的总统候选人。"
+  },
+  {
+    "id": 63,
+    "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
+    "title_zh": "与CEO Sundar Pichai深入探讨Gemini 3",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
+    "tags": [
+      "update",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "Google CEO Sundar Pichai discusses AI-first strategy and future quantum computing bets in podcast interview.",
+    "summary_zh": "谷歌CEO在播客中分享AI优先战略及量子计算等长期投资展望。",
+    "best_quote_en": "I think in about five years we'll be having breathless excitement about quantum, hopefully, like we are having with AI today.",
+    "best_quote_zh": "我认为大约五年后，我们将对量子计算充满无比兴奋，就像今天我们对AI一样。"
+  },
+  {
+    "id": 64,
+    "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
+    "title_zh": "切尔西寻找新主帅，英超创下单赛季解雇教练最多纪录",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/football/chelsea-graham-potter-manager-premier-league-spt-intl/index.html",
+    "tags": [
+      "solve",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "Chelsea fired Graham Potter after poor results despite massive spending, setting a Premier League record for most managerial sackings in a season.",
+    "summary_zh": "切尔西解雇主帅波特，创下英超单赛季解雇教练最多纪录。",
+    "best_quote_en": "\"You don't change Tuchel for Potter. Ridiculous decision to start with.\"",
+    "best_quote_zh": "\"你不该用波特换掉图赫尔。从一开始就是个荒谬的决定。\""
+  },
+  {
+    "id": 65,
+    "title": "The Google guide for holiday help",
+    "title_zh": "谷歌假日助手指南",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "ai-product"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "AI产品"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "Google's guide uses AI tools like Gemini and Maps to simplify holiday shopping, planning, and hosting tasks.",
+    "summary_zh": "谷歌指南利用Gemini和地图等AI工具简化假日购物、规划和招待任务。",
+    "best_quote_en": "Offload tedious tasks to Gemini, get insider recommendations from Google Maps and be sure you're getting the best price when shopping on Google.",
+    "best_quote_zh": "将繁琐任务交给Gemini处理，从Google地图获取内部推荐，并确保在谷歌购物时获得最优价格。"
+  },
+  {
+    "id": 66,
+    "title": "4 ways to refine your content in Flow",
+    "title_zh": "4种在Flow中优化内容的方法",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
+    "tags": [
+      "guide",
+      "design",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "写作内容"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "Google Flow introduces four new AI-powered editing features for enhanced creative control over image and video content.",
+    "summary_zh": "谷歌Flow推出四项AI编辑功能，提升图像和视频内容的创意控制能力。",
+    "best_quote_en": "Instead of wordsmithing the perfect prompt, you can draw or annotate on an image, Flow understands your doodles and incorporates them into your final frame.",
+    "best_quote_zh": "无需绞尽脑汁编写完美提示词，您可以直接在图像上绘制或标注，Flow能够理解您的涂鸦并将其融入最终画面。"
   }]
