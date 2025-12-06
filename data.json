@@ -1423,4 +1423,239 @@
     "summary_zh": "谷歌Flow推出四项AI编辑功能，提升图像和视频内容的创意控制能力。",
     "best_quote_en": "Instead of wordsmithing the perfect prompt, you can draw or annotate on an image, Flow understands your doodles and incorporates them into your final frame.",
     "best_quote_zh": "无需绞尽脑汁编写完美提示词，您可以直接在图像上绘制或标注，Flow能够理解您的涂鸦并将其融入最终画面。"
+  },{
+    "id": 67,
+    "title": "The latest AI news we announced in November",
+    "title_zh": "谷歌11月AI新闻汇总",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
+    "tags": [
+      "update",
+      "design",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "Google announced major AI updates including Gemini 3 launch, Nano Banana Pro, and $40 billion infrastructure investment in November.",
+    "summary_zh": "谷歌11月发布多项AI更新，包括Gemini 3、Nano Banana Pro和400亿美元基础设施投资。",
+    "best_quote_en": "The distance between a spark of imagination and reality has never been shorter.",
+    "best_quote_zh": "想象力与现实之间的距离从未如此接近。"
+  },
+  {
+    "id": 68,
+    "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
+    "title_zh": "Google Workspace新研究揭示年轻职场领导者如何使用AI",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/workspace/young-leaders-survey-ai/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "Google research shows young leaders use AI for personalized responses, workflow automation, and professional confidence building.",
+    "summary_zh": "Google研究显示年轻领导者通过AI实现个性化响应、工作流自动化和专业信心提升。",
+    "best_quote_en": "Young leaders want AI that offers more personalized responses — think outputs that aren't just generic, but use your preferred tone and style.",
+    "best_quote_zh": "年轻领导者希望AI提供更个性化的响应——输出内容不仅通用，还要使用您偏好的语气和风格。"
+  },
+  {
+    "id": 69,
+    "title": "Gemini 3 Pro: the frontier of vision AI",
+    "title_zh": "Gemini 3 Pro: 视觉AI的前沿",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "Gemini 3 Pro delivers state-of-the-art multimodal AI performance across document, spatial, screen and video understanding with advanced reasoning capabilities.",
+    "summary_zh": "Gemini 3 Pro在文档、空间、屏幕和视频理解方面提供最先进的多模态AI性能和高级推理能力。",
+    "best_quote_en": "Gemini 3 Pro represents a generational leap from simple recognition to true visual and spatial reasoning.",
+    "best_quote_zh": "Gemini 3 Pro代表了从简单识别到真正视觉和空间推理的世代飞跃。"
+  },
+  {
+    "id": 70,
+    "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+    "title_zh": "疑似中国间谍气球能够将信息传回北京",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html",
+    "tags": [
+      "analyze",
+      "cybersecurity",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "网络安全",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "The Chinese spy balloon that transited the US captured imagery and collected signals intelligence from military sites, transmitting data back to Beijing in real time.",
+    "summary_zh": "穿越美国的中国间谍气球能够从军事基地捕获图像并收集信号情报，实时将数据传回北京。",
+    "best_quote_en": "The balloon was able to transmit information back to Beijing in real time, and the US government still does not know for sure whether the Chinese government could wipe the balloon's data as it received it.",
+    "best_quote_zh": "气球能够实时将信息传回北京，美国政府仍不确定中国政府是否能够在接收数据时擦除气球的数据。"
+  },
+  {
+    "id": 71,
+    "title": "3 things to know about Ironwood, our latest TPU",
+    "title_zh": "关于我们最新 TPU Ironwood 的三点了解",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+    "tags": [
+      "update",
+      "ai-research",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "Google's seventh-gen Ironwood TPU delivers 4x performance gains and energy efficiency for AI inference and model serving at scale.",
+    "summary_zh": "谷歌第七代Ironwood TPU为AI推理和模型服务提供4倍性能提升和能源效率。",
+    "best_quote_en": "Ironwood is our most powerful, capable, and energy-efficient TPU yet, designed to power thinking, inferential AI models at scale.",
+    "best_quote_zh": "Ironwood是我们迄今为止最强大、能力最强、能效最高的TPU，专为大规模思维推理AI模型设计。"
+  },
+  {
+    "id": 72,
+    "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
+    "title_zh": "这种煮熟的杂碎袋在美国被禁，在苏格兰却是精致美食",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/travel/article/haggis-scotland-secrets/index.html",
+    "tags": [
+      "inspire",
+      "design",
+      "leadership"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "领导管理"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "Haggis, Scotland's national dish made from sheep organs and oatmeal, is banned in the US but remains a beloved culinary tradition with modern adaptations.",
+    "summary_zh": "苏格兰国菜哈吉斯由羊杂碎和燕麦制成，在美国被禁但在本土备受喜爱并发展出现代创新。",
+    "best_quote_en": "\"It's like a cuddle for the stomach,\" says Nicola Turner, a 35-year-old office administrator from Helensburgh.",
+    "best_quote_zh": "“就像给胃一个拥抱，”来自苏格兰海伦斯堡的35岁办公室管理员尼古拉·特纳说道。"
+  },
+  {
+    "id": 73,
+    "title": "16 Google AI tips for stress-free holiday hosting in 2025",
+    "title_zh": "2025年无压力假日聚会的16个Google AI技巧",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/pixel/google-holiday-hosting-tips-2024/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2025-11-21",
+    "summary_en": "Google's AI tools help plan parties, cook food, take photos, and solve problems for stress-free holiday hosting.",
+    "summary_zh": "Google AI工具可协助聚会策划、烹饪、拍照和问题解决，实现无压力假日招待。",
+    "best_quote_en": "You don't have to go it alone - plenty of Google AI tools can make the process easier and more fun.",
+    "best_quote_zh": "您不必独自承担——众多Google AI工具能让整个过程更轻松有趣。"
+  },
+  {
+    "id": 74,
+    "title": "HSBC's top execs face tense shareholders calling for a breakup",
+    "title_zh": "汇丰银行高管面临紧张股东要求分拆银行的呼声",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/business/hsbc-spin-off-hk-shareholder-meeting-intl-hnk/index.html",
+    "tags": [
+      "solve",
+      "leadership",
+      "economics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "经济金融",
+      "争议观点"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "HSBC executives defended their unified strategy against shareholder pressure to spin off the profitable Asian business at a tense Hong Kong meeting.",
+    "summary_zh": "汇丰高管在香港股东会议上为统一战略辩护，抵制分拆亚洲业务的压力。",
+    "best_quote_en": "\"It would not be in your interest to split the bank,\" HSBC Chairman Mark Tucker told shareholders.",
+    "best_quote_zh": "汇丰董事长马克·塔克告诉股东：“分拆银行不符合你们的利益。”"
+  },
+  {
+    "id": 75,
+    "title": "Develop a deeper understanding with interactive images in Gemini.",
+    "title_zh": "通过 Gemini 互动图像深化理解",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/outreach-initiatives/education/gemini-interactive-images/",
+    "tags": [
+      "learn",
+      "education",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "Gemini introduces interactive images for active visual exploration of complex academic concepts.",
+    "summary_zh": "Gemini推出互动图像功能，支持主动探索复杂学术概念。",
+    "best_quote_en": "Gemini is transforming studying from passive viewing into active exploration.",
+    "best_quote_zh": "Gemini正在将学习从被动观看转变为主动探索。"
+  },
+  {
+    "id": 76,
+    "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
+    "title_zh": "为玛乔丽·泰勒·格林提供平台对美国不利",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/opinions/60-minutes-marjorie-taylor-greene-interview-obeidallah/index.html",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "CNN opinion piece argues that giving Marjorie Taylor Greene media platforms legitimizes extremism despite being profitable for networks.",
+    "summary_zh": "CNN评论认为媒体为玛乔丽·泰勒·格林提供平台会合法化极端主义，尽管能为电视台带来利润。",
+    "best_quote_en": "\"Moonves may be gone from CBS, but it appears his mindset continues at '60 Minutes.' And that may be good for '60 Minutes,' but it's definitely not good for America.\"",
+    "best_quote_zh": "穆恩维斯可能已离开CBS，但他的心态似乎在《60分钟》节目中延续。这对《60分钟》或许是好事，但对美国绝对不是。"
   }]
