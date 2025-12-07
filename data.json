@@ -1658,4 +1658,235 @@
     "summary_zh": "CNN评论认为媒体为玛乔丽·泰勒·格林提供平台会合法化极端主义，尽管能为电视台带来利润。",
     "best_quote_en": "\"Moonves may be gone from CBS, but it appears his mindset continues at '60 Minutes.' And that may be good for '60 Minutes,' but it's definitely not good for America.\"",
     "best_quote_zh": "穆恩维斯可能已离开CBS，但他的心态似乎在《60分钟》节目中延续。这对《60分钟》或许是好事，但对美国绝对不是。"
+  },{
+    "id": 77,
+    "title": "How we’re bringing AI image verification to the Gemini app",
+    "title_zh": "我们如何将AI图像验证引入Gemini应用",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/ai-image-verification-gemini-app/",
+    "tags": [
+      "inspire",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "Google introduces AI image verification in Gemini using SynthID watermarking to detect AI-generated content and plans expansion to video/audio formats.",
+    "summary_zh": "谷歌在Gemini应用中推出AI图像验证功能，使用SynthID水印检测AI生成内容，并计划扩展到视频和音频格式。",
+    "best_quote_en": "We are increasing content transparency by introducing the ability to verify if an image was generated or edited by Google AI right in the Gemini app.",
+    "best_quote_zh": "我们通过在Gemini应用中直接引入验证图像是否由谷歌AI生成或编辑的功能来增强内容透明度。"
+  },
+  {
+    "id": 78,
+    "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+    "title_zh": "使用Nano Banana Pro构建，我们的Gemini 3 Pro图像模型",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/developers/gemini-3-pro-image-developers/",
+    "tags": [
+      "guide",
+      "design",
+      "programming",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "编程开发",
+      "深度分析"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "Google releases Gemini 3 Pro Image model for developers with advanced image generation, editing capabilities, and professional controls.",
+    "summary_zh": "谷歌发布Gemini 3 Pro图像模型，为开发者提供先进的图像生成、编辑功能及专业控制。",
+    "best_quote_en": "This state-of-the-art image generation and editing model unlocks high-fidelity images with higher accuracy in text rendering and robust world knowledge.",
+    "best_quote_zh": "这种最先进的图像生成和编辑模型解锁了高保真图像，具有更高的文本渲染准确性和强大的世界知识。"
+  },
+  {
+    "id": 79,
+    "title": "Introducing Nano Banana Pro",
+    "title_zh": "Nano Banana Pro 简介",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/nano-banana-pro/",
+    "tags": [
+      "learn",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "Google DeepMind launches Nano Banana Pro, an advanced image generation model with superior text rendering and creative controls.",
+    "summary_zh": "谷歌DeepMind推出Nano Banana Pro，具备多语言文本生成和高级创意控制功能。",
+    "best_quote_en": "Built on Gemini 3 Pro, Nano Banana Pro uses Gemini's state-of-the-art reasoning and real-world knowledge to visualize information better than ever before.",
+    "best_quote_zh": "基于Gemini 3 Pro构建，Nano Banana Pro利用Gemini的最先进推理和现实世界知识，以前所未有的方式可视化信息。"
+  },
+  {
+    "id": 80,
+    "title": "Teenage swimmer breaks two world records in four days",
+    "title_zh": "少女游泳选手四天内打破两项世界纪录",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/sport/summer-mcintosh-world-record-canada-swimmer-spt-intl/index.html",
+    "tags": [
+      "update",
+      "ai-research",
+      "data-science"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "数据科学"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "Sixteen-year-old Summer McIntosh breaks two world swimming records within four days at Canadian trials.",
+    "summary_zh": "16岁游泳选手麦金托什四天内两破世界纪录，展现卓越竞技水平。",
+    "best_quote_en": "\"That's the first time I really vividly heard the crowd during my race,\" McIntosh said.",
+    "best_quote_zh": "麦金托什表示：\"这是我第一次在比赛中如此清晰地听到观众的欢呼声。\""
+  },
+  {
+    "id": 81,
+    "title": "How Westinghouse is reenergizing nuclear power with — and for — AI",
+    "title_zh": "西屋电气如何利用人工智能并为其重新激活核能",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-cloud/westinghouse/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "tech-trends",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "技术趋势",
+      "数据驱动"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "Westinghouse partners with Google Cloud to deploy AI systems that accelerate nuclear reactor construction, optimize operations, and enhance safety protocols.",
+    "summary_zh": "西屋电气与谷歌云合作，利用人工智能加速核反应堆建设并优化运营安全。",
+    "best_quote_en": "\"energy for AI and AI for energy\" - Dr. Lou Martinez Sancho, Westinghouse CTO",
+    "best_quote_zh": "“为AI提供能源，用AI优化能源” - 西屋电气首席技术官 Lou Martinez Sancho 博士"
+  },
+  {
+    "id": 82,
+    "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+    "title_zh": "‘可怕、寒冷、饥饿和孤独’：志愿兵分享前线经历",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
+    "tags": [
+      "solve",
+      "psychology",
+      "health-wellness",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "健康养生",
+      "未来预测"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "A volunteer soldier shares his traumatic frontline experiences during the Russia-Ukraine conflict and discusses mental health impacts.",
+    "summary_zh": "一名志愿兵分享俄乌冲突前线创伤经历及其对心理健康的影响。",
+    "best_quote_en": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+    "best_quote_zh": "‘可怕、寒冷、饥饿和孤独’：志愿兵分享前线经历"
+  },
+  {
+    "id": 83,
+    "title": "At our Research@ Poland event we shared how AI is helping us solve big challenges.",
+    "title_zh": "在波兰Research@活动上我们分享了AI如何帮助我们解决重大挑战",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/research/ai-collaboration-poland-2025/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "Google Research demonstrates how real-world challenges drive AI research breakthroughs through global collaboration across health, disaster response, and scientific discovery.",
+    "summary_zh": "谷歌研究展示现实挑战如何推动AI突破，通过全球合作应对健康、灾害响应和科学发现。",
+    "best_quote_en": "\"The magic cycle — where real-world challenges drive foundational research and scientific breakthroughs.\"",
+    "best_quote_zh": "“魔法循环——现实世界的挑战推动基础研究和科学突破。”"
+  },
+  {
+    "id": 84,
+    "title": "French minister under fire for Playboy magazine cover",
+    "title_zh": "法国部长因《花花公子》封面照引发争议",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/02/europe/french-minister-playboy-cover-intl/index.html",
+    "tags": [
+      "solve",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "French minister Marlene Schiappa faces criticism from her own party for appearing on Playboy cover during pension reform crisis.",
+    "summary_zh": "法国部长因在养老金改革危机期间登上《花花公子》封面而遭党内批评。",
+    "best_quote_en": "Defending the right of women to have control of their bodies, that's everywhere and all the time. In France, women are free.",
+    "best_quote_zh": "捍卫女性对自己身体的控制权，这是无处不在且无时不刻的。在法国，女性是自由的。"
+  },
+  {
+    "id": 85,
+    "title": "China Renaissance suspends trading, delays results after founder's disappearance",
+    "title_zh": "华兴资本暂停交易，创始人失联后延迟公布业绩",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/investing/china-renaissance-delays-results-missing-ceo-intl-hnk/index.html",
+    "tags": [
+      "update",
+      "economics",
+      "leadership"
+    ],
+    "tags_zh": [
+      "动态",
+      "经济金融",
+      "领导管理"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "China Renaissance suspends trading and delays results due to founder Bao Fan's disappearance since February.",
+    "summary_zh": "华兴资本因创始人包凡失联而暂停交易并延迟公布年度业绩。",
+    "best_quote_en": "Shares in China Renaissance have plunged since Bao went missing, at one point dropping as much as 50%.",
+    "best_quote_zh": "自包凡失联以来，华兴资本股价暴跌，一度下跌高达50%。"
+  },
+  {
+    "id": 86,
+    "title": "CEOs are tired of being held responsible for gun regulation",
+    "title_zh": "CEO们厌倦为枪支管制负责",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/investing/premarket-stocks-trading/index.html",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "CEOs express frustration at being expected to lead social change alone on gun regulation.",
+    "summary_zh": "CEO们对独自承担枪支管制社会变革责任表示厌倦。",
+    "best_quote_en": "\"CEOs are just one group of people and it's like we're turning to them to be our saviors on every topic.\"",
+    "best_quote_zh": "CEO们只是人群中的一部分，但我们似乎把他们当成了解决所有问题的救世主。"
   }]
