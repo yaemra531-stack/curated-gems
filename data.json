@@ -1889,4 +1889,213 @@
     "summary_zh": "CEO们对独自承担枪支管制社会变革责任表示厌倦。",
     "best_quote_en": "\"CEOs are just one group of people and it's like we're turning to them to be our saviors on every topic.\"",
     "best_quote_zh": "CEO们只是人群中的一部分，但我们似乎把他们当成了解决所有问题的救世主。"
+  },{
+    "id": 87,
+    "title": "AI 开发者日报 2025-12-08",
+    "title_zh": "AI 开发者日报 2025-12-08",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-12-08",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "Daily AI developer update covering inference infrastructure, multimodal models, agent platforms, open-source tools, and hardware advancements.",
+    "summary_zh": "AI开发者日报：涵盖推理基础设施、多模态模型、智能体平台、开源工具和硬件进展的最新动态。",
+    "best_quote_en": "Inference models now account for over 50% of OpenRouter usage, with Chinese-trained closed-source models driving most traffic.",
+    "best_quote_zh": "推理模型现在占OpenRouter使用量的50%以上，中国训练的闭源模型推动了大部分流量。"
+  },
+  {
+    "id": 88,
+    "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
+    "title_zh": "巴黎圣日耳曼赛季陷入新低谷，梅西名字播报时遭球迷嘘声",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/football/lionel-messi-psg-whistles-fans-spt-intl/index.html",
+    "tags": [
+      "analyze",
+      "leadership",
+      "music-arts",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "音乐艺术",
+      "争议观点"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "PSG's disappointing season worsens as fans whistle at Messi despite his strong individual performance.",
+    "summary_zh": "巴黎圣日耳曼赛季表现糟糕，球迷对梅西报以嘘声，尽管他个人数据出色。",
+    "best_quote_en": "Paris' problem is when the No. 1 objective of the Champions League is no longer accessible, it seems that the season no longer exists – and at all levels.",
+    "best_quote_zh": "巴黎的问题是当欧冠这个首要目标无法实现时，整个赛季似乎就失去了意义——在各个层面都是如此。"
+  },
+  {
+    "id": 89,
+    "title": "Finland's Prime Minister Sanna Marin concedes election",
+    "title_zh": "芬兰总理桑娜·马林承认选举失利",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/02/europe/sanna-marin-finland-elections-concedes-intl/index.html",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "Finland's left-wing Prime Minister Sanna Marin conceded defeat as the right-wing opposition party won parliamentary elections amid economic concerns.",
+    "summary_zh": "芬兰左翼总理马林承认选举失利，右翼反对党在经济担忧中赢得议会选举。",
+    "best_quote_en": "We got the biggest mandate. I will fix Finland and its economy.",
+    "best_quote_zh": "我们获得了最大的授权。我将修复芬兰及其经济。"
+  },
+  {
+    "id": 90,
+    "title": "Video shows moment man throws yogurt on two women in Iran",
+    "title_zh": "视频显示伊朗男子向两名女性泼酸奶",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/videos/world/2023/04/03/man-throws-yogurt-on-women-iran-president-raisi-hijab-is-law-nada-bashir-ovn-intl-ldn-vpx.cnn",
+    "tags": [
+      "update",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "A man throws yogurt at two unveiled women in an Iranian store, highlighting ongoing tensions over women's rights.",
+    "summary_zh": "伊朗男子向未戴头巾的女性泼酸奶，反映女性权利冲突。",
+    "best_quote_en": "Video shows an incident at a store in the Iranian city of Shandiz where a man approached two unveiled women before proceeding to grab a tub of yogurt from the store and throw it, hitting both women in the head.",
+    "best_quote_zh": "视频显示伊朗沙迪兹市一家商店发生的事件，一名男子接近两名未戴头巾的女性，然后从商店抓起一桶酸奶扔向她们，击中了两人的头部。"
+  },
+  {
+    "id": 91,
+    "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
+    "title_zh": "芬兰总理为何落选？记者解释选民最关心的问题",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/videos/world/2023/04/03/finland-prime-minister-sanna-marin-concedes-election-right-wing-party-wins-ovn-intl-ldn-vpx.cnn",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "Analysis of Finland's election defeat reveals voters prioritized economic concerns over Sanna Marin's popularity.",
+    "summary_zh": "芬兰选举分析显示选民更关注经济问题而非总理个人魅力。",
+    "best_quote_en": "Finland's left-wing Prime Minister Sanna Marin conceded defeat in the country's parliamentary election as the opposition right-wing National Coalition Party claimed victory in a tightly fought contest.",
+    "best_quote_zh": "芬兰左翼总理桑娜·马林承认在议会选举中失败，反对党右翼国家联合党在激烈竞争中获胜。"
+  },
+  {
+    "id": 92,
+    "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
+    "title_zh": "艾玛·海明·威利斯分享家庭照片庆祝女儿梅布尔11岁生日",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/2023/04/03/entertainment/emma-willis-mabel-birthday-photos-intl-scli/index.html",
+    "tags": [
+      "update",
+      "medicine",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "案例研究"
+    ],
+    "date": "2023-04-03",
+    "summary_en": "Emma Heming Willis celebrates daughter Mabel's 11th birthday with nostalgic family photos while raising awareness about Bruce Willis' frontotemporal dementia.",
+    "summary_zh": "艾玛·海明·威利斯分享家庭照片庆祝女儿11岁生日，同时提高对布鲁斯·威利斯额颞叶痴呆症的认识。",
+    "best_quote_en": "\"Your energy is infectious,\" she continued, praising her little girl for the way she \"can light a whole room with your smile and warmth.\"",
+    "best_quote_zh": "“你的能量具有感染力，”她继续说道，称赞她的小女儿“能用你的微笑和温暖点亮整个房间。”"
+  },
+  {
+    "id": 93,
+    "title": "Lawmaker speaks out about his struggle with depression",
+    "title_zh": "议员公开谈论他与抑郁症的斗争",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/videos/politics/2023/04/02/john-fetterman-depression-downward-spiral-acostanr-sot-vpx.cnn",
+    "tags": [
+      "update",
+      "politics",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2023-04-02",
+    "summary_en": "Senator John Fetterman speaks openly about his personal struggle with depression following his election victory.",
+    "summary_zh": "参议员费特曼在胜选后公开谈论个人抑郁症经历。",
+    "best_quote_en": "Sen. John Fetterman (D-PA) spoke to CBS about battling with depression after winning a tight election.",
+    "best_quote_zh": "参议员约翰·费特曼向CBS讲述了他在赢得激烈选举后与抑郁症斗争的经历。"
+  },
+  {
+    "id": 94,
+    "title": "Man rides out tornado inside van. See the footage",
+    "title_zh": "男子在货车内经历龙卷风 观看现场视频",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
+    "tags": [
+      "analyze",
+      "science",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2023-04-02",
+    "summary_en": "A pest control worker survives an EF-3 tornado inside his van in Arkansas, with footage capturing the experience.",
+    "summary_zh": "一名害虫防治工人在阿肯色州EF-3级龙卷风中于货车内幸存，视频记录惊险经历。",
+    "best_quote_en": "Cody Coombes recounts riding out a tornado in Little Rock, Arkansas, inside his pest control van.",
+    "best_quote_zh": "科迪·库姆斯讲述了他在阿肯色州小石城龙卷风中，于害虫防治货车内幸存的经历。"
+  },
+  {
+    "id": 95,
+    "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
+    "title_zh": "观看《星球大战》传奇演员对阿科斯塔的达斯·维德模仿做出反应",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/videos/media/2023/04/02/mark-hamill-star-wars-jim-acosta-skywalker-cprog-acostanr-vpx.cnn",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2023-04-02",
+    "summary_en": "Mark Hamill joins Jim Acosta to discuss potential Luke Skywalker spinoff series and reacts to Acosta's Darth Vader impression.",
+    "summary_zh": "马克·哈米尔与吉姆·阿科斯塔讨论卢克·天行者衍生剧，并对维德模仿做出反应。",
+    "best_quote_en": "\"Actor Mark Hamill joins CNN's Jim Acosta to discuss his thoughts about a potential spinoff series based around his legendary 'Star Wars' character Luke Skywalker.\"",
+    "best_quote_zh": "\"演员马克·哈米尔加入CNN的吉姆·阿科斯塔节目，讨论关于他传奇的《星球大战》角色卢克·天行者潜在衍生剧的想法。\""
   }]
