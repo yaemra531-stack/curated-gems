@@ -2098,4 +2098,189 @@
     "summary_zh": "马克·哈米尔与吉姆·阿科斯塔讨论卢克·天行者衍生剧，并对维德模仿做出反应。",
     "best_quote_en": "\"Actor Mark Hamill joins CNN's Jim Acosta to discuss his thoughts about a potential spinoff series based around his legendary 'Star Wars' character Luke Skywalker.\"",
     "best_quote_zh": "\"演员马克·哈米尔加入CNN的吉姆·阿科斯塔节目，讨论关于他传奇的《星球大战》角色卢克·天行者潜在衍生剧的想法。\""
+  },{
+    "id": 96,
+    "title": "How we’re supporting the next generation of innovators",
+    "title_zh": "我们如何支持下一代创新者",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/",
+    "tags": [
+      "inspire",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "Google is launching AI Quests for AI literacy in schools and providing over $5 million in funding for computer science education during Computer Science Education Week.",
+    "summary_zh": "谷歌在计算机科学教育周推出AI探索游戏并资助500多万美元，以提升学校AI素养和计算机科学教育。",
+    "best_quote_en": "While coding tasks may change in the AI era, the foundational principles of computer science remain more vital than ever.",
+    "best_quote_zh": "在AI时代，编程任务可能会发生变化，但计算机科学的基础原则比以往任何时候都更加重要。"
+  },
+  {
+    "id": 97,
+    "title": "Transforming Nordic classrooms through responsible AI partnerships",
+    "title_zh": "通过负责任的AI合作改变北欧教室",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/",
+    "tags": [
+      "analyze",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "Google partners with Nordic educators to integrate AI tools responsibly in classrooms, enhancing personalized learning and teacher efficiency.",
+    "summary_zh": "谷歌与北欧教育者合作，负责任地将AI工具融入课堂，提升个性化学习和教师效率。",
+    "best_quote_en": "\"This is where Gemini is able to help\" - Johan Kellén on AI creating tailored teaching materials",
+    "best_quote_zh": "\"这正是双子座能够提供帮助的地方\" - 约翰·凯伦谈AI创建定制教学材料"
+  },
+  {
+    "id": 98,
+    "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
+    "title_zh": "巴勒斯坦出租车司机讲述在右翼抗议者袭击中幸存经历",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/videos/world/2023/03/31/israel-protests-rise-taxi-driver-attacked-robertson-pkg-intl-vpx.cnn",
+    "tags": [
+      "update",
+      "politics",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2023-03-31",
+    "summary_en": "A Palestinian taxi driver describes surviving a violent attack by right-wing protesters in Jerusalem amid ongoing political tensions.",
+    "summary_zh": "巴勒斯坦出租车司机讲述在耶路撒冷右翼抗议者暴力袭击中幸存的经历。",
+    "best_quote_en": "A Palestinian taxi driver describes surviving a violent attack by a right-wing mob in Jerusalem earlier this week",
+    "best_quote_zh": "一名巴勒斯坦出租车司机描述了本周早些时候在耶路撒冷右翼暴徒暴力袭击中幸存下来的经历"
+  },
+  {
+    "id": 99,
+    "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
+    "title_zh": "滑雪者倒栽葱被雪掩埋，看滑雪者的快速反应",
+    "source": "CNN news (CNN)",
+    "link": "https://www.cnn.com/videos/us/2023/03/31/snowboarder-rescue-mt-baker-washington-cprog-lon-orig-na.cnn",
+    "tags": [
+      "solve",
+      "design",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2023-03-31",
+    "summary_en": "A skier demonstrates textbook rescue when he saves a snowboarder trapped upside down in a tree well.",
+    "summary_zh": "滑雪者示范教科书式救援，救出倒栽葱困在树井中的单板滑雪者。",
+    "best_quote_en": "Zuber, whose reaction has been applauded as a textbook example of what to do in such a situation, urged others to take up rescue courses.",
+    "best_quote_zh": "楚伯的反应被誉为此类情况下的教科书式范例，他敦促其他人参加救援课程。"
+  },
+  {
+    "id": 100,
+    "title": "Trump pleads not guilty to 34 felony counts",
+    "title_zh": "特朗普对34项重罪指控表示不认罪",
+    "source": "CNN news (CNN)",
+    "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
+    "tags": [
+      "update",
+      "legal",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "Former President Trump pleads not guilty to 34 felony charges in historic criminal case involving hush money payments.",
+    "summary_zh": "前总统特朗普对34项重罪指控表示不认罪，涉及封口费支付的历史性刑事案件。",
+    "best_quote_en": "Trump's legal team said the former president will voluntarily surrender and will look to challenge 'every potential issue' once the indictment is unsealed.",
+    "best_quote_zh": "特朗普的法律团队表示，前总统将自愿投降，并在起诉书开封后挑战'每一个潜在问题'。"
+  },
+  {
+    "id": 101,
+    "title": "READ: Trump indictment related to hush money payment",
+    "title_zh": "阅读：特朗普与封口费支付相关的起诉书",
+    "source": "CNN news (CNN)",
+    "link": "https://cnn.it/411KYN7",
+    "tags": [
+      "update",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "Former President Donald Trump faces 34 felony counts related to hush money payments.",
+    "summary_zh": "前总统特朗普因封口费相关指控面临34项重罪起诉。",
+    "best_quote_en": "Former President Donald Trump has been charged with 34 felony counts in an indictment unsealed Tuesday.",
+    "best_quote_zh": "前总统唐纳德·特朗普在周二公布的起诉书中被指控犯有34项重罪。"
+  },
+  {
+    "id": 102,
+    "title": "Russian authorities detain suspect over St. Petersburg cafe blast",
+    "title_zh": "俄罗斯当局拘留圣彼得堡咖啡馆爆炸案嫌疑人",
+    "source": "CNN news (CNN)",
+    "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
+    "tags": [
+      "update",
+      "politics",
+      "cybersecurity"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "网络安全"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "Russian authorities detained a female suspect in the St. Petersburg cafe explosion that killed a military blogger, amid ongoing Ukraine conflict developments.",
+    "summary_zh": "俄罗斯拘留圣彼得堡咖啡馆爆炸案女嫌疑人，同时乌克兰冲突持续发展。",
+    "best_quote_en": "A female suspect has been detained in connection with an explosion that killed a prominent Russian military blogger at a cafe in St. Petersburg on Sunday.",
+    "best_quote_zh": "一名女性嫌疑人因周日圣彼得堡咖啡馆爆炸事件被拘留，该事件导致一名著名俄罗斯军事博主死亡。"
+  },
+  {
+    "id": 103,
+    "title": "Hundreds of millions at risk from Chinese shopping app malware",
+    "title_zh": "中国购物应用恶意软件危及数亿用户",
+    "source": "CNN news (CNN)",
+    "link": "https://cnn.it/40OSomK",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "cybersecurity",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "网络安全",
+      "数据驱动"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "Pinduoduo shopping app contains sophisticated malware exploiting Android vulnerabilities to spy on users and competitors.",
+    "summary_zh": "拼多多购物应用含恶意软件，利用安卓漏洞监控用户和竞争对手活动。",
+    "best_quote_en": "\"We haven't seen a mainstream app like this trying to escalate their privileges to gain access to things that they're not supposed to gain access to.\"",
+    "best_quote_zh": "我们从未见过像这样的主流应用试图提升权限以获取它们不应访问的内容。"
   }]
