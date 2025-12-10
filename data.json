@@ -1,49 +1,5 @@
 [
   {
-    "id": 5,
-    "title": "Ordinary World",
-    "title_zh": "平凡的世界",
-    "source": "路遥",
-    "link": "https://book.douban.com/subject/1051726/",
-    "tags": [
-      "society",
-      "struggle",
-      "dreams"
-    ],
-    "tags_zh": [
-      "社会",
-      "奋斗",
-      "理想"
-    ],
-    "date": "2025-01-01",
-    "summary_en": "A realist novel reflecting the lives, struggles, and dreams of ordinary people in China's reform era.",
-    "summary_zh": "一部现实主义作品，描写改革年代普通人的生活、奋斗与理想。",
-    "best_quote_en": "Even in the most ordinary life, there is a shining strength.",
-    "best_quote_zh": "即使是平凡的生活，也有闪光的力量。"
-  },
-  {
-    "id": 6,
-    "title": "Awakening of Cognition",
-    "title_zh": "认知觉醒",
-    "source": "周岭",
-    "link": "https://book.douban.com/subject/35143790/",
-    "tags": [
-      "self-growth",
-      "cognition",
-      "psychology"
-    ],
-    "tags_zh": [
-      "自我成长",
-      "认知",
-      "心理学"
-    ],
-    "date": "2025-01-01",
-    "summary_en": "A book on how to improve cognition, optimize habits, and achieve personal growth.",
-    "summary_zh": "一本探讨如何提升认知、优化习惯，实现自我成长的作品。",
-    "best_quote_en": "Cognition determines destiny; the higher your perspective, the farther you can go.",
-    "best_quote_zh": "认知决定命运，站得越高，看得越远。"
-  },
-  {
     "id": 7,
     "title": "The Little Prince",
     "title_zh": "小王子",
@@ -130,8 +86,8 @@
     "summary_zh": "魔幻现实主义经典，讲述布恩迪亚家族百年的兴衰史。",
     "best_quote_en": "Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.",
     "best_quote_zh": "多年以后，奥雷连诺上校站在行刑队面前，必将想起父亲带他去见识冰块的那个遥远的下午。"
-  }
-  ,{
+  },
+  {
     "id": 11,
     "title": "AI 开发者日报 2025-10-11",
     "title_zh": "AI 开发者日报 2025-10-11",
@@ -360,7 +316,8 @@
     "summary_zh": "NotebookLM 视频概述通过 Nano Banana 图像生成升级，新增快速摘要格式。",
     "best_quote_en": "Nano Banana in NotebookLM generates helpful, contextual, and beautiful illustrations based on the sources you upload.",
     "best_quote_zh": "Nano Banana 在 NotebookLM 中根据您上传的源文件生成有用、上下文相关且美观的插图。"
-  },{
+  },
+  {
     "id": 21,
     "title": "AI 开发者日报 2025-10-15",
     "title_zh": "AI 开发者日报 2025-10-15",
@@ -595,7 +552,8 @@
     "summary_zh": "《新五大动物》摄影书通过精美图片展示濒危野生动物，旨在提高环保意识。",
     "best_quote_en": "\"We have a window of time during which we can start to heal some of the harm we have inflicted on the natural world, but only if we get together and take action now.\"",
     "best_quote_zh": "\"我们有一个时间窗口可以开始修复我们对自然世界造成的伤害，但前提是我们必须立即团结起来采取行动。\""
-  },{
+  },
+  {
     "id": 31,
     "title": "10 years of genomics research at Google",
     "title_zh": "谷歌基因组研究的十年历程",
@@ -826,7 +784,8 @@
     "summary_zh": "谷歌量子AI科学家因奠定超导量子计算基础的突破性研究获2025年诺贝尔物理学奖。",
     "best_quote_en": "They proved that quantum mechanics could be revealed and controlled in a macroscopic electrical circuit on a chip.",
     "best_quote_zh": "他们证明了量子力学可以在芯片上的宏观电路中显现并受控。"
-  },{
+  },
+  {
     "id": 41,
     "title": "Video shows moment of deadly explosion at cafe in Russia",
     "title_zh": "视频显示俄罗斯咖啡馆致命爆炸瞬间",
@@ -967,7 +926,8 @@
     "summary_zh": "研究发现饮用水中锂含量与自闭症风险存在微弱关联，但因果关系未证实，需进一步研究。",
     "best_quote_en": "\"Any drinking water contaminants that may affect the developing human brain deserve intense scrutiny,\" said study co-author Dr. Beate Ritz.",
     "best_quote_zh": "研究合著者Beate Ritz博士表示：“任何可能影响发育中人脑的饮用水污染物都值得密切关注。”"
-  },{
+  },
+  {
     "id": 47,
     "title": "AI 开发者日报 2025-12-04",
     "title_zh": "AI 开发者日报 2025-12-04",
@@ -1196,7 +1156,8 @@
     "summary_zh": "谷歌 Circle to Search 和 Lens 新增功能，利用 AI 和网络数据帮助识别诈骗信息。",
     "best_quote_en": "Our systems will use AI and information from the web to assess whether the message is likely a scam.",
     "best_quote_zh": "我们的系统将利用 AI 和网络信息来评估信息是否可能是诈骗。"
-  },{
+  },
+  {
     "id": 57,
     "title": "AI 开发者日报 2025-12-05",
     "title_zh": "AI 开发者日报 2025-12-05",
@@ -1423,7 +1384,8 @@
     "summary_zh": "谷歌Flow推出四项AI编辑功能，提升图像和视频内容的创意控制能力。",
     "best_quote_en": "Instead of wordsmithing the perfect prompt, you can draw or annotate on an image, Flow understands your doodles and incorporates them into your final frame.",
     "best_quote_zh": "无需绞尽脑汁编写完美提示词，您可以直接在图像上绘制或标注，Flow能够理解您的涂鸦并将其融入最终画面。"
-  },{
+  },
+  {
     "id": 67,
     "title": "The latest AI news we announced in November",
     "title_zh": "谷歌11月AI新闻汇总",
@@ -1658,7 +1620,8 @@
     "summary_zh": "CNN评论认为媒体为玛乔丽·泰勒·格林提供平台会合法化极端主义，尽管能为电视台带来利润。",
     "best_quote_en": "\"Moonves may be gone from CBS, but it appears his mindset continues at '60 Minutes.' And that may be good for '60 Minutes,' but it's definitely not good for America.\"",
     "best_quote_zh": "穆恩维斯可能已离开CBS，但他的心态似乎在《60分钟》节目中延续。这对《60分钟》或许是好事，但对美国绝对不是。"
-  },{
+  },
+  {
     "id": 77,
     "title": "How we’re bringing AI image verification to the Gemini app",
     "title_zh": "我们如何将AI图像验证引入Gemini应用",
@@ -1889,7 +1852,8 @@
     "summary_zh": "CEO们对独自承担枪支管制社会变革责任表示厌倦。",
     "best_quote_en": "\"CEOs are just one group of people and it's like we're turning to them to be our saviors on every topic.\"",
     "best_quote_zh": "CEO们只是人群中的一部分，但我们似乎把他们当成了解决所有问题的救世主。"
-  },{
+  },
+  {
     "id": 87,
     "title": "AI 开发者日报 2025-12-08",
     "title_zh": "AI 开发者日报 2025-12-08",
@@ -2098,7 +2062,8 @@
     "summary_zh": "马克·哈米尔与吉姆·阿科斯塔讨论卢克·天行者衍生剧，并对维德模仿做出反应。",
     "best_quote_en": "\"Actor Mark Hamill joins CNN's Jim Acosta to discuss his thoughts about a potential spinoff series based around his legendary 'Star Wars' character Luke Skywalker.\"",
     "best_quote_zh": "\"演员马克·哈米尔加入CNN的吉姆·阿科斯塔节目，讨论关于他传奇的《星球大战》角色卢克·天行者潜在衍生剧的想法。\""
-  },{
+  },
+  {
     "id": 96,
     "title": "How we’re supporting the next generation of innovators",
     "title_zh": "我们如何支持下一代创新者",
@@ -2283,4 +2248,77 @@
     "summary_zh": "拼多多购物应用含恶意软件，利用安卓漏洞监控用户和竞争对手活动。",
     "best_quote_en": "\"We haven't seen a mainstream app like this trying to escalate their privileges to gain access to things that they're not supposed to gain access to.\"",
     "best_quote_zh": "我们从未见过像这样的主流应用试图提升权限以获取它们不应访问的内容。"
-  }]
+  },
+  {
+    "id": 104,
+    "title": "AI 开发者日报 2025-12-09",
+    "title_zh": "AI 开发者日报 2025-12-09",
+    "source": "AI 开发者日报",
+    "link": "https://ainews.liduos.com/post/2025-12-09",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "Daily AI developer report covering automated model training, new multimodal architectures, and infrastructure updates for practical implementation.",
+    "summary_zh": "AI开发者日报涵盖自动化模型训练、新型多模态架构和基础设施更新。",
+    "best_quote_en": "\"One-line code\" fine-tuning pipeline, end-to-end completion",
+    "best_quote_zh": "“一行代码”微调流水线，端到端完成"
+  },
+  {
+    "id": 105,
+    "title": "Learn more about AI in the workplace in our new research report.",
+    "title_zh": "了解关于工作场所中AI的更多信息：我们的新研究报告",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/workspace/gemini-ai-workplace-research-report/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "A global survey shows AI-driven organizational transformation boosts innovation, reduces mundane work, and enhances creativity, moving beyond time-saving to expand potential.",
+    "summary_zh": "全球调查显示，AI驱动的组织转型能显著提升创新、减少琐事并增强创造力，其价值超越节省时间，在于拓展潜力。",
+    "best_quote_en": "The biggest gains from adopting AI aren’t about saving time — they’re about expanding potential.",
+    "best_quote_zh": "采用AI的最大收益不在于节省时间，而在于拓展潜力。"
+  },
+  {
+    "id": 106,
+    "title": "2025 at Google",
+    "title_zh": "2025 年的谷歌",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/look-back-2025/",
+    "tags": [
+      "inspire",
+      "science",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "Google's 2025 year-end review highlights key AI-powered launches and search trends across Chrome, YouTube, Photos, and Google TV.",
+    "summary_zh": "谷歌2025年终回顾展示Chrome、YouTube、Photos和Google TV的关键AI驱动发布和搜索趋势。",
+    "best_quote_en": "Our 2025 Year in Search film shows us a year where we reimagined the future and were inspired by the past.",
+    "best_quote_zh": "我们的2025年度搜索影片展示了一个重新构想未来并受过去启发的一年。"
+  }
+]
